@@ -1,0 +1,816 @@
+{
+  "exportType": "season_predictions",
+  "seasonType": "pre_season",
+  "label": "Pre-Season",
+  "exportedAt": "2026-03-05T19:50:39.291Z",
+  "predictions": {
+    "MiniMax": {
+      "drivers": [
+        "Max Verstappen",
+        "Lando Norris",
+        "Charles Leclerc",
+        "Oscar Piastri",
+        "George Russell",
+        "Lewis Hamilton",
+        "Kimi Antonelli",
+        "Pierre Gasly",
+        "Fernando Alonso",
+        "Carlos Sainz",
+        "Nico Hulkenberg",
+        "Alexander Albon",
+        "Gabriel Bortoleto",
+        "Liam Lawson",
+        "Ollie Bearman",
+        "Isack Hadjar",
+        "Esteban Ocon",
+        "Franco Colapinto",
+        "Lance Stroll",
+        "Arvid Lindblad",
+        "Valtteri Bottas",
+        "Sergio Perez"
+      ],
+      "constructors": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing",
+        "Alpine",
+        "Haas",
+        "Racing Bulls",
+        "Audi",
+        "Williams",
+        "Aston Martin",
+        "Cadillac"
+      ],
+      "fantasy": [
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which team will take the 2026 Constructors' Championship title?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will score the most Grand Prix Pole Positions this season?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many first-time Grand Prix winners will we see in 2026?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who wins the Grand Prix qualifying head-to-head at Cadillac this season?",
+          "selection": "Valtteri Bottas",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the season?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will win the DHL Fastest Lap Award this year?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team comes out on top in the Constructors’ battle?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "When will the Drivers' Championship be decided?",
+          "selection": "Las Vegas",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will 2026 see a new driver crowned Champion?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "drivers": [
+        "George Russell",
+        "Max Verstappen",
+        "Lando Norris",
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Oscar Piastri",
+        "Kimi Antonelli",
+        "Pierre Gasly",
+        "Carlos Sainz",
+        "Esteban Ocon",
+        "Ollie Bearman",
+        "Isack Hadjar",
+        "Liam Lawson",
+        "Fernando Alonso",
+        "Alexander Albon",
+        "Franco Colapinto",
+        "Nico Hulkenberg",
+        "Valtteri Bottas",
+        "Sergio Perez",
+        "Lance Stroll",
+        "Gabriel Bortoleto",
+        "Arvid Lindblad"
+      ],
+      "constructors": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing",
+        "Alpine",
+        "Haas",
+        "Racing Bulls",
+        "Williams",
+        "Audi",
+        "Aston Martin",
+        "Cadillac"
+      ],
+      "fantasy": [
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Antonelli",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which team will take the 2026 Constructors' Championship title?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will score the most Grand Prix Pole Positions this season?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many first-time Grand Prix winners will we see in 2026?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who wins the Grand Prix qualifying head-to-head at Cadillac this season?",
+          "selection": "Valtteri Bottas",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the season?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will win the DHL Fastest Lap Award this year?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team comes out on top in the Constructors’ battle?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "When will the Drivers' Championship be decided?",
+          "selection": "Earlier",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will 2026 see a new driver crowned Champion?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Anthropic": {
+      "drivers": [
+        "George Russell",
+        "Lando Norris",
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Oscar Piastri",
+        "Kimi Antonelli",
+        "Isack Hadjar",
+        "Pierre Gasly",
+        "Franco Colapinto",
+        "Nico Hulkenberg",
+        "Ollie Bearman",
+        "Liam Lawson",
+        "Arvid Lindblad",
+        "Alexander Albon",
+        "Carlos Sainz",
+        "Gabriel Bortoleto",
+        "Lance Stroll",
+        "Fernando Alonso",
+        "Valtteri Bottas",
+        "Esteban Ocon",
+        "Sergio Perez"
+      ],
+      "constructors": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing",
+        "Alpine",
+        "Haas",
+        "Racing Bulls",
+        "Williams",
+        "Audi",
+        "Aston Martin",
+        "Cadillac"
+      ],
+      "fantasy": [
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which team will take the 2026 Constructors' Championship title?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will score the most Grand Prix Pole Positions this season?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many first-time Grand Prix winners will we see in 2026?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who wins the Grand Prix qualifying head-to-head at Cadillac this season?",
+          "selection": "Sergio Perez",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the season?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will win the DHL Fastest Lap Award this year?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team comes out on top in the Constructors’ battle?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "When will the Drivers' Championship be decided?",
+          "selection": "Abu Dhabi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will 2026 see a new driver crowned Champion?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "drivers": [
+        "Max Verstappen",
+        "Charles Leclerc",
+        "George Russell",
+        "Lando Norris",
+        "Lewis Hamilton",
+        "Carlos Sainz",
+        "Oscar Piastri",
+        "Fernando Alonso",
+        "Alexander Albon",
+        "Nico Hulkenberg",
+        "Esteban Ocon",
+        "Pierre Gasly",
+        "Lance Stroll",
+        "Liam Lawson",
+        "Isack Hadjar",
+        "Ollie Bearman",
+        "Franco Colapinto",
+        "Valtteri Bottas",
+        "Sergio Perez",
+        "Kimi Antonelli",
+        "Gabriel Bortoleto",
+        "Arvid Lindblad"
+      ],
+      "constructors": [
+        "Red Bull Racing",
+        "Ferrari",
+        "Mercedes",
+        "McLaren",
+        "Williams",
+        "Haas",
+        "Alpine",
+        "Aston Martin",
+        "Racing Bulls",
+        "Audi",
+        "Cadillac"
+      ],
+      "fantasy": [
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which team will take the 2026 Constructors' Championship title?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will score the most Grand Prix Pole Positions this season?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many first-time Grand Prix winners will we see in 2026?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who wins the Grand Prix qualifying head-to-head at Cadillac this season?",
+          "selection": "Valtteri Bottas",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the season?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will win the DHL Fastest Lap Award this year?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team comes out on top in the Constructors’ battle?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "When will the Drivers' Championship be decided?",
+          "selection": "Abu Dhabi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will 2026 see a new driver crowned Champion?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "drivers": [
+        "George Russell",
+        "Charles Leclerc",
+        "Lando Norris",
+        "Max Verstappen",
+        "Oscar Piastri",
+        "Kimi Antonelli",
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Carlos Sainz",
+        "Alexander Albon",
+        "Pierre Gasly",
+        "Nico Hulkenberg",
+        "Esteban Ocon",
+        "Isack Hadjar",
+        "Ollie Bearman",
+        "Franco Colapinto",
+        "Liam Lawson",
+        "Arvid Lindblad",
+        "Lance Stroll",
+        "Valtteri Bottas",
+        "Sergio Perez",
+        "Gabriel Bortoleto"
+      ],
+      "constructors": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing",
+        "Haas",
+        "Alpine",
+        "Audi",
+        "Williams",
+        "Racing Bulls",
+        "Cadillac",
+        "Aston Martin"
+      ],
+      "fantasy": [
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which team will take the 2026 Constructors' Championship title?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will score the most Grand Prix Pole Positions this season?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many first-time Grand Prix winners will we see in 2026?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who wins the Grand Prix qualifying head-to-head at Cadillac this season?",
+          "selection": "Valtteri Bottas",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the season?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will win the DHL Fastest Lap Award this year?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team comes out on top in the Constructors’ battle?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "When will the Drivers' Championship be decided?",
+          "selection": "Abu Dhabi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will 2026 see a new driver crowned Champion?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "drivers": [
+        "George Russell",
+        "Charles Leclerc",
+        "Lando Norris",
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Oscar Piastri",
+        "Kimi Antonelli",
+        "Isack Hadjar",
+        "Pierre Gasly",
+        "Esteban Ocon",
+        "Ollie Bearman",
+        "Liam Lawson",
+        "Franco Colapinto",
+        "Carlos Sainz",
+        "Nico Hulkenberg",
+        "Arvid Lindblad",
+        "Alexander Albon",
+        "Gabriel Bortoleto",
+        "Sergio Perez",
+        "Valtteri Bottas",
+        "Fernando Alonso",
+        "Lance Stroll"
+      ],
+      "constructors": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing",
+        "Alpine",
+        "Haas",
+        "Racing Bulls",
+        "Audi",
+        "Williams",
+        "Cadillac",
+        "Aston Martin"
+      ],
+      "fantasy": [
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which team will take the 2026 Constructors' Championship title?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will score the most Grand Prix Pole Positions this season?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many first-time Grand Prix winners will we see in 2026?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who wins the Grand Prix qualifying head-to-head at Cadillac this season?",
+          "selection": "Valtteri Bottas",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the season?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will win the DHL Fastest Lap Award this year?",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team comes out on top in the Constructors’ battle?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "When will the Drivers' Championship be decided?",
+          "selection": "Abu Dhabi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will 2026 see a new driver crowned Champion?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "drivers": [
+        "Kimi Antonelli",
+        "Oscar Piastri",
+        "Max Verstappen",
+        "George Russell",
+        "Lando Norris",
+        "Lewis Hamilton",
+        "Charles Leclerc",
+        "Isack Hadjar",
+        "Ollie Bearman",
+        "Pierre Gasly",
+        "Franco Colapinto",
+        "Liam Lawson",
+        "Nico Hulkenberg",
+        "Gabriel Bortoleto",
+        "Esteban Ocon",
+        "Carlos Sainz",
+        "Arvid Lindblad",
+        "Alexander Albon",
+        "Fernando Alonso",
+        "Lance Stroll",
+        "Valtteri Bottas",
+        "Sergio Perez"
+      ],
+      "constructors": [
+        "McLaren",
+        "Mercedes",
+        "Ferrari",
+        "Red Bull Racing",
+        "Haas",
+        "Alpine",
+        "Audi",
+        "Racing Bulls",
+        "Williams",
+        "Aston Martin",
+        "Cadillac"
+      ],
+      "fantasy": [
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Antonelli",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which team will take the 2026 Constructors' Championship title?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will score the most Grand Prix Pole Positions this season?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many first-time Grand Prix winners will we see in 2026?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who wins the Grand Prix qualifying head-to-head at Cadillac this season?",
+          "selection": "Valtteri Bottas",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the season?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will win the DHL Fastest Lap Award this year?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team comes out on top in the Constructors’ battle?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "When will the Drivers' Championship be decided?",
+          "selection": "Sao Paulo",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will 2026 see a new driver crowned Champion?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "drivers": [
+        "George Russell",
+        "Charles Leclerc",
+        "Max Verstappen",
+        "Lando Norris",
+        "Lewis Hamilton",
+        "Oscar Piastri",
+        "Kimi Antonelli",
+        "Pierre Gasly",
+        "Ollie Bearman",
+        "Carlos Sainz",
+        "Esteban Ocon",
+        "Fernando Alonso",
+        "Liam Lawson",
+        "Alexander Albon",
+        "Sergio Perez",
+        "Lance Stroll",
+        "Nico Hulkenberg",
+        "Franco Colapinto",
+        "Isack Hadjar",
+        "Gabriel Bortoleto",
+        "Valtteri Bottas",
+        "Arvid Lindblad"
+      ],
+      "constructors": [
+        "Mercedes",
+        "Ferrari",
+        "McLaren",
+        "Red Bull Racing",
+        "Haas",
+        "Alpine",
+        "Williams",
+        "Aston Martin",
+        "Racing Bulls",
+        "Audi",
+        "Cadillac"
+      ],
+      "fantasy": [
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the top 3 drivers",
+          "selection": "Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which team will take the 2026 Constructors' Championship title?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will score the most Grand Prix Pole Positions this season?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many first-time Grand Prix winners will we see in 2026?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who wins the Grand Prix qualifying head-to-head at Cadillac this season?",
+          "selection": "Valtteri Bottas",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the season?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will win the DHL Fastest Lap Award this year?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team comes out on top in the Constructors’ battle?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "When will the Drivers' Championship be decided?",
+          "selection": "Abu Dhabi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will 2026 see a new driver crowned Champion?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  }
+}

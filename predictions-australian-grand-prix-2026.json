@@ -1,0 +1,689 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "australia-2026",
+  "raceName": "Australian Grand Prix",
+  "isSprint": false,
+  "exportedAt": "2026-03-05T11:30:18.357Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.6",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Lando Norris",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Antonelli\",\"reasoning\":\"Multiple Sky Sports pundits have Mercedes as the class of the field, with Rachel Brookes even predicting an all-Mercedes podium including Antonelli in P3. The new 2026 regulations are a great equalizer - no driver has extensive experience with these cars, which levels the playing field between rookies and veterans. Antonelli showed flashes of brilliance in 2025 and now has a full season under his belt. If Mercedes truly has the best race package as testing suggested, and if the energy management chaos of a brand-new regulation era creates attrition among frontrunners, Antonelli could steal a shock victory in only his second season. Melbourne's unpredictability plus new regs plus a potentially dominant car equals a wild opportunity for the young Italian.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Aston Martin is in catastrophic shape heading into Melbourne. According to ABC News, Adrian Newey confirmed the car has severe vibration issues that transmit into the drivers' fingers, with Alonso saying he can't do more than 25 laps and Stroll only 15 laps before risking permanent nerve damage. The team had the slowest car in preseason testing, their battery has reliability issues, and they've made no progress on the vibration problem. Newey has essentially confirmed they cannot finish the 58-lap race. This is a historic-level flop for a team with Adrian Newey as team principal and Honda as their new engine partner. They may not even start, let alone finish.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"George Russell is the overwhelming favorite across nearly every Sky Sports F1 pundit prediction for the Australian GP winner, and Mercedes looked like the strongest overall race package in testing. However, I'm picking him as a 'good surprise' because the bookies' pre-season championship favorite doesn't always deliver at round one. The new energy management regulations suit his composed, disciplined driving style perfectly - Melbourne's 71.5% full-throttle layout demands restraint and battery management, which is Russell's forte. If Mercedes reliability holds, he could dominate in a way that surprises even his supporters.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a driver into Q3?",
+          "selection": "6 teams",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team scores the highest race finishing position?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where will Isack Hadjar finish the race?",
+          "selection": "4th-11th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 5 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V3.2",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Oscar Piastri",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Antonelli\",\"reasoning\":\"Sky Sports pundits like Rachel Brookes included Kimi Antonelli in their Australian GP podium predictions [skysports.com]. As a highly-touted rookie in a Mercedes team that Fox Sports says is 'exuding quiet confidence' and arrived as the pre-season favourite, a podium in his debut race would be a stunning achievement. The new regulations could mix up the order, and Mercedes' strong testing form makes this a bold but plausible shock result.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"A news report from ABC News details severe issues with the Aston Martin car, specifically a vibration problem that drivers Alonso and Stroll say could cause 'permanent nerve damage' to their hands if they drive more than 15-25 laps [abc.net.au]. Team Principal Adrian Newey confirmed the team will be 'heavily restricted' on laps and may not even finish the race. This points to a catastrophic weekend where the team might not score points or even have both cars finish.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Based on the Fox Sports analysis, Williams was not mentioned among the teams with major concerns, unlike Aston Martin which is reportedly dealing with severe vibration issues that could prevent them from finishing the race [foxsports.com.au]. The article suggests McLaren might start defensively and Aston Martin is in crisis, potentially opening the door for a midfield team like Williams to capitalize on others' problems and score unexpected points.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies highest?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a driver into Q3?",
+          "selection": "6 teams",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team scores the highest race finishing position?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where will Isack Hadjar finish the race?",
+          "selection": "11th-22nd",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 5 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Lando Norris",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Verstappen\",\"reasoning\":\"Max has explicitly complained that the new 2026 cars are 'not so fun' because of the intense energy management required [abc.net.au](http://www.abc.net.au/news/2026-03-05/oscar-piastri-says-mclaren-is-not-f1-favourite-melbourne/106417492). Combined with Red Bull looking slightly behind Ferrari and Mercedes in testing, Max will struggle with the new driving style and finish off the podium.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Rumors are swirling about massive reliability issues with Aston Martin's new 2026 package. There are even whispers they might treat the race as an extended test session just to see if the car can finish [youtube.com](https://www.youtube.com/watch?v=oxt42bg5DkE), making them a prime candidate to struggle or double-DNF.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"McLaren's Zak Brown and Andrea Stella explicitly stated that Ferrari looks 'a step ahead' and are the early favorites under the 2026 regulations [planetf1.com](https://www.planetf1.com/news/oscar-piastri-mclaren-mcl40-australian-grand-prix-2026-back). With the new active aero and 50/50 power units, Ferrari's strong testing pace should translate to a dominant performance in Melbourne.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies highest?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a driver into Q3?",
+          "selection": "5 Teams",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team scores the highest race finishing position?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where will Isack Hadjar finish the race?",
+          "selection": "4th-11th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 5 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.2",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Max Verstappen",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Haas\",\"reasoning\":\"Bold call: Haas podium (yes, in Round 1). The Ferrari-powered Haas showed flashes of genuine pace in testing (both in headline laps and enough indications that the underlying platform isn’t a tractor under the new rules). If the top teams are tightly matched and we get the usual Albert Park chaos (Safety Car timing, track evolution, strategy splits), Haas is the kind of team that can ‘accidentally’ find itself running P3–P5 late. All it takes is one perfectly timed stop plus clean driving to convert an unlikely podium.\"}",
+          "isTeam": true
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"The Honda-era Aston Martin project has been dominated by vibration and battery-damage headlines coming out of testing, plus explicit concerns about how hard the drivers can push for sustained runs. Even if they’ve implemented partial fixes, Melbourne is a high-speed, bumpy-ish street circuit with big braking events and lots of kerb commitment—exactly the kind of environment that can re-trigger oscillations, compromise drivability, and force mileage/pace limitations. Result: likely Q1/Q2 struggle and elevated DNF risk.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Audi\",\"reasoning\":\"Testing chatter suggests Audi’s concept has drawn attention for its aggressive aero philosophy, even if early runs included some lost track time. With a new-regs reset and Albert Park’s heavy-braking, traction-sensitive corners, a well-balanced package can jump the pecking order quickly. If Audi’s reliability stabilises and they nail tyre warm-up in cooler Melbourne sessions, a surprise Q3 appearance and solid points haul look very live.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies highest?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a driver into Q3?",
+          "selection": "7 teams",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team scores the highest race finishing position?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where will Isack Hadjar finish the race?",
+          "selection": "4th-11th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 5 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.1",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Oscar Piastri",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Rookie Isack Hadjar stuns the paddock by taking a podium at Red Bull in his home grand prix? Wait, no, Australia—but with Red Bull's strong chassis despite fewer laps, and bold Sky F1 predictions of Hadjar podium in first half and even a race win this season, this unlikely Red Bull 1-2 with rookie ahead of Verstappen becomes reality amid new regs chaos.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Aston Martin had a disastrous pre-season with the fewest laps overall (2111 km combined, just 128 in Bahrain test two), plagued by Honda power unit vibrations destroying batteries, gearbox issues, parts shortages, and slowest times (Alonso 1m36.5s). Experts predict they won't finish Melbourne and will fight Cadillac for last in standings.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Bearman\",\"reasoning\":\"Haas showed impressive reliability in pre-season testing with one of the highest lap counts (3rd in Bahrain test two with 404 laps), placing them solidly in midfield. Ollie Bearman, as a promising rookie, is tipped by Sky Sports F1's David Croft for a podium finish, exceeding expectations for Haas who are projected for points contention but could surprise higher in the chaotic new regulations at Albert Park.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Piastri",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies highest?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a driver into Q3?",
+          "selection": "6 teams",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team scores the highest race finishing position?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where will Isack Hadjar finish the race?",
+          "selection": "4th-11th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 5 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Max Verstappen",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Lindblad scores points on debut",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Williams",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "Hamilton",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a driver into Q3?",
+          "selection": "7 teams",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team scores the highest race finishing position?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where will Isack Hadjar finish the race?",
+          "selection": "4th-11th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 5 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "Fewer than 16",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.5",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Oscar Piastri",
+        "podium_p3": "Lando Norris",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Lindblad\",\"reasoning\":\"Arvid Lindblad will win the Australian Grand Prix in his Formula 1 debut, becoming the youngest winner in history at just 18 years old. The 2026 regulation reset effectively wipes the slate clean, allowing a generational rookie talent to immediately compete at the front. Driving for Racing Bulls (or shockingly promoted to Red Bull), Lindblad will navigate a chaotic Melbourne race featuring mid-race rain and multiple Safety Cars. He'll make a bold strategy call to pit for slicks early on drying track, overcutting the field and defending brilliantly from Verstappen and Leclerc in the final laps to take an impossible victory.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Aston Martin will suffer a nightmare start to the 2026 season due to the perfect storm of new regulations and their transition to Honda power units. The team has historically struggled with early-season development cycles, and the 2026 engine/chassis reset will expose their infrastructure limitations. Alonso will be 44-45 years old and unable to adapt his driving style to the significantly different aerodynamic concepts, while Stroll has consistently shown poor performance when car fundamentals change. They'll qualify in the bottom four with both cars eliminated in Q1.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"The 2026 regulation reset creates a perfect storm for Isack Hadjar to shine. As a sophomore driver (likely at Racing Bulls or potentially promoted to Red Bull), he lacks the muscle memory from previous eras that hampers veteran drivers. His exceptional wet-weather skills and adaptability shown in F2 will translate perfectly to the radically different 2026 cars. At Melbourne's Albert Park, which often features variable conditions, Hadjar will outqualify his teammate and secure a shock top-6 finish, announcing himself as the next generational talent.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a driver into Q3?",
+          "selection": "7 teams",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team scores the highest race finishing position?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where will Isack Hadjar finish the race?",
+          "selection": "4th-11th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 5 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.5",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Charles Leclerc\",\"reasoning\":\"Leclerc is predicted to take pole position by multiple analysts, but here's the crazy part - he wins the race too. Ferrari showed confident form in testing with their straight-line speed focus, and with Mercedes potentially having reliability niggles and McLaren not quite at their best, Leclerc could convert pole into victory. It would be Ferrari's first season-opening win in years and a massive statement after a difficult 2025.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"The vibration issues are catastrophic - Fernando Alonso can only drive 25 laps before risking permanent nerve damage, Lance Stroll just 15 laps. Adrian Newey has all but confirmed they cannot finish the 58-lap race. This is almost certainly a DNS or DNF situation, making Aston Martin the clear underperformer this weekend.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Oscar Piastri\",\"reasoning\":\"Piastri has home crowd support at Albert Park and McLaren has shown solid, reliable form in testing. While the team expects to start defensively, Piastri could capitalize on any chaos from the new ERS systems and pull off a surprise podium at his home race. The McLaren package appears reliable, which could be crucial in a race where energy management and finishing matter more than outright pace.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies highest?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a driver into Q3?",
+          "selection": "8 teams ",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team scores the highest race finishing position?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where will Isack Hadjar finish the race?",
+          "selection": "4th-11th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 5 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  }
+}
