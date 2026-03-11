@@ -1,0 +1,570 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "china-2026",
+  "raceName": "Chinese Grand Prix",
+  "isSprint": true,
+  "exportedAt": "2026-03-11T21:45:37.346Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.6",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Kimi Antonelli",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Isack Hadjar publicly urged Red Bull to 'do better' after his Australian GP retirement, showing both frustration and hunger. Red Bull has historically been strong at Shanghai, and the team will be under immense pressure to respond after a poor opener. With a sprint weekend format offering more track time and opportunities, and Hadjar's raw speed as a rookie eager to prove himself, a podium finish — perhaps aided by attrition in these fragile new 2026 cars — is unlikely but not impossible. If Red Bull fixes its issues quickly, Hadjar could be the surprise beneficiary over the more established Verstappen who may still be fine-tuning.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Fernando Alonso himself has delivered a 'brutal' and 'bleak' prediction for China, saying 'it will be no different' from Australia where both he and Stroll retired with severe Honda power unit vibration issues. The team has already burned through 2 of its 4 allocated Honda batteries after just one race. Adrian Newey raised health concerns about nerve damage from vibrations. With the same car and same power unit, and a sprint weekend giving even less time to find fixes, Aston Martin is almost certain to underperform again. Predicting the team doubles the stakes but seems very safe here.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Bearman\",\"reasoning\":\"Oliver Bearman made a 'video game comparison' about the 2026 cars after the Australian GP opener, suggesting he's adapting quickly to the new regulations. Haas has historically performed well at Shanghai's mix of high and low-speed corners. With the new 2026 regulations creating a more level playing field and Bearman's evident enthusiasm and adaptability, he could punch above Haas's expected weight class this weekend, potentially scoring solid points in what is also the first sprint weekend of the season — extra chances for a strong result.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's the first Sprint of 2026, where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Lawson",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix highest?",
+          "selection": "Albon",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V3.2",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Max Verstappen",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Antonelli\",\"reasoning\":\"Kimi Antonelli secured a stunning P2 in Australia for Mercedes. The crazy prediction is that he will win the Chinese Grand Prix. The Mercedes car looks strong, and Antonelli has immediately shown elite pace. In the cold conditions and with the potential for a chaotic sprint weekend affecting setup for other teams, the young rookie could pull off a shock victory, capitalizing on any misfortune for teammate George Russell and the Ferraris. The preview from [ryaneckfordsports.wordpress.com](https://ryaneckfordsports.wordpress.com/2026/03/10/2026-chinese-grand-prix-preview/) notes Mercedes started the era in style with a 1-2, showing the car's potential.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Fernando Alonso has publicly stated he expects 'another tough weekend' in China, citing the same car and power unit issues that plagued them in Australia. The team is dealing with severe Honda vibration problems and a critical shortage of batteries. With a sprint weekend format, there is less time to fix issues between sessions, which will exacerbate their reliability woes. A double retirement or non-classification is a strong possibility. [motorsportweek.com](https://www.motorsportweek.com/2026/03/08/fernando-alonso-delivers-brutal-chinese-gp-prediction-after-f1-australian-gp/) and [si.com](https://www.si.com/onsi/f1/news/fernando-alonso-gives-bleak-aston-martin-prediction-for-chinese-gp) both detail Alonso's bleak assessment.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Williams showed decent race pace in Australia and managed to finish with both cars. The cold conditions predicted for Shanghai could play to their car's strengths, particularly in tire management. With other teams like Aston Martin and potentially Alpine struggling with fundamental reliability, a clean weekend from Williams could see them capitalize and score solid points, which would be above expectations for a team often fighting in the lower midfield. [motorsportweek.com](https://www.motorsportweek.com/2026/03/08/fernando-alonso-delivers-brutal-chinese-gp-prediction-after-f1-australian-gp/) highlights the severe struggles of other teams, opening the door for a midfield surprise.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": []
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Kimi Antonelli",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Max Verstappen\",\"reasoning\":\"Following a 'super frustrating' season opener where he heavily criticized the new 2026 'Mario Kart' regulations and prompted rumors about quitting F1 [espn.com](https://www.espn.com/f1/story/_/id/48152827/chinese-grand-prix-2026-race-f1-sprint-start-s-how-watch-schedule-shanghai-tv-channel-live-stream-predictions-results), Verstappen's frustrations will boil over. Struggling with Red Bull's current pace, he will have a massive radio meltdown aimed at his engineer [gpblog.com](https://www.gpblog.com/en/news/max-verstappen-called-up-by-the-fia-ahead-of-the-chinese-grand-prix) and dramatically finish completely outside the top 5.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"The team is currently in a disastrous state under the new 2026 regulations. Severe issues with the new Honda power unit's energy deployment have reportedly left their drivers fearing for their safety, which will be painfully exposed on Shanghai's massive back straight [espn.com](https://www.espn.com/f1/story/_/id/48152827/chinese-grand-prix-2026-race-f1-sprint-start-s-how-watch-schedule-shanghai-tv-channel-live-stream-predictions-results).\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari is fast-tracking a highly anticipated 'Macarena' rear wing concept for Shanghai [gpblog.com](https://www.gpblog.com/en/news/max-verstappen-called-up-by-the-fia-ahead-of-the-chinese-grand-prix). Additionally, China's heavy braking zones will allow better energy recovery than the previous round in Australia, letting Ferrari utilize their strong low-end torque to genuinely challenge Mercedes for the win [scuderiafans.com](https://scuderiafans.com/china-ferrari-eyes-opportunity-as-energy-management-may-narrow-mercedes-lead/).\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's the first Sprint of 2026, where does Lewis Hamilton finish?",
+          "selection": "4th-10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix highest?",
+          "selection": "Albon",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.2",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Kimi Antonelli",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Lindblad\",\"reasoning\":\"High-variance weekend setup: Sprint format compresses learning time, Shanghai’s long corners/tyre stress and the possibility of mixed conditions can scramble the order, and Lindblad already demonstrated he can run near the front in the season opener when races get messy. ([apnews.com](https://apnews.com/article/352eab6afa3a55d6230d279501148370?utm_source=openai)) The bold call: Lindblad takes a shock GRAND PRIX podium on Sunday (not just Sprint points) via a perfectly timed stop/safety car + others tripping over tyre wear or reliability.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"Melbourne looked like damage limitation: Norris was a distant P5 (over 50s back), and Piastri’s pre-race crash from an unexpected power delivery moment is a red flag for drivability/torque management under the 2026 regs—exactly the kind of issue that’s hard to fully iron out on a Sprint weekend with limited practice time. ([apnews.com](https://apnews.com/article/352eab6afa3a55d6230d279501148370?utm_source=openai)) If Shanghai brings even a hint of mixed conditions, that sensitivity can get punished further. ([planetf1.com](https://www.planetf1.com/news/f1-weather-forecast-2026-chinese-grand-prix?utm_source=openai)) My prediction is McLaren underperform relative to “title-favourite” expectations: no podium, and at least one car fails to score meaningful points across Sprint + GP.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Racing Bulls\",\"reasoning\":\"Shanghai being the first Sprint weekend of 2026 means only one practice session before Sprint Qualifying, which tends to reward teams that arrive with a solid baseline and can execute cleanly under time pressure. ([en.wikipedia.org](https://en.wikipedia.org/wiki/2026_Chinese_Grand_Prix?utm_source=openai)) Lindblad already showed immediate race-readiness in Melbourne (points on debut and even running as high as P4 during the race), suggesting Racing Bulls’ package and operations are in a good place early in the new-regs era. ([apnews.com](https://apnews.com/article/352eab6afa3a55d6230d279501148370?utm_source=openai)) My call: Racing Bulls over-deliver with a “double points” weekend (Sprint points + both cars in the top 10 on Sunday).\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": []
+    },
+    "xAI": {
+      "predictor": "Grok 4.1",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Charles Leclerc",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"bearman\",\"reasoning\":\"Ollie Bearman impressed with P7 finish in Australia for Haas beating established midfielders like Verstappen; bold prediction: amid sprint chaos, reliability failures in top teams, and Haas pace, Bearman scores his first F1 podium in China.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"aston-martin\",\"reasoning\":\"Aston Martin had a disastrous Australia with both cars failing to finish due to reliability issues; their Honda package is the weakest on the grid and expected to struggle further on Shanghai's demanding layout without quick fixes.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"ferrari\",\"reasoning\":\"Ferrari showed strong pace in Australia finishing P3 and P4 but lost positions due to strategy; bringing aggressive upgrades like new rear wing designs to Shanghai, where the track's long straights and energy demands better suit their efficient turbo setup, likely to outperform expectations and fight Mercedes at the front.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's the first Sprint of 2026, where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix highest?",
+          "selection": "Albon",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "Max Verstappen",
+        "pole": "Charles Leclerc",
+        "sprint_pole": "Lewis Hamilton",
+        "sprint_winner": "Lewis Hamilton"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "3 or more teams on the podium, combining sprint and race",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Russell",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "Hamilton",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's the first Sprint of 2026, where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix highest?",
+          "selection": "Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.5",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Charles Leclerc",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {},
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's the first Sprint of 2026, where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix highest?",
+          "selection": "Albon",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "More than 19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.5",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Oscar Piastri\",\"reasoning\":\"McLaren appeared slightly behind the front two teams in Australia, but Piastri has shown he thrives in sprint formats and tricky conditions. With only one practice session before sprint qualifying, teams that arrive with strong baseline setups gain an advantage. Shanghai's layout allows more overtaking opportunities (31 last year), and if Piastri can qualify well, he could capitalize on any Mercedes-Ferrari battle ahead to grab a surprise podium - or even win if chaos ensues. The Australian young gun has the skill to pull off something unexpected.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Fernando Alonso himself admitted 'I expect another tough weekend' and 'it will be no different' from Australia. The Honda power unit vibrations remain a critical issue - they've already gone through 2 of 4 batteries this early in the season. Both Alonso and Stroll retired in Melbourne, and with the same problematic package heading to China, Aston Martin is destined for another difficult weekend at the back of the grid.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari showed strong pace in Australia and Charles Leclerc nearly challenged for the win before strategic issues. With Shanghai's better energy management characteristics (57% full throttle vs Melbourne's 71.5%), Ferrari's strong launch performance could shine. The sprint format favors teams that can extract performance quickly from limited practice, and Ferrari has the raw pace to challenge Mercedes more effectively than in Melbourne.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's the first Sprint of 2026, where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Lawson",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix highest?",
+          "selection": "Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  }
+}
