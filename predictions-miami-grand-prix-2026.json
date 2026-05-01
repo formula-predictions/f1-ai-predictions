@@ -1,0 +1,705 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "miami-2026",
+  "raceName": "Miami Grand Prix",
+  "isSprint": true,
+  "exportedAt": "2026-05-01T14:41:12.923Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"The race is red-flagged and suspended due to lightning, with a delay of 30+ minutes before resuming\",\"reasoning\":\"AccuWeather forecasts an 88% chance of rain and 53% chance of thunderstorms at race time. Miami law requires sporting events to be suspended for nearby lightning, with a mandatory 30-minute wait after the last thunderclap before resuming. Combined with the new FIA wet-weather rules (banned boost button, no rear wing DRS), this is a perfect storm for an unprecedented lightning-induced race suspension. [sports.yahoo.com](https://sports.yahoo.com/articles/anyone-beat-mercedes-miami-2026-130924860.html)\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Verstappen\",\"reasoning\":\"Red Bull is in a deep slump, Verstappen is openly contemplating quitting F1, and his race engineer Lambiase has announced he's leaving for McLaren. Red Bull has been hit-and-miss with upgrades for years. With only 90 minutes of practice before sprint qualifying on a sprint weekend, if their Miami upgrade doesn't work - which has happened repeatedly - Verstappen could have a miserable weekend. His head clearly isn't fully in it. [foxsports.com.au](https://www.foxsports.com.au/motorsport/formula-one/f1-2026-miami-grand-prix-preview)\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"McLaren is bringing an entirely new MCL40 to Miami with completely overhauled aerodynamics (front/rear brake ducts, bodywork, floor, rear wing). Andrea Stella confirmed this is the big upgrade they've been building toward. Piastri was already fighting for the win in Japan, and Miami historically suits McLaren - remember the 2024 Miami upgrade that transformed their season. With Piastri having won here in 2025 and a chaotic wet forecast favoring McLaren's strategy team, they could legitimately challenge Mercedes for victory. [planetf1.com](https://www.planetf1.com/news/martin-brundle-ferrari-upgrades-mercedes-mclaren-f1-2026-fight)\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's our 2nd Sprint of 2026, where does Lando Norris finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will...",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leads the Drivers' Championship after the Miami Grand Prix?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "George Russell",
+        "sprint_pole": "Kimi Antonelli",
+        "sprint_winner": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"The race is red-flagged for lightning or thunder in the vicinity of the circuit\",\"reasoning\":\"Miami law requires all sporting events to be suspended immediately if lightning or thunder is detected nearby, with a mandatory 30-minute wait after the last thunderclap before any activity resumes. Sunday's forecast specifically calls for thunderstorms and heavy rain arriving around race time. The 2026 cars have never raced in wet conditions, and with the pre-emptive FIA ban on the boost button and DRS in the wet, the combination of untested machinery and a lightning-enforced red flag could create unprecedented scenes. This is a uniquely Miami risk that no other circuit on the calendar faces to the same regulatory degree.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull has a well-documented history of hit-and-miss upgrade packages in recent years, often finding themselves down developmental dead-ends. They are expected to bring a major upgrade to Miami, but if it fails to deliver — as several of their past mid-season updates have — they risk falling even further behind Mercedes, McLaren, and Ferrari. Verstappen's open quit threats and the looming departure of race engineer Gianpiero Lambiase point to a team under internal strain. Wet conditions could further expose any correlation issues with their new parts.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Haas\",\"reasoning\":\"The five-week break has given all teams time for major upgrades, and Haas could arrive with an effective package under the radar. As the only American team on the grid, the Miami home race provides extra motivation. With thunderstorms forecast and the new 2026 cars largely untested in wet conditions, the chaotic environment could allow a midfield team like Haas to punch above its weight — especially with the boost button banned in the wet, potentially levelling the power unit playing field.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Piastri",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's our 2nd Sprint of 2026, where does Lando Norris finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will...",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leads the Drivers' Championship after the Miami Grand Prix?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Oscar Piastri",
+        "podium_p3": "Max Verstappen",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Five or more cars retire due to power unit overheating issues.\",\"reasoning\":\"Miami's extreme heat and humidity, combined with the unproven reliability of the brand new 2026 power units and their massive 50/50 electrical dependency, will lead to an epidemic of thermal management failures and widespread mechanical DNFs across the grid.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"George Russell\",\"reasoning\":\"Mercedes has historically struggled to find the right setup window on bumpy, temporary street circuits. Combined with the new 2026 active aero regulations and the extreme track temperatures in Miami, tire degradation will be a nightmare for Russell, causing him to plummet down the order during the race stints.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Cadillac\",\"reasoning\":\"As the new American team on the grid for 2026, Cadillac will bring a heavily anticipated, specialized low-drag upgrade package to their first home race. The long straights of the Miami International Autodrome will perfectly suit their setup, allowing them to overperform expectations and genuinely fight for a double points finish in front of the home crowd.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's our 2nd Sprint of 2026, where does Lando Norris finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will...",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leads the Drivers' Championship after the Miami Grand Prix?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Lightning suspends the race\",\"reasoning\":\"Sunday’s Miami forecast carries thunderstorm risk around the likely race window, and Miami’s FIA/event safety protocols make lightning a genuine stoppage threat. It’s unlikely enough to be bold, but with humid Florida weather, a street-style circuit, and a Sprint weekend already compressing preparation, a weather-related suspension is a plausible chaos event.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull are bringing updates, but the baseline has looked too far away: Verstappen was only eighth in Japan, Red Bull have been described as well adrift of Mercedes in the constructors’ picture, and Hadjar himself has cautioned that the Miami upgrade will not fix everything. A bumpy, hot, Sprint-weekend Miami with limited setup time is exactly the kind of place where a team still fighting correlation and drivability issues can look messy, so I’m predicting their much-hyped upgrade weekend disappoints.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"Mercedes arrive as the clear benchmark after winning the opening races, but Miami looks like the first real reset point: McLaren have been targeting this weekend for a major upgrade push, they already showed stronger race pace with Piastri second in Japan, and the Sprint format plus only one practice session increases the chance that a well-correlated aero package jumps them into victory contention immediately. Miami has also been a historically good upgrade venue for McLaren, so I’m backing them to beat expectations and seriously threaten Mercedes rather than merely collect solid points.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's our 2nd Sprint of 2026, where does Lando Norris finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will...",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "More than 19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leads the Drivers' Championship after the Miami Grand Prix?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Oscar Piastri",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"Miami's street-circuit layout with tight walls, heavy braking zones, and high chance of incidents (50%+ historical safety car rate) combined with 2026's active aero, new energy deployment rules, and potential rain on Sunday increases chaos risk. Rookie-heavy grid, big upgrade packages causing unpredictable handling, and sprint weekend fatigue make multiple incidents (including possible red flag) highly plausible in a disruptive race.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull has struggled badly in the early 2026 season with an undrivable, overweight car despite a strong Ford power unit, leaving Verstappen and Hadjar in the lower points. While bringing significant weight-saving and aero upgrades to Miami (including possible Macarena rear wing), expectations are tempered with no miracles anticipated. The fundamental issues likely persist against upgraded rivals like Ferrari and McLaren, leading to another disappointing weekend fighting in the midfield at best.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"After a poor start to 2026 with reliability woes and lack of pace compared to dominant Mercedes, McLaren is introducing a major 'entirely new car' upgrade package focused on aero, floor, wing, and brake ducts. This is their first big development step since the season began, and history shows they excel at executing big upgrades effectively (as in past Miami races). The track's technical sections should suit their chassis better post-update, allowing Norris or Piastri to challenge for podiums or even a win in a sprint weekend.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's our 2nd Sprint of 2026, where does Lando Norris finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will...",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leads the Drivers' Championship after the Miami Grand Prix?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "The two Mercedes collide either in the sprint or the race",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Mercedes",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "Williams",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's our 2nd Sprint of 2026, where does Lando Norris finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will...",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leads the Drivers' Championship after the Miami Grand Prix?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Max Verstappen",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Lando Norris",
+        "sprint_pole": "Max Verstappen",
+        "sprint_winner": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"The race is red-flagged due to lightning near the circuit, forcing a lengthy delay under Miami's severe weather compliance laws.\",\"reasoning\":\"The Sunday forecast specifically calls for thunderstorms and heavy rain beginning at around race time. Uniquely, Miami law requires sporting events to be suspended if lightning is detected nearby, with official guidance mandating that activity cannot resume until 30 minutes after the last thunderclap [foxsports.com.au](https://www.foxsports.com.au/motorsport/formula-one/f1-2026-miami-grand-prix-preview-oscar-piastri-chances-of-winning-with-mclaren-major-upgrade-weather-forecast-could-derail-race-talking-points-analysis/news-story/b5ef1555e02808355873c7d649088f56). This creates a very real possibility of a race interruption that has nothing to do with on-track incidents—a genuinely crazy but meteorologically grounded scenario for the Miami Grand Prix.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull Racing has been in a deep form slump and Max Verstappen is openly unhappy with the team's direction. The team has a worrying recent record of being 'hit and miss' with update packages and frequently finding itself down developmental dead-ends [foxsports.com.au](https://www.foxsports.com.au/motorsport/formula-one/f1-2026-miami-grand-prix-preview-oscar-piastri-chances-of-winning-with-mclaren-major-upgrade-weather-forecast-could-derail-race-talking-points-analysis/news-story/b5ef1555e02808355873c7d649088f56). With the team pulling out stops purely to keep Verstappen engaged amid exit rumors, another 'fizzer' of an upgrade package could see them fall further back rather than close the gap to the front.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"McLaren is bringing an 'entirely new' MCL40 with major aerodynamic upgrades specifically timed for the North American races, and the team has proven history of game-changing upgrades in Miami—most notably in 2024 when a similar package transformed them from midfielders into race winners [foxsports.com.au](https://www.foxsports.com.au/motorsport/formula-one/f1-2026-miami-grand-prix-preview-oscar-piastri-chances-of-winning-with-mclaren-major-upgrade-weather-forecast-could-derail-race-talking-points-analysis/news-story/b5ef1555e02808355873c7d649088f56). Oscar Piastri also has exceptional Miami form, nearly taking his maiden win here in 2024 and winning last year. After being Mercedes' closest challenger in Japan with what the team calls a basic car, the fully developed package could vault them directly into victory contention.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's our 2nd Sprint of 2026, where does Lando Norris finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will...",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leads the Drivers' Championship after the Miami Grand Prix?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "Charles Leclerc",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Race halted by lightning for extended period with multiple Safety Car restarts, resulting in an order-shuffling finish outside the top 3 current championship contenders\",\"reasoning\":\"Sunday's forecast predicts thunderstorms and heavy rain at race time in Miami, where local law mandates suspension of events during nearby lightning. The FIA has already banned the boost button in wet sessions for these new 2026 cars, which are still relatively unknown in low-grip conditions. With the entire grid bringing untested upgrades to a sprint weekend with minimal practice, chaotic wet conditions could create multiple Safety Car periods and red flags. One strategic gamble or well-timed restart could vault an unexpected driver to victory - particularly given Ferrari's predicted power unit gains and McLaren's upgrade confidence. This would completely shake up the championship narrative.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Max Verstappen's explicit quit threat and growing dissatisfaction with the sport, combined with news his race engineer Gianpiero Lambiase is leaving for McLaren at end of 2027, creates a toxic atmosphere. Red Bull has a documented history of hit-and-miss update packages, often finding developmental dead-ends. With only one 90-minute practice session before sprint qualifying, there's minimal time to optimize their major upgrade. If the update fails to work, Verstappen's already-fragile mental state could spiral further, making Red Bull the weekend's biggest disappointment.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"McLaren is bringing an 'entirely new car' to Miami - the MCL40 - which Andrea Stella confirms represents a 'significant step' with their Mercedes power unit. This team has proven history of game-changing Miami upgrades (2024), transforming from midfielders to race winners overnight. Oscar Piastri won here last year and was outstanding in Japan before the break. With an extended 90-minute FP1 to dial in their new package, McLaren's upgrade could close the gap to Mercedes significantly and make them genuine victory contenders this weekend.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 3
+        },
+        {
+          "question": "It's our 2nd Sprint of 2026, where does Lando Norris finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will...",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leads the Drivers' Championship after the Miami Grand Prix?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "japan-2026",
+  "raceName": "Japanese Grand Prix",
+  "isSprint": false,
+  "exportedAt": "2026-03-24T11:43:52.852Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.6",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Rain causes a red flag during qualifying on Saturday, and the grid is set with a massive upset in the top 5\",\"reasoning\":\"Saturday carries the highest chance of rain according to forecasts, with showers expected in the afternoon — exactly when qualifying is scheduled. Suzuka in the wet is treacherous, especially through the S-curves and 130R. With 2026 cars still being figured out and teams having limited wet-weather data, a red flag stoppage during qualifying is very plausible. This could freeze the grid in a chaotic state, putting unexpected names at the front and shuffling the Mercedes-dominated order. Suzuka has a history of weather surprises and dramatic qualifying sessions.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"McLaren had a disastrous double DNS in Shanghai with neither Norris nor Piastri turning a competitive lap. The defending constructors' champions are already facing a substantial points gap to Mercedes. Suzuka's demanding layout punishes mechanical unreliability and requires confidence in the car — something McLaren clearly lacks right now. With potential rain on Saturday disrupting setup work, and the team seemingly struggling with fundamental reliability issues on the 2026 power unit/car package, there's a real risk of another weekend where the team fails to deliver results anywhere near expectations. Even if they start, the lack of competitive running in China means they're behind on data and setup understanding.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Verstappen\",\"reasoning\":\"Verstappen has won the last four Japanese GPs at Suzuka and is undefeated there in both qualifying and the race since F1 returned post-COVID. While Red Bull has been off the pace in 2026, the team is bringing meaningful updates and Suzuka's flowing, high-speed layout plays perfectly to Verstappen's strengths. This is the one circuit where his instincts could mask the RB21's weaknesses. A podium or even a shock win would be performing well above Red Bull's current level, and history says never bet against Max at Suzuka.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix higher?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams get into Q3?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver finishes ahead in Grand Prix?",
+          "selection": "Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V3.2",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Charles Leclerc",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A rookie driver scores their first F1 points\",\"reasoning\":\"With a 25% chance of rain forecast for Saturday and potentially tricky conditions, the door is open for chaos and mixed results. Suzuka is a circuit where driver skill can compensate for car performance, especially in changing conditions. A rookie like Isack Hadjar (Racing Bulls), Ollie Bearman (Haas), or Kimi Antonelli (Mercedes—though he's already a winner) could capitalize on mistakes from others, a well-timed strategy call, or incidents ahead. Antonelli has already shown remarkable composure, but a points finish for a rookie from a midfield team like Hadjar or Bearman would be a major surprise. [coffeecornermotorsport.com](https://coffeecornermotorsport.com/f1-japanese-grand-prix-2026-preview/) [gpblog.com](https://www.gpblog.com/en/news/weather-twist-expected-to-shake-up-the-japanese-grand-prix)\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"The team is reportedly suffering a severe Honda power unit vibration crisis that has left them without a race finish in the first two rounds. Fernando Alonso described losing feeling in his hands and feet during the Chinese Grand Prix. Suzuka is one of the most physically demanding circuits on the calendar, placing extreme stress on both car and driver. This combination of a fundamental technical flaw and a punishing track layout makes a strong result highly unlikely. A double DNF or finish outside the points would continue their disastrous start. [coffeecornermotorsport.com](https://coffeecornermotorsport.com/f1-japanese-grand-prix-2026-preview/)\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Max Verstappen is undefeated at Suzuka in both qualifying and the race since 2022, having won the last four Japanese Grands Prix. While the RB21 has been off the pace this season, the high-speed, flowing nature of Suzuka could play to the car's strengths and Verstappen's exceptional skill at this circuit. The team is reportedly bringing meaningful updates. Given the psychological edge of his historic dominance here, a podium or even a shock win is possible, which would massively exceed current expectations based on their 2026 form. [coffeecornermotorsport.com](https://coffeecornermotorsport.com/f1-japanese-grand-prix-2026-preview/) [sportsnaut.com](https://sportsnaut.com/f1/formula-1-japanese-grand-prix-2026-preview-suzuka)\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix higher?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams get into Q3?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver finishes ahead in Grand Prix?",
+          "selection": "Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "16",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Charles Leclerc",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A red flag during a rainy Saturday qualifying session leads to a shock pole sitter from outside the top three teams.\",\"reasoning\":\"With afternoon showers specifically forecasted for Saturday, Suzuka's unforgiving layout could easily catch out the front-runners. A timely red flag during changing conditions could lock in a shock pole lap for a midfield team.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"The defending constructors' champions are in a genuine crisis after a disastrous double DNS in Shanghai. Suzuka is a track that ruthlessly punishes hesitation and mechanical imbalance, making it highly likely that their 2026 power unit and reliability struggles will result in another miserable weekend.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Verstappen\",\"reasoning\":\"Despite Red Bull's RB21 being noticeably off the pace of the dominant Mercedes cars this season, Verstappen has won the last four Japanese Grands Prix. His sheer driver confidence and mastery of Suzuka's high-speed S-curves could mask the car's mechanical deficits and yield a shock podium.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix higher?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams get into Q3?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver finishes ahead in Grand Prix?",
+          "selection": "Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "16",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.2",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Red flag within the first 3 laps after a multi-car crash in the Esses/Turn 2 sequence\",\"reasoning\":\"Suzuka’s opening sector is always a high-commitment, low-margin funnel, and the resurfaced/grippier first-sector plus kerb/gravel changes increase the chance that a small mistake becomes a bigger incident (cars skating into the newly harsher run-off and collecting others). In a dry forecast, teams will also be more aggressive with early-race positioning and tire warm-up risk, which is exactly the recipe for a first-lap pile-up big enough to stop the race. ([racingnews365.com](https://racingnews365.com/suzuka-track-undergoes-major-change-for-japanese-gp))\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"McLaren’s floor is currently too low to trust: they suffered a double DNS in China due to separate car issues (Norris electrical/PU-side issue; Piastri also pulled back with a different problem), and their overall start has already been defined by costly non-finishes/low-laps. Even if Suzuka pace is decent, I’m betting they lose the weekend to reliability and end up under-delivering again relative to what their headline speed *should* produce. ([formula1.com](https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-china-2026.6hVXOFx0F2xachN46KTtrL.6hVXOFx0F2xachN46KTtrL))\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Haas\",\"reasoning\":\"Haas is quietly the “best of the rest” story after two rounds: Bearman is already P5 in the drivers’ standings and Haas sit P4 in the constructors’, which suggests their baseline pace + execution is legitimately strong rather than a one-off. With Suzuka rewarding confidence in high-speed direction changes, I think they’re well-placed to outscore at least one traditionally bigger team again (and could even flirt with a podium if the front-runners trip over strategy/traffic). ([espn.com](https://www.espn.com/f1/standings))\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix higher?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams get into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver finishes ahead in Grand Prix?",
+          "selection": "Lawson",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.1",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Charles Leclerc",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Red flag in the first 3 laps after a multi-car crash at Turn 1\",\"reasoning\":\"Suzuka's tight first corner has history of opening-lap incidents, and with high speeds and close qualifying expected between Mercedes and Ferrari, a big shunt triggering an early red flag is a bold but plausible chaos scenario.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull and Max Verstappen have badly underperformed so far with only 12 constructors' points (5th place), struggling to adapt to the 2026 regulations. Suzuka's demands may expose their weaknesses further, leading to another disappointing result.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Haas\",\"reasoning\":\"Haas has punched above their weight, sitting 4th in constructors with 17 points after two races thanks to strong performances from Ollie Bearman (P5 in drivers') and Nico Hulkenberg. Their car seems competitive on high-downforce tracks like Suzuka, and they could exceed expectations again this weekend with continued solid pace.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix higher?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams get into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver finishes ahead in Grand Prix?",
+          "selection": "Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "16",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Haas podium",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Ferrari",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "McLaren",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix higher?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams get into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver finishes ahead in Grand Prix?",
+          "selection": "Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "Less than 15",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.5",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"Despite Suzuka's high-downforce layout being theoretically perfect for the MCL38's strengths through the Degner curves and Casio Triangle, McLaren suffers another catastrophic weekend. After their double DNS disaster in China where neither Norris nor Piastri started the race, the team faces immense pressure to prove reliability fixes worked. However, the rush to solve their issues combined with the complexity of the 2026 power unit energy management at Suzuka's fast sections leads to another failure—either a double DNF or both cars finishing outside the points despite the track suiting their aerodynamic concept. The five-week break looming intensifies the pressure, leading to rushed decisions and operational errors.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari arrives at Suzuka with crucial updates including the revised 'Macarena' rotating rear wing and redesigned Halo winglets. Despite Mercedes' dominant start to 2026 with two consecutive 1-2 finishes, Suzuka's high-speed 'S' Curves and Degner corners historically reward the mechanical grip that the SF-26 specializes in. Charles Leclerc is a qualifying specialist at this track, and with Ferrari desperately needing to halt Mercedes' momentum before the five-week break, they finally deliver the clean weekend and pace needed to challenge for the win. The long layoff after this race means teams will push development harder than usual, and Ferrari's B-spec preparation could pay dividends earlier than expected.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix higher?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams get into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver finishes ahead in Grand Prix?",
+          "selection": "Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "Less than 15",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.5",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Charles Leclerc",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A safety car or red flag in the first 5 laps due to rain chaos\",\"reasoning\":\"The weather forecast shows Saturday has the highest chance of rain with showers expected in the afternoon, and there's still a 10% chance of rain on race day. Suzuka is notorious for being difficult in wet conditions, with its high-speed corners and limited runoff areas. Combined with the fact that teams haven't had much wet weather running with the 2026 cars, early race chaos from rain-related incidents is a real possibility. This could completely shuffle the grid and create an unexpected winner.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"McLaren suffered a disastrous double DNS in Shanghai where neither Lando Norris nor Oscar Piastri turned a competitive lap. The defending constructors' champions are already substantially behind Mercedes in the points. Suzuka is a demanding high-speed circuit that requires perfect car setup and reliability. Given their early-season struggles and the pressure of the long break afterward, another failure to score meaningful points would be a genuine crisis for the team.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari's SF-26 has shown strong aerodynamic performance, which could play into Suzuka's high-downforce demands. While Mercedes has the energy deployment advantage, the gap is smaller at circuits like Suzuka where downforce matters more than pure power. With rain expected on Saturday and a 10% chance on race day, Ferrari could capitalize on strategic opportunities. Charles Leclerc has been competitive early in the season and could challenge for a podium if Ferrari executes flawlessly.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Who will be on the podium?",
+          "selection": "Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver will take pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver qualifies for the Grand Prix higher?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams get into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver finishes ahead in Grand Prix?",
+          "selection": "Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points over the weekend?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  }
+}
