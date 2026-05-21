@@ -1,0 +1,705 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "canada-2026",
+  "raceName": "Canadian Grand Prix",
+  "isSprint": true,
+  "exportedAt": "2026-05-21T10:33:13.025Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Two or more drivers crash into the Wall of Champions across the weekend\",\"reasoning\":\"With a 60-70% chance of rain on Sunday, cooler-than-usual temperatures, only one hour of practice due to the Sprint format, and the entirely new 2026 cars that drivers admit they're scared to drive in the wet (per Brundle), the infamous Wall of Champions is primed for multiple victims. Limited track time + new low-downforce cars + wet conditions = chaos at the final chicane.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari has been fast in qualifying with great starts but consistently fades during races. Montreal's heavy braking zones, tyre management demands and threat of mixed conditions expose their race-pace weakness. With Hamilton historically strong here but the SF-26 inconsistent, expect Ferrari to qualify well but underperform on Sunday — especially if rain throws strategy into chaos.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Hadjar has been the standout performer in his rookie-to-sophomore Red Bull seat, with Red Bull praising his pure speed and adaptability. Montreal's stop-start nature and low-downforce setup tend to favour brave, precise drivers. With potential rain on Sunday (60-70% chance), a wet race adds unpredictability that could let Hadjar exploit Red Bull's improving package and his street-circuit confidence to grab a surprise top-5.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "How many teams score points in the Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In the Sprint, which dirver finishes higher?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Racing Bulls cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pit stop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times would the safety car or VSC be required during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will set the fastest lap of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who is ahead in the teams' championship after the Canadian Grand Prix?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "Kimi Antonelli",
+        "sprint_winner": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"Rain is forecast for Sunday, and the Circuit Gilles Villeneuve is notorious for its close walls and limited margin for error. Coupled with a Sprint format that reduces practice time and increases pressure, the combination of damp track, heavy braking zones, and overtaking attempts into tight chicanes is likely to trigger multiple incidents, prompting at least three safety car interventions.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Aston Martin was the only team not to bring upgrades to Miami, and they may again arrive in Canada with a blank upgrade sheet. Ongoing gearbox issues and a lack of aerodynamic development leave the AMR26 struggling for pace. The traction‑heavy, low‑downforce Montreal circuit will likely expose their weaknesses even further, making it probable that both Alonso and Stroll fail to reach Q2 and finish near the back.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Sainz\",\"reasoning\":\"Carlos Sainz has finished in the points in two of the last three races, showing increasing comfort with the Williams 2026 car. Williams has a strong record in Canada, scoring points in Montreal in two of the last three years, and the stop-start nature of Circuit Gilles Villeneuve suits the team’s improving traction. With rain forecast and a high likelihood of safety cars, Sainz's consistency could deliver a surprise top‑6 finish, well above expectations.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "How many teams score points in the Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In the Sprint, which dirver finishes higher?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Racing Bulls cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pit stop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times would the safety car or VSC be required during the Grand Prix?",
+          "selection": "More than 2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will set the fastest lap of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who is ahead in the teams' championship after the Canadian Grand Prix?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "George Russell",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "Lando Norris",
+        "sprint_winner": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more cars crash out at the Wall of Champions during the race\",\"reasoning\":\"With the 2026 active aerodynamics drastically altering car balance and reducing downforce on the straights, multiple drivers will misjudge the final chicane's braking zone and snap oversteer directly into the infamous wall.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Montreal's heavy braking and traction zones demand flawless electrical energy deployment. The new 2026 Red Bull Ford powertrains may suffer from severe clipping on the Casino straight, leaving them highly vulnerable to being overtaken.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Cadillac\",\"reasoning\":\"As the closest venue to a home race for the new American outfit, Cadillac's 2026 low-drag aero package will unexpectedly excel on Montreal's long straights, earning them a shock Q3 appearance and their best points haul of their debut season.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "How many teams score points in the Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In the Sprint, which dirver finishes higher?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Racing Bulls cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pit stop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times would the safety car or VSC be required during the Grand Prix?",
+          "selection": "More than 2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will set the fastest lap of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who is ahead in the teams' championship after the Canadian Grand Prix?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "George Russell",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "Lando Norris",
+        "sprint_winner": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A rain-triggered red flag before lap 10\",\"reasoning\":\"Sunday’s forecast points to a significant rain chance, and Montreal already has close walls, cold tyres, heavy braking zones, and a historically high Safety Car profile. With the grid likely set in dry conditions but the race potentially starting in changing weather, the opening laps could be especially treacherous. A multi-car incident or a car buried at the final chicane early on is unlikely but very plausible.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Mercedes\",\"reasoning\":\"Mercedes are the obvious benchmark right now, with Antonelli and Russell dominating the early-season narrative and the market expecting them to control Canada. That makes them vulnerable as a flop pick: anything short of a win or double podium will feel like underperformance. Montreal’s Sprint format limits setup time, cooler temperatures could make tyre warm-up tricky, and Sunday’s rain risk increases the chance of strategy disruption. I think their pace will still be real, but the weekend may be too chaotic for a clean Mercedes conversion.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Cadillac\",\"reasoning\":\"Expectations are still low because Cadillac entered Canada near the bottom of the constructors' picture, but Montreal is exactly the kind of circuit where an outsider can overdeliver: heavy braking, long straights, possible rain on Sunday, Safety Car risk, and only one practice session before parc fermé. The team reportedly arrived trying to build on its Miami upgrade momentum, and a cool, variable weekend should reward experienced race management from Bottas and Perez. I’m backing Cadillac to look much more competitive than its baseline pace suggests and sneak into the points if the race gets messy.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "How many teams score points in the Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In the Sprint, which dirver finishes higher?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Racing Bulls cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pit stop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times would the safety car or VSC be required during the Grand Prix?",
+          "selection": "More than 2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will set the fastest lap of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who is ahead in the teams' championship after the Canadian Grand Prix?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars triggered by Wall of Champions incidents\",\"reasoning\":\"Sprint weekend means limited practice time to dial in the cars for the tricky, bumpy Circuit Gilles Villeneuve in cold conditions (10-16C with possible rain). The famous Wall of Champions has claimed many victims historically; combined with new active aero, boost modes, and aggressive overtaking in a sprint-affected field, expect multiple errors and at least three safety car periods.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull has been struggling badly in 2026 with only 30 constructors points. The low-downforce Montreal layout and cold temperatures may not suit their current chassis and power unit balance under the revised regs, leading to another difficult weekend where they fail to score significantly despite Verstappen's talent.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Alpine\",\"reasoning\":\"The new 2026 regs with heavy electric deployment and active aero favor teams that have adapted well to energy management. Alpine has shown flashes in the midfield and their upgrades plus the cold weather and sprint format could allow Gasly or Ocon to jump into Q3 and score big points, exceeding low expectations after a slow start to the season.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "How many teams score points in the Sprint?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In the Sprint, which dirver finishes higher?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Racing Bulls cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pit stop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times would the safety car or VSC be required during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will set the fastest lap of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who is ahead in the teams' championship after the Canadian Grand Prix?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Oscar Piastri",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lando Norris",
+        "pole": "Oscar Piastri",
+        "sprint_pole": "Kimi Antonelli",
+        "sprint_winner": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Isack Hadjar outqualifies Max Verstappen for the Race Qualifying on pace",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Kimi Antonelli",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "Isack Hadjar",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "How many teams score points in the Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In the Sprint, which dirver finishes higher?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Racing Bulls cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pit stop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Gabriel Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times would the safety car or VSC be required during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will set the fastest lap of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who is ahead in the teams' championship after the Canadian Grand Prix?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Max Verstappen",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Max Verstappen",
+        "sprint_pole": "Lando Norris",
+        "sprint_winner": "Oscar Piastri"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A red flag in the first 3 laps\",\"reasoning\":\"Circuit Gilles Villeneuve combines close walls, heavy braking zones, and minimal margin for error. Combined with a Sprint weekend that leaves teams with less refined setups and a tightly packed midfield desperate for points, the opening laps are a powder keg for a multi-car incident at Turn 1 or the Wall of Champions.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"Arrives in Montreal as the defending race winner and pre-season title favorite, yet has been beaten by rookie teammate Antonelli for three consecutive Grands Prix. The Sprint format leaves minimal setup time, Mercedes is debuting major upgrades that may shift the balance away from his preference, and the psychological pressure to reassert dominance at a track he loves could trigger a critical error or poor qualifying performance.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"After a dismal start to 2026 with only 30 points and fourth in the Constructors' Championship, Miami showed genuine signs of resurgence. The RBPT power unit is rated second only to Mercedes, Montreal's low-downforce, long-straight layout plays to the RB22's strengths, and Verstappen has the raw pace to capitalize if the car delivers. A podium or better would massively exceed current expectations.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "George Russell",
+          "selectionIndex": 3
+        },
+        {
+          "question": "How many teams score points in the Sprint?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In the Sprint, which dirver finishes higher?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Racing Bulls cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pit stop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times would the safety car or VSC be required during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will set the fastest lap of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who is ahead in the teams' championship after the Canadian Grand Prix?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lando Norris",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "Lando Norris",
+        "sprint_winner": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A safety car deployed within the first 5 laps of the race\",\"reasoning\":\"Circuit Gilles Villeneuve is notorious for its close walls, heavy braking zones, and little margin for error. Safety Cars have historically played a significant role in Canadian Grand Prix races, often creating strategic opportunities and disrupting planned pit windows. With 20 turns, tight corners, and the wall always close, incidents in the opening laps are highly likely. The Sprint format also means less preparation time for drivers unfamiliar with the track, increasing the likelihood of a mistake that brings out the safety car early.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Despite a resurgent performance in Miami, Red Bull is a distant fourth in the Constructors' Championship with only 30 points compared to Mercedes' 180. While Verstappen showed promise with the Miami upgrades, he still faded during the race. Montreal's low-downforce characteristics and heavy braking zones may not favor the RB22, and the Sprint format leaves little time to perfect the setup. With McLaren closing in and Ferrari bringing more upgrades, Red Bull risks falling further behind in the championship fight this weekend.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari is bringing further upgrades to Canada after debuting 11 new elements in Miami. They already have strong qualifying pace and lightning starts, but have typically fallen away during races. If the latest revisions allow Leclerc and Hamilton to maintain that pace throughout the race, Ferrari could finally mount a serious challenge for victory. With the Sprint format limiting practice time, teams with good baseline pace like Ferrari could capitalize. The Scuderia is expected to spark into life this weekend according to team boss Fred Vasseur.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Canadian Grand Prix",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "How many teams score points in the Sprint?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "In the Sprint, which dirver finishes higher?",
+          "selection": "Carlos Sainz",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Racing Bulls cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pit stop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Esteban Ocon",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times would the safety car or VSC be required during the Grand Prix?",
+          "selection": "More than 2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver will set the fastest lap of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who is ahead in the teams' championship after the Canadian Grand Prix?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  }
+}
