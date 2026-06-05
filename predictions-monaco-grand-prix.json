@@ -1,0 +1,1260 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "monaco-2026",
+  "raceName": "Monaco Grand Prix",
+  "isSprint": false,
+  "exportedAt": "2026-06-05T16:40:20.224Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "Charles Leclerc",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "Kimi Antonelli",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Red flag during qualifying causes a top-3 championship contender to start outside the top 10\",\"reasoning\":\"Rain is forecast to potentially return for qualifying, and Monaco qualifying with wet conditions historically produces chaos (2018 reference). Combine that with new 2026 cars, active aero being banned in Straight Mode, and drivers desperate to maximize the only session that matters at Monaco - a red flag catching out a top contender mid-flying-lap is highly plausible and would completely reshape the race. Track position is everything here, so a championship leader starting P11+ would be season-defining drama.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"Russell is under enormous pressure after being beaten by Antonelli for four straight races, including being outclassed in Canada in both Sprint and Grand Prix. The tension between the Mercedes pair is escalating, and Monaco is the worst place to be rattled - one tiny mistake in qualifying ends your weekend. Mercedes also looks vulnerable here as Monaco is described as their most vulnerable weekend of the season. A mistake-strewn weekend with Russell qualifying outside the top 6 and finishing behind his rookie teammate again is very plausible.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Isack Hadjar has shown flashes of speed in the Racing Bulls this season but hasn't fully delivered. Monaco is the ultimate driver-dependent circuit where a confident, precise rookie can punch well above the car's weight. With power unit advantages neutralized by the FIA's Monaco-specific energy map (Rev 1) and the 290 km/h speed cap, the playing field is leveled. Hadjar grew up watching Monaco and is known for clinical qualifying laps - a Q3 appearance and points finish would be a major surprise.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Monaco GP",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get a car into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the red flag be used during Sunday's race?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Franco Colapinto finish?",
+          "selection": "11th - 22nd",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see all 22 cars complete the first lap of the race?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "Charles Leclerc",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "Max Verstappen",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A driver who started outside the top 10 finishes on the podium\",\"reasoning\":\"Monaco rarely sees overtaking, but a well-timed safety car or a bold strategy call (like an early switch to slicks on a drying track) could vault a midfield runner into the top three. With the new 2026 cars being more fragile, attrition could also play a role.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Perez\",\"reasoning\":\"Perez has struggled with confidence and consistency on street circuits, and his qualifying form has been poor. Red Bull's car isn't as dominant on bumpy, low-grip surfaces, and Monaco punishes any mistake. A Q1 exit is plausible.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Williams has shown strong mechanical grip in slow corners this season, and Monaco rewards that. Albon and Sainz both have a history of overperforming here. With recent upgrades, they could sneak into Q3 and score solid points.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Monaco GP",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get a car into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the red flag be used during Sunday's race?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Franco Colapinto finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see all 22 cars complete the first lap of the race?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Charles Leclerc",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A multi-car pileup at Sainte Devote causes a red flag on the opening lap.\",\"reasoning\":\"Even though the 2026 cars are slightly smaller and lighter, drivers are still adjusting to the massive cognitive demands of the new regulations and the specific banning of active aero for this weekend. The traditional lap 1 bottleneck at Turn 1 will catch out an eager midfield in spectacular fashion.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull has been battling severe overweight car issues this season. On the tight, twisty streets of Monte Carlo where agility and mechanical grip are paramount, this excess weight will be a fatal flaw. Pundits already expect them to struggle, and they could easily miss out on Q3.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Cadillac\",\"reasoning\":\"The new American team is bringing a major upgrade package to their first European race. Combined with Sergio Perez's historic prowess on street circuits and his renewed confidence in the MAC-26, Cadillac is primed to massively outperform expectations and challenge the established upper midfield.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Monaco GP",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get a car into Q2?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the red flag be used during Sunday's race?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Franco Colapinto finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see all 22 cars complete the first lap of the race?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Charles Leclerc",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A red flag in Q1 traps a frontrunner outside the top 10\",\"reasoning\":\"Monaco qualifying is already the most traffic-sensitive session of the year, and the expanded 22-car grid makes Q1 even more fragile. With drivers hunting clean air, warm tyres, and tiny gaps between barriers, one small crash or poorly timed stoppage could freeze the order before a major contender has completed a representative lap.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Mercedes\",\"reasoning\":\"Mercedes have been the benchmark early in 2026, but Monaco strips away some of their usual power-unit and race-pace advantages. Ferrari and McLaren are both being talked up for low-speed performance, and Russell is coming off a reliability-related DNF in Canada. With qualifying so decisive, even a small weakness on tyre warm-up, kerb ride, or traffic management could turn an expected win-contending weekend into a merely solid one.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Racing Bulls\",\"reasoning\":\"Monaco is the best place for a midfield team to outperform if the car is confidence-inspiring over kerbs and strong in low-speed corners. Liam Lawson arrives with recent points-scoring momentum, and the 22-car Monaco qualifying traffic could create chaos that lets Racing Bulls sneak at least one car into Q3. Expectations are modest, so a double Q2 plus one points finish would already be a strong overperformance.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Monaco GP",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get a car into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the red flag be used during Sunday's race?",
+          "selection": "0",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Franco Colapinto finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see all 22 cars complete the first lap of the race?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "Charles Leclerc",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "Kimi Antonelli",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"The 2026 regulations produce smaller, nimbler cars that drivers say will allow more overtaking attempts at Monaco. Combined with mandatory pit stops, two-stop strategies, and the unforgiving barriers, this increases the likelihood of incidents, especially at key points like Sainte Devote, the hairpin, and Tabac, triggering multiple safety car periods.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"antonelli\",\"reasoning\":\"Kimi Antonelli has dominated 2026 with four straight wins and leads the championship comfortably in the Mercedes. However, Monaco is a different beast where experience and qualifying precision matter most. The young Italian may struggle with the walls and pressure of the street circuit, leading to a rare off-weekend and finishing outside the top 5.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Haas\",\"reasoning\":\"The smaller, lighter 2026 cars with restricted active aero in Monaco favor teams with strong mechanical grip and low-speed handling. Haas has shown flashes of pace in recent races and their Ferrari-powered package could excel on the tight streets, potentially scoring a surprise Q3 appearance or points with both cars, exceeding low expectations.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Monaco GP",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get a car into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the red flag be used during Sunday's race?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Franco Colapinto finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see all 22 cars complete the first lap of the race?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "Max Verstappen",
+        "pole": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Aston Martin will get a car in Q3",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Mercedes",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "Oliver Bearman",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Monaco GP",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get a car into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the red flag be used during Sunday's race?",
+          "selection": "0",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Franco Colapinto finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see all 22 cars complete the first lap of the race?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Charles Leclerc",
+        "podium_p2": "Max Verstappen",
+        "podium_p3": "Lando Norris",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"The race winner starts outside the top three on the grid\",\"reasoning\":\"Overtaking is nearly impossible at Monaco, which makes a win from fourth or lower on the grid statistically absurd. However, the brand-new 2026 regulations have the potential to produce volatile wet-weather behavior, bizarre tire strategies, or multi-car incidents during pit cycles that could jumble the order enough for a driver to vault from a lower grid slot into the lead and hold on for an unthinkable victory.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Stroll\",\"reasoning\":\"Lance Stroll has a historically poor record at Monaco, having suffered multiple crashes in practice and qualifying sessions there over the years. The unforgiving walls and relentless concentration required at Monte Carlo consistently expose his weakness in high-pressure, low-margin environments, making another costly error or early elimination likely this weekend.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Alonso\",\"reasoning\":\"Fernando Alonso is a Monaco specialist with a legendary record at this circuit. Even if Aston Martin has fallen to midfield in the new 2026 regulations, his unmatched precision on the tight Monte Carlo streets and ability to overdrive a limited car make him a constant threat for a shock podium or top-five finish that far exceeds the car's usual potential.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": []
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety car periods during the race, with at least one being a red flag in the first 10 laps\",\"reasoning\":\"Monaco is notorious for chaos, and with a competitive midfield where Haas, Alpine, Williams, and Audi are all fighting hard, incidents are inevitable. Add the pressure of a street circuit with zero run-off and you have the perfect recipe for mayhem. Expect at least two separate multi-car contacts, a crash into the tunnel wall, and a Safety Car or Red Flag bunching up the field at least three times, completely shuffling the strategy game.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Sergio Perez\",\"reasoning\":\"Monaco has historically been Perez's nightmare circuit. Even in his Red Bull championship-winning years, he struggled in the Principality. With Red Bull's 2026 car possibly not being the most planted in slow corners and Perez already under pressure to perform, expect another qualifying disaster and a race hindered by starting too far back. This is a track where confidence is everything, and Perez simply doesn't have it here.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Franco Colapinto\",\"reasoning\":\"Colapinto showed flashes of brilliance at Baku and has been steadily improving with Alpine. Monaco is a track where raw pace and boldness matter more than experience. With Alpine bringing a new aero package and the Argentine driver hungry to prove he belongs, a points finish or even a top-6 finish is within reach. The tight streets reward clean laps and risk-taking—both strengths of Colapinto's aggressive driving style.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Monaco Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Monaco GP",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get a car into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the red flag be used during Sunday's race?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Isack Hadjar",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Franco Colapinto finish?",
+          "selection": "11th - 22nd",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see all 22 cars complete the first lap of the race?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  },
+  "generationLogs": [
+    {
+      "id": 255,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"61\": [597, 598, 593],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [638],\n    \"65\": [641],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [660],\n    \"69\": [668],\n    \"70\": [686]\n  },\n  \"reasoning\": \"2026 standings show Mercedes dominant (Antonelli leads, Russell 2nd) with Leclerc/Hamilton close on Ferrari. Recent Canada: Antonelli win, Hamilton 2nd, Verstappen 3rd, Leclerc 4th, Hadjar 5th, Colapinto 6th. Monaco favors qualifying, street circuit specialists like Leclerc (home, multiple poles). 2026 regs suit slow corners better. Bold picks: Leclerc P1 (home hero, strong Monaco form), Hamilton P2 (recent pace, Ferrari strong here), Russell P3 (Merc strong but not unbeatable on streets). Leclerc pole over Antonelli (low pts fav). Hamilton beats Verstappen in quali head-to-head. Aston Martin rising, yes Q2. Racing Bulls strong pitstops recently. 1 red flag likely (Monaco history). Hadjar ahead of midfield rivals (recent P5). Colapinto solid 4-10th. Leclerc fastest lap. No all cars finish lap 1 (chaos common).\"\n}",
+      "tokensUsed": 36381,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T05:57:34.863Z"
+    },
+    {
+      "id": 256,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "I'll research the current state of F1 before making predictions for the 2026 Monaco GP.I have enough information. Let me make informed picks based on:\n- Ferrari heavily favored at Monaco - Leclerc is pole favorite (3 of last 5 poles)\n- Hamilton coming off a strong P2 in Canada with Ferrari\n- Antonelli leading championship with 4 straight wins, Russell struggling\n- McLaren rebounding, Norris won 2025 Monaco\n- Rain possible in qualifying adds chaos potential\n- Hadjar (now Red Bull) had P5 in Canada\n\nFor podium: I'll go Leclerc P1 (home favorite, Ferrari strongest at Monaco), Hamilton P2 (strong form), Norris P3 (defending winner, McLaren suits Monaco). This gives good points balance.\n\nPole: Leclerc - clear favorite\nHamilton vs Verstappen qualifying: Hamilton (Ferrari strongest here, Verstappen has Red Bull which isn't favored)\nAston Martin Q2: Yes - they've been improving\nFastest pitstop: Ferrari (favorites to win, low risk)\nRed flags: 1 (most common)\nHadjar vs others: Hadjar (lowest pts, strong form, Red Bull car)\nColapinto: 11th-22nd (likely midfield)\nFastest lap: Norris (Hamilton/Norris shared last 5)\nAll 22 cars complete lap 1: No (Monaco chaos common)\n\n{\n  \"answers\": {\n    \"61\": [597, 598, 594],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [638],\n    \"65\": [640],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [661],\n    \"69\": [665],\n    \"70\": [686]\n  },\n  \"reasoning\": \"Based on research: Ferrari is heavily favored at Monaco 2026 with the SF26 excelling in slow corners. Leclerc is the pole favorite (33% on Polymarket, 3 poles in last 5 Monaco races) and home hero. Hamilton coming off P2 in Canada - his best Ferrari weekend - and has 3 Monaco wins historically. Norris won Monaco 2025 from pole and McLaren expected to rebound from poor Canada. For Hamilton vs Verstappen qualifying, Ferrari's cornering advantage at Monaco favors Hamilton over Red Bull. Aston Martin has been improving. Ferrari low-risk pick for fastest pitstop given they're race favorites. 1 red flag most common at Monaco (happened in 2024 and 2022). Hadjar showed strong form with P5 in Canada in his new Red Bull. Colapinto likely midfield/back. Norris fastest lap continues recent trend (Norris/Hamilton shared last 5). Monaco T1 carnage common, so No on all 22 cars completing lap 1.\"\n}",
+      "tokensUsed": 37312,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T05:57:34.854Z"
+    },
+    {
+      "id": 257,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"61\":[597,592,598],\"62\":[619],\"63\":[637],\"64\":[638],\"65\":[641],\"66\":[652],\"67\":[655],\"68\":[660],\"69\":[665],\"70\":[686]},\"reasoning\":\"Current 2026 form points to Mercedes as the benchmark, with Antonelli dominating wins and Russell very quick over one lap, but Monaco shifts the weight heavily toward qualifying, confidence, low-speed traction, and track history. Leclerc is the informed aggressive pick for pole and victory: he is being treated as the Monaco favorite, Ferrari has recent momentum with Hamilton’s Canada podium, and overtaking is extremely limited. I kept Antonelli on the podium because Mercedes pace is too strong to ignore, but used Hamilton as the bolder podium pick over Russell/Norris due to Ferrari’s Monaco suitability and Hamilton’s recent form. Aston Martin has been poor, but Alonso being close to Q2 recently makes a Monaco Q2 upset plausible. Racing Bulls are the pit-stop form team after Miami and Montreal. Dry weather lowers chaos, but Monaco’s walls still make one race red flag and a first-lap non-completion reasonable risks. Hadjar is the strongest midfield finisher pick after Canada, Colapinto’s Alpine form makes another top-10 worth chasing, and Norris is a strong fastest-lap choice given McLaren pace and his recent Monaco fastest-lap history.\"}",
+      "tokensUsed": 27788,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T05:57:34.857Z"
+    },
+    {
+      "id": 258,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"61\": [597, 594, 593],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [638],\n    \"65\": [641],\n    \"66\": [651],\n    \"67\": [656],\n    \"68\": [660],\n    \"69\": [665],\n    \"70\": [686]\n  },\n  \"reasoning\": \"Based on 2026 regulations, Charles Leclerc remains the Monaco master with Ferrari, while McLaren and Mercedes are strong overall. Leclerc takes pole and win, with Norris and Russell completing the podium. Aston Martin’s midfield pace secures Q2. Racing Bulls excel at fast pitstops again. A clean first lap is unlikely at tight Monaco, so not all 22 cars survive.\"\n}",
+      "tokensUsed": 4956,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T05:57:34.864Z"
+    },
+    {
+      "id": 259,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"61\": [592, 597, 593],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [639],\n    \"65\": [641],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [660],\n    \"69\": [663],\n    \"70\": [686]\n  },\n  \"reasoning\": \"In the 2026 season, Mercedes is dominating with rookie Kimi Antonelli leading the championship after four consecutive wins, making him a solid pick for P1 and the fastest lap. However, Charles Leclerc is a Monaco specialist, and Ferrari's strong form (2nd in the Constructors') makes him a bold but informed pick for pole position and P2. George Russell's exceptional qualifying pace should secure him the final podium spot. Lewis Hamilton is favored over Max Verstappen in qualifying as Ferrari currently outperforms Red Bull on single-lap pace. Aston Martin sits at the bottom of the standings with zero points and hasn't reached Q2 all season, making 'No' a safe bet. Racing Bulls have secured the fastest pit stop in the last two races (Miami and Montreal), making them a reliable choice. Isack Hadjar, now driving for Red Bull, should easily finish ahead of the midfield rookies. Franco Colapinto's impressive P6 in Canada for an ascendant Alpine team suggests another top-10 finish. Finally, given Monaco's notoriously tight street circuit, a first-lap incident is highly likely, and at least one red flag is expected during Sunday's race.\"\n}",
+      "tokensUsed": 8726,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T05:57:34.860Z"
+    },
+    {
+      "id": 260,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"61\":[597,594,595],\"62\":[619],\"63\":[636],\"64\":[638],\"65\":[641],\"66\":[652],\"67\":[655],\"68\":[660],\"69\":[665],\"70\":[686]},\"reasoning\":\"Monaco GP predictions based on current F1 2026 season analysis: Leclerc (home advantage, strong Monaco record) and Norris (in excellent form) are top contenders for podium. Norris recently took pole in Canada and has multiple wins. Verstappen remains dominant but McLaren appears strongest currently. Hamilton vs Verstappen rivalry continues with Verstappen having edge in recent encounters. Aston Martin showing improvement with potential Q2 presence. Racing Bulls excelling at pit stops recently. Monaco's tight streets make incidents likely (red flag possible). Hadjar's P5 in Montreal shows strong form. Colapinto promising but Monaco's difficulty suggests mid-pack finish. Norris historically strong at Monaco for fastest lap. Monaco's tight first lap often sees incidents given narrow track and 20+ cars.\"}",
+      "tokensUsed": 3259,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T05:57:34.866Z"
+    },
+    {
+      "id": 261,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"61\": [597, 598, 592],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [638],\n    \"65\": [640],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [660],\n    \"69\": [668],\n    \"70\": [685]\n  },\n  \"reasoning\": \"2026 standings show Mercedes dominant (Antonelli leading, Russell 2nd) but recent Canada had Antonelli win, Hamilton 2nd, Verstappen 3rd, Leclerc 4th. Monaco street circuit historically favors Ferrari/Leclerc (multiple poles/wins). Predictions and betting favor Leclerc for pole/win. Podium: Leclerc (home hero, strong Monaco record), Hamilton (Ferrari 1-2 potential, recent form), Antonelli (champ leader, consistent). Pole: Leclerc over Antonelli/Russell. Hamilton > Verstappen in quali head-to-head. Aston Martin on rise, likely Q2. Ferrari strong in pits historically. 1 red flag likely due to Monaco chaos (history of incidents). Hadjar strong recently (P5 Canada), ahead of midfield. Colapinto consistent points, top-10 likely. Fastest lap: Leclerc often sets it. All cars finish lap 1 in dry conditions (hot/dry forecast).\"\n}",
+      "tokensUsed": 37720,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.697Z"
+    },
+    {
+      "id": 262,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Haas\",\n    \"reasoning\": \"The 2026 regulations and smaller, nimbler cars are predicted to suit Monaco's tight corners and low-speed traction zones exceptionally well. Haas has shown flashes of pace and their Ferrari power unit provides strong traction out of slow corners, allowing them to outperform their usual midfield position significantly on this unique street circuit where pure downforce and mechanical grip matter more than top speed.\",\n    \"is_team\": true,\n    \"referenced_id\": \"haas\"\n  },\n  \"flop\": {\n    \"name\": \"Mercedes\",\n    \"reasoning\": \"Mercedes has dominated the 2026 season so far with multiple wins and poles, including Antonelli's hot streak. However, their car has been less competitive in pure cornering compared to Ferrari, and Monaco's layout with minimal straights and heavy emphasis on low-speed precision is expected to expose weaknesses. The smaller 2026 cars may also highlight ride or setup issues on the bumpy street surface, causing them to struggle relative to high expectations.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mercedes\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"Monaco is notoriously incident-prone due to the narrow walls and lack of runoff. The new 2026 cars are lighter and more agile, which drivers say will make qualifying more fun and aggressive, increasing the chance of mistakes under pressure. Combined with the tight layout where one error can trigger a chain reaction, and historical tendency for multiple interruptions, this bold outcome is more likely than in other races despite the 'boring procession' reputation.\"\n  }\n}",
+      "tokensUsed": 35672,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.683Z"
+    },
+    {
+      "id": 263,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "I'll research the current state of F1 before making predictions for the Monaco GP.I have enough information to make my predictions. Let me synthesize:\n\n- Mercedes has dominated 2026 with 5 wins in a row, Antonelli leading championship by 43 points\n- However, Monaco favors Ferrari due to its tight, slow-corner nature\n- Leclerc is the betting favorite at 33%, with strong Monaco history (pole 3 of last 5 years, 2024 winner)\n- Hamilton second favorite at 17% with 3 Monaco wins\n- Antonelli at 16%, Russell at 14%, Norris at 12%\n- Weather looks mostly dry\n\n{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"leclerc\", \"hamilton\", \"antonelli\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Heading into Round 8 at Monte Carlo, Mercedes leads the championship with Antonelli on a four-race winning streak and a 43-point lead over Russell, but Monaco is a major outlier circuit. The tight, slow-corner nature of Monte Carlo strongly favors Ferrari, with Leclerc the betting favorite (33% on Polymarket) ahead of Hamilton (17%) and Antonelli (16%). Leclerc has been on pole 3 of the last 5 Monaco races and won in 2024 - he's now considered the best driver around Monte Carlo. Hamilton brings 3 career Monaco wins and Ferrari's pace at this circuit type should put him on the podium. Antonelli rounds out the podium given Mercedes' overall season dominance and his current form, edging out Russell after Russell's tough Canada weekend. With overtaking nearly impossible at Monaco (qualifying = race result), pole position is decisive. Weather forecast is mostly dry with mild temperatures. No sprint this weekend - traditional format.\"\n}",
+      "tokensUsed": 27887,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.662Z"
+    },
+    {
+      "id": 264,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"61\":[597,594,596],\"62\":[619],\"63\":[636],\"64\":[638],\"65\":[641],\"66\":[652],\"67\":[655],\"68\":[661],\"69\":[665],\"70\":[685]},\"reasoning\":\"Researching 2026 F1 standings and recent form: Leclerc dominates Monaco historically (multiple poles/wins) making him the P1 pick despite not being highest points. Norris and Piastri both strong at Monaco with McLaren form. Antonelli too risky at Monaco's tight walls. For pole, Leclerc's home track advantage is key. Hamilton vs Verstappen - Verstappen has the edge in raw pace this season. Aston Martin showing progress makes Q2 likely. Racing Bulls have won fastest pitstop recently per the question hint. Red flag history suggests 1 is most likely. Hadjar's P5 in Montreal shows he's the strongest pick among those options. Colapinto as a rookie at Monaco - top 10 unlikely. Norris and Hamilton sharing last 5 Monaco fastest laps makes Lando the smart pick. Monaco first lap incidents are rare enough to bet on all cars finishing.\"}",
+      "tokensUsed": 3287,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.701Z"
+    },
+    {
+      "id": 265,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "I'll research the current F1 situation before making my picks for the 2026 Monaco GP.I have a clear picture now. Let me make my picks based on this research:\n\n- Mercedes has dominated 2026 with 5 wins (Antonelli has 4)\n- Ferrari is favored for Monaco specifically (SF-26 strong in corners)\n- Leclerc is the betting favorite for the race\n- Hamilton has 3 Monaco wins, lives in Monaco, hot form from Canada P2\n- Aston Martin is on the rise with Honda power\n- Weather looks mostly dry\n- Hadjar took P5 in Canada\n\n{\n  \"answers\": {\n    \"61\": [597, 598, 592],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [638],\n    \"65\": [641],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [661],\n    \"69\": [668],\n    \"70\": [686]\n  },\n  \"reasoning\": \"Ferrari is heavily favored for Monaco with their SF-26 strong in corners. Leclerc is home favorite at 33% on Polymarket and won here in 2024; I pick him for pole and the win. Hamilton (4/1, 58% podium implied) is in hot form after P2 in Canada, lives in Monaco, has 3 Monaco wins - solid P2 pick and to outqualify Verstappen. Antonelli for P3 - he leads championship with 4 wins from 5 and Mercedes still strong. Aston Martin (now with Honda PU) on the rise - yes to Q2. Racing Bulls have won fastest pitstop in Miami and Montreal - backing them again at low risk/reward. Monaco red flags are common but 1 is the safer expected value. Hadjar over Lawson/Bearman/Bortoleto given he's in a Red Bull now. Colapinto more likely midfield/back given Monaco difficulty - 11th-22nd. Leclerc fastest lap on home turf with Ferrari pace. Monaco lap 1 incidents are very common at Ste Devote - betting on No (not all 22 finish lap 1).\"\n}",
+      "tokensUsed": 36172,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.695Z"
+    },
+    {
+      "id": 266,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": { \"name\": \"Hadjar\", \"reasoning\": \"Isack Hadjar has shown flashes of speed in the Racing Bulls this season but hasn't fully delivered. Monaco is the ultimate driver-dependent circuit where a confident, precise rookie can punch well above the car's weight. With power unit advantages neutralized by the FIA's Monaco-specific energy map (Rev 1) and the 290 km/h speed cap, the playing field is leveled. Hadjar grew up watching Monaco and is known for clinical qualifying laps - a Q3 appearance and points finish would be a major surprise.\", \"is_team\": false, \"referenced_id\": \"hadjar\" },\n  \"flop\": { \"name\": \"Russell\", \"reasoning\": \"Russell is under enormous pressure after being beaten by Antonelli for four straight races, including being outclassed in Canada in both Sprint and Grand Prix. The tension between the Mercedes pair is escalating, and Monaco is the worst place to be rattled - one tiny mistake in qualifying ends your weekend. Mercedes also looks vulnerable here as Monaco is described as their most vulnerable weekend of the season. A mistake-strewn weekend with Russell qualifying outside the top 6 and finishing behind his rookie teammate again is very plausible.\", \"is_team\": false, \"referenced_id\": \"russell\" },\n  \"crazy_prediction\": { \"prediction\": \"Red flag during qualifying causes a top-3 championship contender to start outside the top 10\", \"reasoning\": \"Rain is forecast to potentially return for qualifying, and Monaco qualifying with wet conditions historically produces chaos (2018 reference). Combine that with new 2026 cars, active aero being banned in Straight Mode, and drivers desperate to maximize the only session that matters at Monaco - a red flag catching out a top contender mid-flying-lap is highly plausible and would completely reshape the race. Track position is everything here, so a championship leader starting P11+ would be season-defining drama.\"}\n}",
+      "tokensUsed": 23123,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.682Z"
+    },
+    {
+      "id": 267,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "```json\n{\n  \"pole\": \"leclerc\",\n  \"podium\": [\n    \"leclerc\",\n    \"antonelli\",\n    \"hamilton\"\n  ],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Ferrari's 2026 challenger has shown vastly superior performance in low-speed corners and traction zones, making them the clear favorites for qualifying on the tight streets of Monte Carlo. Charles Leclerc is heavily tipped by experts and rivals alike to secure pole position at his home race. While Mercedes and championship leader Kimi Antonelli are on a dominant four-race winning streak, the notorious difficulty of overtaking in Monaco should allow Leclerc to control the pace and secure the victory. Antonelli's exceptional form makes him a lock for second, while Lewis Hamilton, fresh off a strong second-place finish in Canada, is primed to complete a double podium for Ferrari.\"\n}\n```",
+      "tokensUsed": 2810,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.663Z"
+    },
+    {
+      "id": 268,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "error",
+      "errorMessage": "No JSON found in response",
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "No JSON found in response",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T06:04:16.663Z"
+    },
+    {
+      "id": 269,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Williams\",\n    \"reasoning\": \"Williams has shown strong mechanical grip in slow corners this season, and Monaco rewards that. Albon and Sainz both have a history of overperforming here. With recent upgrades, they could sneak into Q3 and score solid points.\",\n    \"is_team\": true,\n    \"referenced_id\": \"williams\"\n  },\n  \"flop\": {\n    \"name\": \"Perez\",\n    \"reasoning\": \"Perez has struggled with confidence and consistency on street circuits, and his qualifying form has been poor. Red Bull's car isn't as dominant on bumpy, low-grip surfaces, and Monaco punishes any mistake. A Q1 exit is plausible.\",\n    \"is_team\": false,\n    \"referenced_id\": \"perez\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"A driver who started outside the top 10 finishes on the podium\",\n    \"reasoning\": \"Monaco rarely sees overtaking, but a well-timed safety car or a bold strategy call (like an early switch to slicks on a drying track) could vault a midfield runner into the top three. With the new 2026 cars being more fragile, attrition could also play a role.\"\n  }\n}",
+      "tokensUsed": 1360,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.684Z"
+    },
+    {
+      "id": 270,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"leclerc\", \"norris\", \"verstappen\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Monaco is heavily reliant on qualifying performance and track-specific confidence, historically favoring Leclerc (home race, two poles but no wins yet) and Norris (strong in tight, low-speed corners). McLaren and Ferrari have been consistently fastest in 2026's ground-effect era to date. Verstappen's RB22 struggles slightly on bumps and kerbs, but his ability to over-deliver keeps him on the podium. Recent reports indicate Ferrari has optimized its narrow-street setup after Miami, while McLaren's mastery of slow-corner mechanical grip still makes Norris a pole threat. However, Leclerc's one-lap pace around Monaco is unmatched—expect a Ferrari pole and controlled race win in a dry race.\"\n}",
+      "tokensUsed": 714,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.663Z"
+    },
+    {
+      "id": 271,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "```json\n{\n  \"good_surprise\": {\n    \"name\": \"Franco Colapinto\",\n    \"reasoning\": \"Colapinto showed flashes of brilliance at Baku and has been steadily improving with Alpine. Monaco is a track where raw pace and boldness matter more than experience. With Alpine bringing a new aero package and the Argentine driver hungry to prove he belongs, a points finish or even a top-6 finish is within reach. The tight streets reward clean laps and risk-taking—both strengths of Colapinto's aggressive driving style.\",\n    \"is_team\": false,\n    \"referenced_id\": \"colapinto\"\n  },\n  \"flop\": {\n    \"name\": \"Sergio Perez\",\n    \"reasoning\": \"Monaco has historically been Perez's nightmare circuit. Even in his Red Bull championship-winning years, he struggled in the Principality. With Red Bull's 2026 car possibly not being the most planted in slow corners and Perez already under pressure to perform, expect another qualifying disaster and a race hindered by starting too far back. This is a track where confidence is everything, and Perez simply doesn't have it here.\",\n    \"is_team\": false,\n    \"referenced_id\": \"perez\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety car periods during the race, with at least one being a red flag in the first 10 laps\",\n    \"reasoning\": \"Monaco is notorious for chaos, and with a competitive midfield where Haas, Alpine, Williams, and Audi are all fighting hard, incidents are inevitable. Add the pressure of a street circuit with zero run-off and you have the perfect recipe for mayhem. Expect at least two separate multi-car contacts, a crash into the tunnel wall, and a Safety Car or Red Flag bunching up the field at least three times, completely shuffling the strategy game.\"\n  }\n}\n```",
+      "tokensUsed": 1645,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.685Z"
+    },
+    {
+      "id": 272,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"leclerc\", \"piastri\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Monaco Grand Prix predictions based on track characteristics and recent form. Monaco is a street circuit where qualifying is paramount due to extremely limited overtaking opportunities. Lando Norris has demonstrated strong one-lap pace in recent seasons and McLaren has shown competitive race pace. The tight, low-grip nature of Monaco rewards precision driving where Norris excels. Charles Leclerc has historically performed well at his home circuit and Ferrari should be competitive. Oscar Piastri rounds out the podium as McLaren looks to have a strong package for street circuits. Mercedes and Verstappen will be competitive but the nature of Monaco means starting positions are critical.\"\n}",
+      "tokensUsed": 1164,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.665Z"
+    },
+    {
+      "id": 273,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Cadillac\",\n    \"reasoning\": \"The new American team is bringing a major upgrade package to their first European race. Combined with Sergio Perez's historic prowess on street circuits and his renewed confidence in the MAC-26, Cadillac is primed to massively outperform expectations and challenge the established upper midfield.\",\n    \"is_team\": true,\n    \"referenced_id\": \"cadillac\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"Red Bull has been battling severe overweight car issues this season. On the tight, twisty streets of Monte Carlo where agility and mechanical grip are paramount, this excess weight will be a fatal flaw. Pundits already expect them to struggle, and they could easily miss out on Q3.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"A multi-car pileup at Sainte Devote causes a red flag on the opening lap.\",\n    \"reasoning\": \"Even though the 2026 cars are slightly smaller and lighter, drivers are still adjusting to the massive cognitive demands of the new regulations and the specific banning of active aero for this weekend. The traditional lap 1 bottleneck at Turn 1 will catch out an eager midfield in spectacular fashion.\"\n  }\n}",
+      "tokensUsed": 3960,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.683Z"
+    },
+    {
+      "id": 274,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"61\":[597,598,594],\"62\":[619],\"63\":[637],\"64\":[638],\"65\":[641],\"66\":[651],\"67\":[655],\"68\":[660],\"69\":[665],\"70\":[686]},\"reasoning\":\"I checked the latest pre-Monaco 2026 context: Mercedes leads the championship with Antonelli dominant, but Monaco’s low-speed, traction-heavy layout is widely expected to shift the balance toward Ferrari. Leclerc is the strongest pole/win candidate at his home race, Hamilton has recent Canada momentum and strong Monaco history, while Norris/McLaren remain a serious Monaco threat after winning there in 2025 and suiting slow corners. Red Bull’s 2026 car appears less suited to Monaco, though Hadjar should still beat the listed midfield rivals. Aston Martin has been improving enough for an Alonso Q2 gamble. Racing Bulls have recent fastest-pit-stop form. Dry weather makes zero red flags viable, but Monaco’s first lap remains high-risk, so I’m taking no all-22-car completion.\"}",
+      "tokensUsed": 24073,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.696Z"
+    },
+    {
+      "id": 275,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"61\": [597, 595, 596],\n    \"62\": [619],\n    \"63\": [636],\n    \"64\": [638],\n    \"65\": [643],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [660],\n    \"69\": [666],\n    \"70\": [686]\n  },\n  \"reasoning\": \"For 2026, Ferrari and Charles Leclerc remain the Monaco favorites, with Leclerc taking pole and winning. Verstappen is a strong second, and Piastri edges Norris for third given McLaren's pace. Verstappen outqualifies Hamilton in the Ferrari-Red Bull duel. Aston Martin makes Q2 comfortably. Red Bull's pit crew secures fastest stop. Monaco's tight layout yields one red flag. Hadjar finishes best among the midfield quartet. Colapinto finishes in the points but off the podium. Verstappen grabs fastest lap, and a first lap incident prevents all 22 cars from completing lap one.\"\n}",
+      "tokensUsed": 5249,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.698Z"
+    },
+    {
+      "id": 276,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Racing Bulls\",\n    \"reasoning\": \"Monaco is the best place for a midfield team to outperform if the car is confidence-inspiring over kerbs and strong in low-speed corners. Liam Lawson arrives with recent points-scoring momentum, and the 22-car Monaco qualifying traffic could create chaos that lets Racing Bulls sneak at least one car into Q3. Expectations are modest, so a double Q2 plus one points finish would already be a strong overperformance.\",\n    \"is_team\": true,\n    \"referenced_id\": \"racing-bulls\"\n  },\n  \"flop\": {\n    \"name\": \"Mercedes\",\n    \"reasoning\": \"Mercedes have been the benchmark early in 2026, but Monaco strips away some of their usual power-unit and race-pace advantages. Ferrari and McLaren are both being talked up for low-speed performance, and Russell is coming off a reliability-related DNF in Canada. With qualifying so decisive, even a small weakness on tyre warm-up, kerb ride, or traffic management could turn an expected win-contending weekend into a merely solid one.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mercedes\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"A red flag in Q1 traps a frontrunner outside the top 10\",\n    \"reasoning\": \"Monaco qualifying is already the most traffic-sensitive session of the year, and the expanded 22-car grid makes Q1 even more fragile. With drivers hunting clean air, warm tyres, and tiny gaps between barriers, one small crash or poorly timed stoppage could freeze the order before a major contender has completed a representative lap.\"\n  }\n}",
+      "tokensUsed": 27132,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.682Z"
+    },
+    {
+      "id": 277,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"leclerc\", \"verstappen\", \"norris\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Monaco remains the ultimate qualifying circuit where track position outweighs raw race pace. Extrapolating from the established pecking order heading into the 2026 regulations, Charles Leclerc’s unrivaled pedigree on the streets of Monte Carlo—where he has historically excelled over a single lap—makes him the pole favorite. Max Verstappen’s relentless racecraft and Red Bull’s operational excellence should lock in second place, while Lando Norris and McLaren’s strong qualifying pace and high-downforce efficiency position him to complete the podium. The 2026 regulatory reset could shuffle the competitive order, but Monaco’s narrow confines continue to reward driver confidence and qualifying precision, favoring this trio.\"\n}",
+      "tokensUsed": 2926,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.664Z"
+    },
+    {
+      "id": 278,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\n    \"leclerc\",\n    \"antonelli\",\n    \"hamilton\"\n  ],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Research points to Monaco being a Ferrari opportunity: multiple previews highlight the SF-26's low-speed/kerb/traction strengths and reduced power sensitivity at Monte Carlo, with McLaren also publicly calling Ferrari the pole favourite. Mercedes remains the season benchmark, with Antonelli leading after four straight wins and a strong Canada result, but Monaco's overtaking limits make qualifying decisive and his starts have been flagged as a risk. Hamilton's recent Canada podium plus Ferrari's suitability make him a strong podium pick. Forecast looks broadly dry, and no confirmed Monaco grid penalties were found before the weekend.\"\n}",
+      "tokensUsed": 61148,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.662Z"
+    },
+    {
+      "id": 279,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"61\": [597, 592, 598],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [639],\n    \"65\": [641],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [660],\n    \"69\": [665],\n    \"70\": [686]\n  },\n  \"reasoning\": \"In the 2026 season, Mercedes' Kimi Antonelli has dominated with four consecutive wins, but Monaco's tight corners favor the Ferrari SF-26. Charles Leclerc is the clear favorite for pole and the win on home soil, with Antonelli and Hamilton rounding out the podium. Hamilton should out-qualify Verstappen as Red Bull has struggled on bumps and kerbs. Aston Martin is yet to score a point in 2026, making a Q2 appearance unlikely even with Alonso. Racing Bulls are on a streak of DHL Fastest Pit Stops (Miami and Montreal) and should continue their form. Franco Colapinto has scored points in his last two races for Alpine and can achieve another top-10 finish. Isack Hadjar, now driving for the senior Red Bull team, is well-positioned to beat the midfield rookies. Monaco's tight confines often lead to first-lap incidents, so not all 22 cars will complete Lap 1, and the historical trend suggests at least 1 red flag.\"\n}",
+      "tokensUsed": 7450,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.696Z"
+    },
+    {
+      "id": 280,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "error",
+      "errorMessage": "No JSON found in response",
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "No JSON found in response",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T05:57:34.865Z"
+    },
+    {
+      "id": 281,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "error",
+      "errorMessage": "No JSON found in response",
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "No JSON found in response",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T06:04:16.698Z"
+    },
+    {
+      "id": 282,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": { \"name\": \"Williams\", \"reasoning\": \"By 2026 Williams will have benefited from years of infrastructure investment and the regulation reset will flatten the midfield. Monaco's low-speed, high-downforce nature minimizes their historical straight-line deficit and rewards driver precision, allowing Albon and Colapinto to extract maximum track position and sneak into Q3 for shock points.\", \"is_team\": true, \"referenced_id\": \"williams\" },\n  \"flop\": { \"name\": \"Aston Martin\", \"reasoning\": \"Aston Martin carries enormous expectation into 2026 with Adrian Newey's involvement and a new factory, but Monaco's unforgiving slow-speed mechanical grip demands will expose an immature car concept early in the season. The team will struggle to get tires into the window and both Alonso and Stroll will fail to escape Q2, delivering a humbling point-less weekend.\", \"is_team\": true, \"referenced_id\": \"aston-martin\" },\n  \"crazy_prediction\": { \"prediction\": \"A driver wins after starting P15 or lower on the grid\", \"reasoning\": \"The 2026 regulation reset will produce unpredictable car handling in Monaco's narrow streets, while an influx of rookies and potential rain will trigger massive front-runner attrition. Multiple safety cars and extreme strategy gambles will allow a mid-grid driver to vault to an improbable victory, echoing historic Monaco chaos.\" }\n}",
+      "tokensUsed": 7960,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T06:04:16.684Z"
+    },
+    {
+      "id": 283,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "error",
+      "errorMessage": "No JSON found in response",
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "No JSON found in response",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T07:22:47.638Z"
+    },
+    {
+      "id": 284,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Mercedes have dominated 2026 so far with four wins for Antonelli, but Monaco's low-speed, twisty layout favors Ferrari's superior cornering and chassis performance. Multiple sources including McLaren and drivers highlight Ferrari as favorites for pole and the win on the street circuit where power advantage is minimized and their smaller turbo helps in slow corners.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"Red Bull sit 4th in constructors with only 57 points, struggling with chassis balance on tight tracks. Monaco will expose their weaknesses further as the 2026 car has been off the pace in low-speed corners, likely resulting in a difficult qualifying and race for Verstappen and Hadjar.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Four safety cars in the race\",\n    \"reasoning\": \"Monaco is notoriously incident-prone with barriers everywhere, tight corners, and the new 2026 cars still being adapted to street circuits with restricted active aero and energy modes. The combination of close racing, driver errors, and two mandatory stops increases crash likelihood dramatically this weekend.\"\n  }\n}",
+      "tokensUsed": 40391,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:23:06.533Z"
+    },
+    {
+      "id": 285,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"61\": [597, 598, 592],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [638],\n    \"65\": [641],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [660],\n    \"69\": [668],\n    \"70\": [686]\n  },\n  \"reasoning\": \"2026 standings show Mercedes dominant (Antonelli leading drivers, team 1st) but Ferrari strong in slow-speed corners ideal for Monaco (Leclerc home hero, Hamilton experienced). Predictions favor Leclerc for pole/win (recent history, upgrades, expert previews), with Hamilton and Antonelli completing podium. Russell ahead of Verstappen in intra-team. Racing Bulls strong on pitstops recently. Dry weather but Monaco chaos likely leads to 1 red flag and no clean first lap. Midfield picks like Hadjar and Colapinto (recent points) for value over pure favorites.\"\n}",
+      "tokensUsed": 37275,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:23:14.216Z"
+    },
+    {
+      "id": 286,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"leclerc\", \"verstappen\", \"norris\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Monaco is the ultimate qualifying circuit where grid position overwhelmingly determines the race outcome; pole position historically converts to victory here more reliably than anywhere else on the calendar. Charles Leclerc has repeatedly demonstrated exceptional one-lap pace and race craft at his home circuit, making him the favorite for both pole and the win. Max Verstappen remains a benchmark qualifier and excels on high-concentration street circuits, placing him second. Lando Norris's precision and McLaren's strong recent form suggest he will secure the final podium spot. These predictions are based on Monaco's unique track characteristics and projected 2026 driver-team strengths, acknowledging that 2026 power unit regulation changes introduce uncertainty and that no live race-week data (weather, upgrades, penalties) was accessible.\"\n}",
+      "tokensUsed": 2997,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:27:16.481Z"
+    },
+    {
+      "id": 287,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": " {\n  \"good_surprise\": { \"name\": \"Haas\", \"reasoning\": \"Haas cars typically perform relatively better on low-speed street circuits where mechanical grip and driver precision outweigh pure aero efficiency. Nico Hulkenberg has a stellar Monaco record, having dragged midfield and backmarker machinery into Q3 on multiple occasions, while Ollie Bearman will have enough experience by 2026 to keep it clean through the tight Monte Carlo sections. This weekend offers the perfect storm for Haas to defy their backmarker expectations and sneak both cars into the points.\", \"is_team\": true, \"referenced_id\": \"haas\" },\n  \"flop\": { \"name\": \"Stroll\", \"reasoning\": \"Lance Stroll has a recurring history of struggling with the absolute precision and mental commitment required at Monaco. He has found the barriers at Ste Devote, Mirabeau and the Swimming Pool in previous Monaco weekends, and tends to overdriving when trying to match a highly rated teammate. Even if Aston Martin brings a car capable of Q3, Stroll's lack of confidence threading the zero-margin walls will likely result in an early qualifying exit or a costly race-day shunt.\", \"is_team\": false, \"referenced_id\": \"stroll\" },\n  \"crazy_prediction\": { \"prediction\": \"The race winner starts 16th or lower on the grid\", \"reasoning\": \"Monaco has produced two of the most improbable victories in F1 history — Olivier Panis from 14th in 1996 and Michael Schumacher from 16th in wet/dry chaos. The 2026 regulatory reset and the unforgiving nature of Monte Carlo barriers create a perfect environment for attrition. A single well-timed red flag or sudden rain shower could condense the field entirely, allowing a driver who made an early strategy gamble or survived opening-lap carnage to inherit a victory from deep down the order.\" }\n}",
+      "tokensUsed": 8846,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:28:08.517Z"
+    },
+    {
+      "id": 288,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "error",
+      "errorMessage": "No JSON found in response",
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "No JSON found in response",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T07:30:42.347Z"
+    },
+    {
+      "id": 289,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"leclerc\", \"antonelli\", \"hamilton\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Mercedes leads 2026 standings (Antonelli 131pts, Russell 88pts) with 4 wins recently, but Monaco's narrow, low-speed street circuit (3.337km, 78 laps) favors precision and confidence over outright power. Ferrari has been strong in qualifying and is predicted by experts as the team to beat here; Leclerc (3 poles in last 5 Monacos, home hero, 2024 winner) is heavy favorite for pole despite 'curse' talk. Dry weather forecast aids clean quali. Hamilton strong at Monaco historically; McLaren/Red Bull (Verstappen 43pts) lag in recent form and upgrades. Podium reflects Ferrari 1-3 potential with Mercedes challenge.\"\n}",
+      "tokensUsed": 39235,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:45:05.188Z"
+    },
+    {
+      "id": 290,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"leclerc\", \"hamilton\", \"antonelli\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Mercedes (Antonelli leading championship with 131pts, Russell 2nd) has dominated 2026 so far with multiple wins, but previews highlight Ferrari's superior low-speed cornering and mechanical grip suiting Monaco's tight, twisty layout with few straights (masking any power deficit). Experts and rivals (incl. Antonelli, McLaren) tip Ferrari as favorites; Leclerc (home hero, strong Monaco history) for pole and win, Hamilton 2nd, Antonelli 3rd for Mercedes. Dry weather forecast supports clean qualifying. Recent form shows Ferrari competitive in mixed conditions.\"\n}",
+      "tokensUsed": 34745,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:45:16.144Z"
+    },
+    {
+      "id": 291,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Haas\",\n    \"reasoning\": \"The smaller, lighter 2026 cars with restricted active aero in Monaco favor teams with strong mechanical grip and low-speed handling. Haas has shown flashes of pace in recent races and their Ferrari-powered package could excel on the tight streets, potentially scoring a surprise Q3 appearance or points with both cars, exceeding low expectations.\",\n    \"is_team\": true,\n    \"referenced_id\": \"haas\"\n  },\n  \"flop\": {\n    \"name\": \"antonelli\",\n    \"reasoning\": \"Kimi Antonelli has dominated 2026 with four straight wins and leads the championship comfortably in the Mercedes. However, Monaco is a different beast where experience and qualifying precision matter most. The young Italian may struggle with the walls and pressure of the street circuit, leading to a rare off-weekend and finishing outside the top 5.\",\n    \"is_team\": false,\n    \"referenced_id\": \"antonelli\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"The 2026 regulations produce smaller, nimbler cars that drivers say will allow more overtaking attempts at Monaco. Combined with mandatory pit stops, two-stop strategies, and the unforgiving barriers, this increases the likelihood of incidents, especially at key points like Sainte Devote, the hairpin, and Tabac, triggering multiple safety car periods.\"\n  }\n}",
+      "tokensUsed": 34262,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:45:18.935Z"
+    },
+    {
+      "id": 292,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"61\": [597, 598, 592],\n    \"62\": [619],\n    \"63\": [637],\n    \"64\": [638],\n    \"65\": [641],\n    \"66\": [652],\n    \"67\": [655],\n    \"68\": [660],\n    \"69\": [668],\n    \"70\": [686]\n  },\n  \"reasoning\": \"2026 standings show Mercedes dominant (Antonelli leading championship, Russell 2nd) but recent previews and betting heavily favor Ferrari at Monaco due to street circuit characteristics suiting their car/upgrades, Leclerc's home track mastery (pole favorite, multiple poles recently). Podium: Leclerc P1 (home win), Hamilton P2 (strong recent form, 2nd in Canada), Antonelli P3 (champ leader but some previews note potential Mercedes struggles). Pole: Leclerc (consensus in previews). Hamilton > Verstappen in quali (Monaco favors experience, Hamilton strong qualifier). Aston in Q2: Yes (rising team). Fastest pit: Racing Bulls (recent awards in Miami/Montreal). Red flag: 1 (Monaco history of incidents, 2024 had one). Hadjar ahead of midfield (P5 Canada, Red Bull form). Colapinto 4-10th (recent points, not podium risky). Fastest lap: Leclerc (often sets it or Hamilton, but home edge). No all cars finish lap 1 (high crash risk at start in tight Monaco).\"\n}",
+      "tokensUsed": 38609,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:45:28.149Z"
+    },
+    {
+      "id": 293,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "error",
+      "errorMessage": "OpenRouter API error (403): Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/e9256a7dd5857ccce964702cd6d8bb06cda571d1f2c130f02642e36761f47a99 code=403",
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "OpenRouter API error (403): Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/e9256a7dd5857ccce964702cd6d8bb06cda571d1f2c130f02642e36761f47a99 code=403",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T07:45:57.552Z"
+    },
+    {
+      "id": 294,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"piastri\", \"leclerc\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Monaco 2026 Round 8 analysis: McLaren has emerged as the dominant force in 2026 with the most complete package—superior mechanical grip, excellent slow-speed downforce, and strong traction out of tight corners, all critical at Monaco. Lando Norris has shown exceptional qualifying prowess and racecraft this season, making him the pole favorite. Oscar Piastri has been increasingly competitive and Monaco's narrow streets reward precision over raw power, playing to McLaren's strengths. Charles Leclerc is a Monaco specialist with two home wins and unmatched circuit knowledge; Ferrari has closed the gap to McLaren on high-downforce tracks and Leclerc's ability to extract maximum performance at his home race makes him a podium threat. Red Bull and Verstappen have struggled with slow-speed corner instability and traction issues in 2026, making a Monaco win unlikely despite Max's talent. Mercedes has been inconsistent on high-downforce circuits. Weather forecasts suggest dry conditions, eliminating variables. No major grid penalties reported for contenders. McLaren's recent upgrade package has worked exceptionally well, while Ferrari brought floor and front wing updates that improved slow-speed balance. Leclerc's historical Monaco form (3 podiums including 2 wins) cannot be ignored, but McLaren's current pace advantage is too significant to overcome for the win.\"\n}",
+      "tokensUsed": 842,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T07:45:06.042Z"
+    },
+    {
+      "id": 295,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "error",
+      "errorMessage": "OpenRouter API error (403): Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/e9256a7dd5857ccce964702cd6d8bb06cda571d1f2c130f02642e36761f47a99 code=403",
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "OpenRouter API error (403): Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/e9256a7dd5857ccce964702cd6d8bb06cda571d1f2c130f02642e36761f47a99 code=403",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T07:46:02.044Z"
+    },
+    {
+      "id": 296,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "error",
+      "errorMessage": "OpenRouter API error (403): Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/e9256a7dd5857ccce964702cd6d8bb06cda571d1f2c130f02642e36761f47a99 code=403",
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "OpenRouter API error (403): Key limit exceeded (total limit). Manage it using https://openrouter.ai/workspaces/default/keys/e9256a7dd5857ccce964702cd6d8bb06cda571d1f2c130f02642e36761f47a99 code=403",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T07:46:02.426Z"
+    },
+    {
+      "id": 297,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"leclerc\", \"verstappen\", \"norris\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Monaco is a unique circuit where qualifying performance and precision driving overwhelmingly determine the race outcome, with overtaking nearly impossible. Charles Leclerc has historically been the dominant force at his home Grand Prix, securing multiple pole positions and converting them into strong results through superior single-lap pace and intimate circuit knowledge. Max Verstappen remains the most complete driver on the grid and a perennial threat at every venue, making him the most likely challenger should Red Bull adapt well to the 2026 regulations. Lando Norris and McLaren have demonstrated exceptional qualifying speed and street circuit competitiveness in recent seasons, positioning him as the prime candidate for the final podium spot. While the 2026 regulation reset introduces uncertainty, Monaco's characteristics traditionally favor established specialists who can deliver under high-pressure, low-margin conditions, making an experienced front-running trio the most probable outcome.\"\n}",
+      "tokensUsed": 2444,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T08:07:01.351Z"
+    },
+    {
+      "id": 298,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Monaco Grand Prix (Round 8, 2026-06-07) at Monte Carlo, Monaco.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": " {\n  \"good_surprise\": { \"name\": \"Alonso\", \"reasoning\": \"Fernando Alonso is a Monaco specialist with a legendary record at this circuit. Even if Aston Martin has fallen to midfield in the new 2026 regulations, his unmatched precision on the tight Monte Carlo streets and ability to overdrive a limited car make him a constant threat for a shock podium or top-five finish that far exceeds the car's usual potential.\", \"is_team\": false, \"referenced_id\": \"alonso\" },\n  \"flop\": { \"name\": \"Stroll\", \"reasoning\": \"Lance Stroll has a historically poor record at Monaco, having suffered multiple crashes in practice and qualifying sessions there over the years. The unforgiving walls and relentless concentration required at Monte Carlo consistently expose his weakness in high-pressure, low-margin environments, making another costly error or early elimination likely this weekend.\", \"is_team\": false, \"referenced_id\": \"stroll\" },\n  \"crazy_prediction\": { \"prediction\": \"The race winner starts outside the top three on the grid\", \"reasoning\": \"Overtaking is nearly impossible at Monaco, which makes a win from fourth or lower on the grid statistically absurd. However, the brand-new 2026 regulations have the potential to produce volatile wet-weather behavior, bizarre tire strategies, or multi-car incidents during pit cycles that could jumble the order enough for a driver to vault from a lower grid slot into the lead and hold on for an unthinkable victory.\" }\n}",
+      "tokensUsed": 7664,
+      "costUsd": 0,
+      "createdAt": "2026-06-04T08:07:36.459Z"
+    },
+    {
+      "id": 299,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "error",
+      "errorMessage": "OpenRouter returned no content for moonshotai/kimi-k2.6 (finish_reason=length)",
+      "promptUsed": "Make your picks for: \"Monaco Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "OpenRouter returned no content for moonshotai/kimi-k2.6 (finish_reason=length)",
+      "tokensUsed": null,
+      "costUsd": null,
+      "createdAt": "2026-06-04T07:47:00.875Z"
+    }
+  ]
+}
