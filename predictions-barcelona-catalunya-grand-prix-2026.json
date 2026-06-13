@@ -1,0 +1,910 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "barcelona-catalunya-2026",
+  "raceName": "Barcelona-Catalunya Grand Prix",
+  "isSprint": false,
+  "exportedAt": "2026-06-09T06:03:04.028Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Antonelli wins a sixth consecutive race AND sets the fastest lap, completing a grand chelem (pole, win, fastest lap, leading every lap)\",\"reasoning\":\"Antonelli is on a historic 5-race win streak with unflappable confidence. Barcelona is a track where dominant cars tend to convert — Verstappen achieved a Grand Chelem here in 2023. With Mercedes dominant, Russell shellshocked, and the 19-year-old in peak form, a full lights-to-flag domination with grand chelem is a bold but plausible scenario that would cement his status as the championship favorite.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"Russell is in a 'very weird state of mind' after Monaco, 68 points behind teammate Antonelli, struggling with tyre warm-up and driving style issues. He admitted he doesn't know what's going on. Barcelona's long demanding corners were tipped as a barometer — if his confidence is shot, this could be another disaster weekend where Antonelli further humiliates him. Mercedes may be quietly shifting focus to Antonelli too.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Hadjar has had a strong adaptation to Red Bull machinery and Barcelona's long, demanding corners suit a confident driver. Helmut Marko's 'Little Prost' has shown he learns tracks fast. With Verstappen having had an engine failure in Monaco and Honda promising drivability upgrades, Red Bull could deliver a surprise — and Hadjar's calm style and Catalan track familiarity from his strong 2025 Spanish GP P7 could see him outshine his teammate or break into top 5.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Barcelona-Catalunya GP?",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Audi get a car into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will there be a Safety Car or VSC during the GP?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Max Verstappen",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Two different rookies finish on the podium\",\"reasoning\":\"With Verstappen taking a grid penalty for a new engine, Ferrari's upgrades potentially vaulting them forward, and Mercedes having the strongest engine, the field is incredibly close. Rookies like Antonelli (who is the favorite to win) and Hadjar or Bearman could capitalize on strategic chaos at a circuit where overtaking is difficult and tire degradation is high.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"Despite the Mercedes engine's strength at this circuit, George Russell has a poor track record at Barcelona compared to teammate Antonelli, and with Antonelli carrying a 37% market probability to win and Russell likely feeling pressure, he may crack under the expectation of capitalizing on Red Bull's recent unreliability.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari has brought a major aerodynamic upgrade package reportedly worth two-tenths per lap, featuring a new front wing, floor, and bodywork. This is their self-described 'make-or-break' upgrade to compensate for engine deficits at a high-downforce circuit where their chassis strengths can shine.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Barcelona-Catalunya GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Audi get a car into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will there be a Safety Car or VSC during the GP?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Max Verstappen",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"The race leader retires due to an active aero failure\",\"reasoning\":\"With the new 2026 active aerodynamics regulations being pushed to their absolute limits on Barcelona's demanding high-speed corners, a sudden system failure will cause the race leader to dramatically lose downforce and retire, blowing the podium fight wide open.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"George is visibly struggling with the 2026 Mercedes, openly admitting the car's setup is moving away from his driving style while his rookie teammate Antonelli dominates with five straight wins. Coming off a disastrous, penalty-ridden Monaco, his downward spiral will continue with a finish outside the top six.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"After a highly disappointing and anonymous Monaco Grand Prix where the defending champions suffered a DNF, the traditional high-speed aerodynamic demands of the Barcelona-Catalunya circuit will perfectly suit their 2026 car, allowing them to bounce back and challenge Mercedes for the win.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Barcelona-Catalunya GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Audi get a car into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will there be a Safety Car or VSC during the GP?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Oscar Piastri",
+        "podium_p3": "Max Verstappen",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A late rain shower triggers a red flag\",\"reasoning\":\"Barcelona is usually predictable, which is why this is the bold swing: a short, badly timed shower in the final stint would instantly turn a tyre-management race into chaos. With the field likely close under 2026 regulations, even a brief rain burst could cause multiple cars to gamble on intermediates, creating incidents and forcing race control into a stoppage.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari has enough one-lap speed to look dangerous, but Barcelona punishes cars that are even slightly harsh on tyres through the long loaded corners. If track temperatures are high, the race could expose degradation and balance limitations more than qualifying does. With both drivers under pressure to deliver, I can see Ferrari flattering to deceive on Saturday and then sliding backwards strategically on Sunday.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Barcelona is one of the purest aero-efficiency tests on the calendar, and if Aston Martin’s latest high-speed balance improvements are real, this is exactly the kind of track where they can look better than their baseline pace. Alonso’s home race factor also matters here: he tends to extract extra performance in Spain, and a clean qualifying could put Aston Martin in position to steal big points from teams expected to be ahead.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Barcelona-Catalunya GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Audi get a car into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will there be a Safety Car or VSC during the GP?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"The 2026 cars are still relatively new with evolving aero and power unit characteristics. Barcelona's mix of high-speed corners, technical sections, and long straights combined with potential tyre management issues and close midfield battles (especially with upgrades) increases the chance of incidents, mistakes under pressure, or mechanical failures leading to multiple SC deployments.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull\",\"reasoning\":\"Red Bull has struggled in 2026 with only 72 constructors points and Verstappen in 7th in the drivers' standings. Recent races show inconsistency, and while they have some upgrades, the Barcelona layout with its high-speed demands and testing history favors Mercedes and Ferrari more. Expect them to fall further behind the top three teams.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari is bringing a major front wing redesign and first major bodywork evolution to Barcelona, a track that serves as a key benchmark for the 2026 regs. With recent strong showings from Hamilton and upgrades tailored for high-speed corners like Turn 3, they should close the gap to dominant Mercedes and challenge for poles and wins this weekend.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Barcelona-Catalunya GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Audi get a car into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will there be a Safety Car or VSC during the GP?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Lewis Hamilton",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "Lewis Hamilton"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Cadillac gets their first points",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Charles Leclerc",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "Nico Hulkenberg",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Barcelona-Catalunya GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Audi get a car into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will there be a Safety Car or VSC during the GP?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Max Verstappen",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A driver leads every single lap\",\"reasoning\":\"Kimi Antonelli has won five consecutive races and is absolutely dominating the 2026 season. Barcelona is a track where overtaking is difficult and pole position is historically crucial. With Antonelli's current form, Mercedes' pace, and the difficulty of passing at Circuit de Barcelona-Catalunya, there's a real chance he could convert pole into a lights-to-flag victory — a rare feat in modern F1 but plausible given his dominance.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"George Russell\",\"reasoning\":\"Russell has failed to score points for two consecutive race weekends and dropped to third in the standings, 68 points behind his teammate Antonelli. His form has nosedived at a critical time, and with Hamilton outperforming him recently at Ferrari, Russell seems to be in a confidence spiral. Barcelona's high-degradation, traction-sensitive corners could expose his current struggles.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Max Verstappen is getting a brand-new engine after his Monaco DNF caused by a power unit failure, and the team has apologized, suggesting a strong bounce-back effort. Barcelona is a track that rewards aerodynamic efficiency and Red Bull has historically been strong here. With Antonelli dominating and Mercedes potentially taking their eye off the ball, Red Bull could overperform relative to recent expectations and challenge for the podium or even win.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": []
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "Oscar Piastri",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "Max Verstappen",
+        "pole": "Oscar Piastri"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety car periods during the race\",\"reasoning\":\"Max Verstappen is getting a brand new power unit after his Monaco engine failure, and new engines can sometimes have reliability issues in their first race. Combined with the fact that Barcelona is a high-degradation circuit where overtaking is difficult and drivers often push to the limit, multiple incidents are likely. The new 2026 cars with their ground effect aerodynamics are also known to be sensitive to turbulence, making contact more likely. A chaotic race with multiple safety cars would shake up the championship entirely.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"Despite being the second favorite at 31% on Polymarket, Russell and Mercedes could underperform at Barcelona. The Circuit de Barcelona-Catalunya is notoriously demanding on car setup, and if Mercedes can't extract the expected pace from their package, Russell could struggle. Additionally, with Antonelli getting the bulk of the focus as the favorite, Russell may find himself in unfamiliar territory fighting outside the top positions rather than challenging for the win.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari is bringing a massive two-tenths per lap aero upgrade to Barcelona, including a new front wing and floor revision. This is described as a 'make-or-break' upgrade for their season. If the upgrade delivers as promised, both Hamilton and Leclerc could surprise given Ferrari's recent struggles. The upgrade specifically targets the high-speed cornering demands of Barcelona where they've been lacking downforce.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Barcelona-Catalunya Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Barcelona-Catalunya GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Audi get a car into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will there be a Safety Car or VSC during the GP?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  },
+  "generationLogs": [
+    {
+      "id": 300,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": " {\"good_surprise\": {\"name\": \"Red Bull Racing\", \"reasoning\": \"Max Verstappen is getting a brand-new engine after his Monaco DNF caused by a power unit failure, and the team has apologized, suggesting a strong bounce-back effort. Barcelona is a track that rewards aerodynamic efficiency and Red Bull has historically been strong here. With Antonelli dominating and Mercedes potentially taking their eye off the ball, Red Bull could overperform relative to recent expectations and challenge for the podium or even win.\", \"is_team\": true, \"referenced_id\": \"red-bull\"}, \"flop\": {\"name\": \"George Russell\", \"reasoning\": \"Russell has failed to score points for two consecutive race weekends and dropped to third in the standings, 68 points behind his teammate Antonelli. His form has nosedived at a critical time, and with Hamilton outperforming him recently at Ferrari, Russell seems to be in a confidence spiral. Barcelona's high-degradation, traction-sensitive corners could expose his current struggles.\", \"is_team\": false, \"referenced_id\": \"russell\"}, \"crazy_prediction\": {\"prediction\": \"A driver leads every single lap\", \"reasoning\": \"Kimi Antonelli has won five consecutive races and is absolutely dominating the 2026 season. Barcelona is a track where overtaking is difficult and pole position is historically crucial. With Antonelli's current form, Mercedes' pace, and the difficulty of passing at Circuit de Barcelona-Catalunya, there's a real chance he could convert pole into a lights-to-flag victory — a rare feat in modern F1 but plausible given his dominance.\"}}",
+      "tokensUsed": 3503,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.096Z"
+    },
+    {
+      "id": 301,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari is bringing a major front wing redesign and first major bodywork evolution to Barcelona, a track that serves as a key benchmark for the 2026 regs. With recent strong showings from Hamilton and upgrades tailored for high-speed corners like Turn 3, they should close the gap to dominant Mercedes and challenge for poles and wins this weekend.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull\",\n    \"reasoning\": \"Red Bull has struggled in 2026 with only 72 constructors points and Verstappen in 7th in the drivers' standings. Recent races show inconsistency, and while they have some upgrades, the Barcelona layout with its high-speed demands and testing history favors Mercedes and Ferrari more. Expect them to fall further behind the top three teams.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"The 2026 cars are still relatively new with evolving aero and power unit characteristics. Barcelona's mix of high-speed corners, technical sections, and long straights combined with potential tyre management issues and close midfield battles (especially with upgrades) increases the chance of incidents, mistakes under pressure, or mechanical failures leading to multiple SC deployments.\"\n  }\n}",
+      "tokensUsed": 38001,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.095Z"
+    },
+    {
+      "id": 302,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"russell\", \"leclerc\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Mercedes has dominated 2026, winning every race so far with Kimi Antonelli leading the championship (5 wins in a row including recent Monaco and Canada). The team leads constructors by a large margin. Barcelona-Catalunya's mix of high/medium-speed corners and long straights historically favors balanced aero cars like Mercedes. Recent previews note the track suits the Silver Arrows. Ferrari (Hamilton 2nd in standings, Leclerc strong) and improving McLaren are closest challengers but Mercedes' upgrades and form make a 1-2 likely. No major penalties or weather issues (dry forecast) expected.\"\n}",
+      "tokensUsed": 31481,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:46.871Z"
+    },
+    {
+      "id": 303,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Barcelona-Catalunya Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"71\": [687, 688, 692],\n    \"72\": [709],\n    \"73\": [731],\n    \"74\": [733],\n    \"75\": [737],\n    \"76\": [746],\n    \"77\": [748],\n    \"78\": [753],\n    \"79\": [756],\n    \"80\": [782]\n  },\n  \"reasoning\": \"Research shows Mercedes dominant in 2026 (Antonelli leads championship with 5 wins, team leads constructors by big margin). Recent Monaco: Antonelli won from pole despite chaos/reliability issues hitting others (Verstappen, Norris retired). Barcelona is high-speed aero track suiting Mercedes' strong PU/chassis from testing. Bold podium: Antonelli (P1, in-form, FL specialist), Russell (P2, teammate), Leclerc (P3, Ferrari 2nd in standings). Pole: Antonelli (recent poles, low pts option). Norris highest qual over Piastri (McLaren resolving reliability per Q). Audi in Q3 (midfield chance post-Monaco points). McLaren fastest pit (strong in past, multi-stop track). SC likely (Monaco chaos, reliability woes continue). Gasly ahead in Alpine vs Williams battle (recent form). Hadjar 4-10th (Monaco podium but Barcelona harder for Red Bull). Antonelli fastest lap (multiple 2026 FLs). 19 finishers (fewer DNFs than Monaco's 15 classified).\"\n}",
+      "tokensUsed": 42118,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.311Z"
+    },
+    {
+      "id": 304,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"piastri\",\"podium\":[\"piastri\",\"norris\",\"verstappen\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"McLaren dominated Barcelona in 2025 with Piastri taking pole and race win, Norris second. The track rewards overall car balance, tyre management, and high-speed stability - areas where McLaren has excelled. Piastri topped all sessions in 2025 and is the clear favorite. Norris provides strong backup. Verstappen has four Barcelona wins historically and remains a threat if Red Bull improves their package. Mercedes (Russell/Antonelli) and Ferrari (Leclerc) are strong podium contenders but McLaren's 1-2 at this track last year sets the benchmark. Polymarket odds favor Antonelli (37%) and Russell (23-31%), but this likely reflects recent form rather than Barcelona-specific performance where McLaren's historical dominance at this circuit is well-established. The prediction market may be overvaluing recent Mercedes pace over Barcelona-specific data.\"}",
+      "tokensUsed": 3772,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:46.873Z"
+    },
+    {
+      "id": 305,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"antonelli\",\"podium\":[\"antonelli\",\"hamilton\",\"leclerc\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"Kimi Antonelli has been utterly dominant in 2026, winning five consecutive races including Monaco, and leads the championship by 68 points over teammate Russell. Mercedes has won every race so far this season, making Antonelli the clear favorite at Barcelona - a high-speed circuit that suits the Mercedes' strengths even more than Monaco. Lewis Hamilton has finished P2 in back-to-back races and is finally mastering the SF-26; he set the fastest lap in the January 2026 Barcelona test and has 6 career wins here (joint record with Schumacher), making him a strong podium pick at his most familiar circuit in Ferrari red. Leclerc rounds out the podium given Ferrari's strong pace (Hamilton led a Ferrari 1-2 in Monaco FP2). Weather is sunny, dry, 27°C with 0% rain chance. Russell omitted due to recent poor form (outside points in Monaco). Verstappen is a risk after his Monaco PU failure. The new 2026 regulations and tyre specs add uncertainty, but Mercedes' season-long dominance makes Antonelli the safest pole/win pick.\"}",
+      "tokensUsed": 26353,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:46.861Z"
+    },
+    {
+      "id": 306,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"piastri\", \"verstappen\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Barcelona-Catalunya is a high-load, aero-efficiency and tyre-degradation test, which should suit McLaren's recent strengths in race pace, medium/high-speed balance and tyre management. Recent form and expert outlooks point to Norris and Piastri as the most complete package, with Verstappen still the main threat if Red Bull's upgrades deliver or if qualifying execution swings his way. Ferrari should be competitive, especially through Leclerc over one lap, but looks slightly less convincing on long-run degradation. Mercedes is a podium outsider rather than the baseline favourite. Current pre-weekend information indicates a standard non-Sprint event, generally warm/dry conditions, and no decisive known grid penalties affecting the expected front-runners.\"\n}",
+      "tokensUsed": 1033,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:46.868Z"
+    },
+    {
+      "id": 307,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Barcelona-Catalunya Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"71\":[687,693,691],\"72\":[709],\"73\":[732],\"74\":[734],\"75\":[737],\"76\":[747],\"77\":[748],\"78\":[753],\"79\":[756],\"80\":[781]},\"reasoning\":\"Antonelli has won 5 straight including Monaco and leads Russell by 68 pts; Mercedes has won every 2026 race. I'm picking Antonelli for pole, win, and fastest lap. Hamilton has been P2 in back-to-back races and historically dominant at Barcelona (5 wins 2017-2021), so P2. Piastri has been the most consistent McLaren (2nd/3rd/4th recent races, P4 Monaco) and Barcelona suits McLaren - taking P3 over Norris who's had reliability issues. Piastri qualifies ahead of Norris (he was on pole at Barcelona 2025). Audi (Sauber/Bortoleto/Hulkenberg) unlikely Q3 at a power-sensitive track. McLaren typically has fastest pitstops. Barcelona historically low SC probability and dry weekend forecast = no SC. Gasly over Sainz/Albon - Alpine has had upper hand per question hint. Hadjar finishing 4-10 is most likely after his Monaco podium fluke. 18 classified finishers is the modal outcome with reliability somewhat improved from Monaco's 15.\"}",
+      "tokensUsed": 34234,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.308Z"
+    },
+    {
+      "id": 308,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "I have enough to make predictions. Key insights:\n- Antonelli on 5-race winning streak, Mercedes dominant\n- Russell in terrible form, mental funk\n- Barcelona is a \"barometer track\" - long demanding corners\n- Hadjar now at Red Bull, Verstappen had Monaco PU failure\n- Honda drivability upgrade expected\n- Ferrari starts advantage may be lost\n\n{\n  \"good_surprise\": {\n    \"name\": \"Hadjar\",\n    \"reasoning\": \"Hadjar has had a strong adaptation to Red Bull machinery and Barcelona's long, demanding corners suit a confident driver. Helmut Marko's 'Little Prost' has shown he learns tracks fast. With Verstappen having had an engine failure in Monaco and Honda promising drivability upgrades, Red Bull could deliver a surprise — and Hadjar's calm style and Catalan track familiarity from his strong 2025 Spanish GP P7 could see him outshine his teammate or break into top 5.\",\n    \"is_team\": false,\n    \"referenced_id\": \"hadjar\"\n  },\n  \"flop\": {\n    \"name\": \"Russell\",\n    \"reasoning\": \"Russell is in a 'very weird state of mind' after Monaco, 68 points behind teammate Antonelli, struggling with tyre warm-up and driving style issues. He admitted he doesn't know what's going on. Barcelona's long demanding corners were tipped as a barometer — if his confidence is shot, this could be another disaster weekend where Antonelli further humiliates him. Mercedes may be quietly shifting focus to Antonelli too.\",\n    \"is_team\": false,\n    \"referenced_id\": \"russell\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Antonelli wins a sixth consecutive race AND sets the fastest lap, completing a grand chelem (pole, win, fastest lap, leading every lap)\",\n    \"reasoning\": \"Antonelli is on a historic 5-race win streak with unflappable confidence. Barcelona is a track where dominant cars tend to convert — Verstappen achieved a Grand Chelem here in 2023. With Mercedes dominant, Russell shellshocked, and the 19-year-old in peak form, a full lights-to-flag domination with grand chelem is a bold but plausible scenario that would cement his status as the championship favorite.\"\n  }\n}",
+      "tokensUsed": 70022,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.092Z"
+    },
+    {
+      "id": 309,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Barcelona-Catalunya Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"71\":[687,688,689],\"72\":[710],\"73\":[731],\"74\":[734],\"75\":[738],\"76\":[747],\"77\":[748],\"78\":[753],\"79\":[756],\"80\":[782]},\"reasoning\":\"Barcelona-Catalunya rewards efficient high-speed aero and tyre management, so I leaned toward the apparently dominant Mercedes package, with Antonelli and Russell as the safest podium core and Norris as the best McLaren despite reliability concerns. Russell is a value pole pick given the prompt hints he may hit back at his championship-leading teammate. Audi Q3 still looks unlikely, Safety Car probability is relatively low at this circuit, and a high classified-finisher count is favoured. Gasly is the Alpine/Williams matchup pick based on stated season form, Hadjar is more likely to fall back into the points than repeat a Monaco podium, Red Bull is a strong value choice for fastest pit stop, and Antonelli remains the logical fastest-lap pick given the hint about his recent run.\"}",
+      "tokensUsed": 3134,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.309Z"
+    },
+    {
+      "id": 310,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n\"pole\": \"antonelli\",\n\"podium\": [\"antonelli\", \"russell\", \"verstappen\"],\n\"sprint_pole\": null,\n\"sprint_winner\": null,\n\"reasoning\": \"Prediction markets show Mercedes as the team to beat at Barcelona, with Kimi Antonelli (37%) and George Russell (31%) leading win probabilities. Max Verstappen (15%) is the next closest. The Circuit de Barcelona-Catalunya rewards a balanced car with strong downforce, suiting the 2026 Mercedes package. Antonelli is tipped for his first F1 pole and victory, with Russell close behind and Verstappen completing the podium.\"\n}",
+      "tokensUsed": 5079,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:46.872Z"
+    },
+    {
+      "id": 311,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\n    \"antonelli\",\n    \"verstappen\",\n    \"piastri\"\n  ],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Kimi Antonelli is dominating the 2026 season with five consecutive wins and a 66-point championship lead. The fast, flowing nature of Circuit de Barcelona-Catalunya perfectly suits the dominant Mercedes package, making him the clear favorite for pole and the race win. Max Verstappen showed excellent one-lap pace in Monaco before an engine failure, and with a fresh power unit for Barcelona, he is primed to bounce back strongly. Oscar Piastri won at this circuit in 2025 and has been highly consistent in recent races, making him a solid pick for the final podium spot.\"\n}",
+      "tokensUsed": 3210,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:46.870Z"
+    },
+    {
+      "id": 312,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Barcelona-Catalunya Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "{\"answers\":{\"71\":[687,688,689],\"72\":[710],\"73\":[731],\"74\":[734],\"75\":[739],\"76\":[747],\"77\":[748],\"78\":[753],\"79\":[756],\"80\":[782]},\"reasoning\":\"Based on current 2026 standings, Kimi Antonelli leads with 156 points and Mercedes dominates constructors (244 pts). For Barcelona, Mercedes should continue their strong form with Antonelli and Russell on the podium. Norris edges Piastri in McLaren qualifying battle. Audi continues to struggle and won't reach Q3. Mercedes has the fastest pitstops. Barcelona historically has fewer safety cars due to good run-off areas. Gasly has been strong for Alpine vs Williams. Hadjar finished on podium in Monaco but Barcelona is tougher - 4th-10th is realistic. Antonelli is the fastest lap favorite given his championship form. Expect around 19 classified finishers typical for Barcelona.\"}",
+      "tokensUsed": 5379,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.313Z"
+    },
+    {
+      "id": 313,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Aston Martin\",\"reasoning\":\"Barcelona is one of the purest aero-efficiency tests on the calendar, and if Aston Martin’s latest high-speed balance improvements are real, this is exactly the kind of track where they can look better than their baseline pace. Alonso’s home race factor also matters here: he tends to extract extra performance in Spain, and a clean qualifying could put Aston Martin in position to steal big points from teams expected to be ahead.\",\"is_team\":true,\"referenced_id\":\"aston-martin\"},\"flop\":{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari has enough one-lap speed to look dangerous, but Barcelona punishes cars that are even slightly harsh on tyres through the long loaded corners. If track temperatures are high, the race could expose degradation and balance limitations more than qualifying does. With both drivers under pressure to deliver, I can see Ferrari flattering to deceive on Saturday and then sliding backwards strategically on Sunday.\",\"is_team\":true,\"referenced_id\":\"ferrari\"},\"crazy_prediction\":{\"prediction\":\"A late rain shower triggers a red flag\",\"reasoning\":\"Barcelona is usually predictable, which is why this is the bold swing: a short, badly timed shower in the final stint would instantly turn a tyre-management race into chaos. With the field likely close under 2026 regulations, even a brief rain burst could cause multiple cars to gamble on intermediates, creating incidents and forcing race control into a stoppage.\"}}",
+      "tokensUsed": 1585,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.093Z"
+    },
+    {
+      "id": 314,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"McLaren\",\n    \"reasoning\": \"After a highly disappointing and anonymous Monaco Grand Prix where the defending champions suffered a DNF, the traditional high-speed aerodynamic demands of the Barcelona-Catalunya circuit will perfectly suit their 2026 car, allowing them to bounce back and challenge Mercedes for the win.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mclaren\"\n  },\n  \"flop\": {\n    \"name\": \"Russell\",\n    \"reasoning\": \"George is visibly struggling with the 2026 Mercedes, openly admitting the car's setup is moving away from his driving style while his rookie teammate Antonelli dominates with five straight wins. Coming off a disastrous, penalty-ridden Monaco, his downward spiral will continue with a finish outside the top six.\",\n    \"is_team\": false,\n    \"referenced_id\": \"russell\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"The race leader retires due to an active aero failure\",\n    \"reasoning\": \"With the new 2026 active aerodynamics regulations being pushed to their absolute limits on Barcelona's demanding high-speed corners, a sudden system failure will cause the race leader to dramatically lose downforce and retire, blowing the podium fight wide open.\"\n  }\n}",
+      "tokensUsed": 3896,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.094Z"
+    },
+    {
+      "id": 315,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Barcelona-Catalunya Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"71\": [687, 688, 690],\n    \"72\": [709],\n    \"73\": [731],\n    \"74\": [734],\n    \"75\": [735],\n    \"76\": [747],\n    \"77\": [748],\n    \"78\": [753],\n    \"79\": [756],\n    \"80\": [782]\n  },\n  \"reasoning\": \"In the 2026 season, Kimi Antonelli has been utterly dominant for Mercedes, winning five consecutive races and leading the championship, making him the clear favorite for pole, the race win, and the fastest lap. Mercedes has the strongest car, making George Russell a solid pick for P2, while Max Verstappen remains a strong contender for the podium despite recent Red Bull reliability issues. Lando Norris is favored over Oscar Piastri in qualifying, and Pierre Gasly has consistently outperformed the Williams drivers for Alpine. Red Bull's Isack Hadjar is likely to finish in the points (4th-10th) following his impressive Monaco podium. While reliability has been a factor this season, Barcelona is a traditional circuit where 19 classified finishers is the most probable outcome. Ferrari is favored for the fastest pit stop, and a Safety Car is statistically less likely at the Circuit de Barcelona-Catalunya.\"\n}",
+      "tokensUsed": 6469,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.310Z"
+    },
+    {
+      "id": 316,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{ \"good_surprise\": { \"name\": \"Ferrari\", \"reasoning\": \"Ferrari is bringing a massive two-tenths per lap aero upgrade to Barcelona, including a new front wing and floor revision. This is described as a 'make-or-break' upgrade for their season. If the upgrade delivers as promised, both Hamilton and Leclerc could surprise given Ferrari's recent struggles. The upgrade specifically targets the high-speed cornering demands of Barcelona where they've been lacking downforce.\", \"is_team\": true, \"referenced_id\": \"ferrari\" }, \"flop\": { \"name\": \"Russell\", \"reasoning\": \"Despite being the second favorite at 31% on Polymarket, Russell and Mercedes could underperform at Barcelona. The Circuit de Barcelona-Catalunya is notoriously demanding on car setup, and if Mercedes can't extract the expected pace from their package, Russell could struggle. Additionally, with Antonelli getting the bulk of the focus as the favorite, Russell may find himself in unfamiliar territory fighting outside the top positions rather than challenging for the win.\", \"is_team\": false, \"referenced_id\": \"russell\" }, \"crazy_prediction\": { \"prediction\": \"Three or more safety car periods during the race\", \"reasoning\": \"Max Verstappen is getting a brand new power unit after his Monaco engine failure, and new engines can sometimes have reliability issues in their first race. Combined with the fact that Barcelona is a high-degradation circuit where overtaking is difficult and drivers often push to the limit, multiple incidents are likely. The new 2026 cars with their ground effect aerodynamics are also known to be sensitive to turbulence, making contact more likely. A chaotic race with multiple safety cars would shake up the championship entirely.\" } }",
+      "tokensUsed": 5202,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.097Z"
+    },
+    {
+      "id": 317,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari has brought a major aerodynamic upgrade package reportedly worth two-tenths per lap, featuring a new front wing, floor, and bodywork. This is their self-described 'make-or-break' upgrade to compensate for engine deficits at a high-downforce circuit where their chassis strengths can shine.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"flop\": {\n    \"name\": \"Russell\",\n    \"reasoning\": \"Despite the Mercedes engine's strength at this circuit, George Russell has a poor track record at Barcelona compared to teammate Antonelli, and with Antonelli carrying a 37% market probability to win and Russell likely feeling pressure, he may crack under the expectation of capitalizing on Red Bull's recent unreliability.\",\n    \"is_team\": false,\n    \"referenced_id\": \"russell\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Two different rookies finish on the podium\",\n    \"reasoning\": \"With Verstappen taking a grid penalty for a new engine, Ferrari's upgrades potentially vaulting them forward, and Mercedes having the strongest engine, the field is incredibly close. Rookies like Antonelli (who is the favorite to win) and Hadjar or Bearman could capitalize on strategic chaos at a circuit where overtaking is difficult and tire degradation is high.\"\n  }\n}",
+      "tokensUsed": 5159,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.096Z"
+    },
+    {
+      "id": 318,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Barcelona-Catalunya Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"71\": [687, 688, 692],\n    \"72\": [709],\n    \"73\": [731],\n    \"74\": [734],\n    \"75\": [735],\n    \"76\": [747],\n    \"77\": [748],\n    \"78\": [753],\n    \"79\": [756],\n    \"80\": [782]\n  },\n  \"reasoning\": \"Kimi Antonelli leads the championship with Mercedes dominating, making him favorite for pole and win. George Russell is close behind. Charles Leclerc won Monaco and Ferrari is strong. McLaren has reliability issues, so Norris likely outqualifies Piastri. Audi has struggled, so no Q3. Historically few safety cars at Barcelona. Alpine has had the edge over Williams, so Gasly should finish ahead. Hadjar scored a podium in Monaco but Barcelona is less suited; 4th-10th is most probable. Antonelli frequently gets fastest lap. With ongoing reliability woes, 19 classified finishers is the safest bet.\"\n}",
+      "tokensUsed": 7676,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:47.311Z"
+    },
+    {
+      "id": 319,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Barcelona-Catalunya Grand Prix (Round 9, 2026-06-14) at Barcelona-Catalunya, Spain.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"verstappen\",\n  \"podium\": [\"verstappen\", \"norris\", \"piastri\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Barcelona-Catalunya rewards high-downforce efficiency and strong traction out of slow corners, particularly in Sector 3. Extending current team trajectories into the 2026 regulatory era, Red Bull retains exceptional single-lap pace, and Verstappen remains the standout qualifier, giving him the edge for pole. McLaren's upward infrastructure and development trend suggest they will have the strongest race package, with both Norris and Piastri capable of managing the high tire degradation characteristic of this circuit. Verstappen's racecraft defends track position from the front, but Norris's consistent race pace challenges for the win. No sprint event is scheduled for this weekend, and with the 2026 grid reset, no significant grid penalties are anticipated for the established front-runners.\"\n}",
+      "tokensUsed": 4464,
+      "costUsd": 0,
+      "createdAt": "2026-06-08T19:51:46.872Z"
+    }
+  ]
+}
