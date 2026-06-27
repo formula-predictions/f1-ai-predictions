@@ -1,0 +1,924 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "austria-2026",
+  "raceName": "Austrian Grand Prix",
+  "isSprint": false,
+  "exportedAt": "2026-06-27T05:02:13.370Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "George Russell",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more Mercedes-powered cars retire from the race with reliability issues\",\"reasoning\":\"PlanetF1 explicitly flagged that with eight Mercedes-powered cars on the grid and the extreme heatwave plus the power-hungry short Red Bull Ring lap stressing the new 2026 PUs, multiple Mercedes-engine retirements are very plausible. Antonelli already retired with electrical shutdown in Barcelona — a cascade in Austria's heat would be wild but possible.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"Russell has openly admitted he hasn't fully clicked with the 2026 regulations and faded in the Spanish heat. With a heatwave forecast (32°C+) and Mercedes battery/PU reliability concerns flagged, Russell looks the more vulnerable Merc driver this weekend versus the in-form Antonelli.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Isack Hadjar has been quietly impressive with 34 points already, and the Red Bull Ring is a power-unit-friendly short lap that suits Racing Bulls/Red Bull machinery. Red Bull is bringing an upgrade package to their home race, and Hadjar's clean style should let him punch above expectations in front of the Red Bull crowd.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Austrian GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Haas get a car into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leaves Austria 2nd in the Drivers' Championship.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"At least three Mercedes-powered cars retire with mechanical issues\",\"reasoning\":\"Mercedes has faced a cluster of reliability problems recently, including Antonelli's stoppage in Spain and Russell's battery damage in Canada. The high altitude and hot temperatures at the Red Bull Ring exacerbate these issues, causing a spate of failures among the eight Mercedes-engined cars on the grid.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"McLaren has struggled all season with the 2026 Pirelli tyres, leading to inconsistent performance. The Red Bull Ring's traction demands expose this weakness, and both Norris and Piastri fail to reach Q3 and finish outside the points.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari brings a major engine upgrade that reduces the power deficit to Mercedes. Despite the Red Bull Ring's power sensitivity, this upgrade proves transformative, allowing Ferrari to lock out the front row in qualifying and fight for the win, surpassing expectations.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Austrian GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Haas get a car into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leaves Austria 2nd in the Drivers' Championship.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Lewis Hamilton",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Max Verstappen",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A safety car is deployed on the opening lap due to a multi-car collision at Turn 3.\",\"reasoning\":\"Turn 3 at the Red Bull Ring is a notorious bottleneck. With the new 2026 cars featuring active aerodynamics and drivers aggressively fighting for slipstreams, a misjudgment in the heavy braking zone will trigger a pile-up right at the start.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Norris\",\"reasoning\":\"McLaren is bringing a new upside-down rear wing and a Mercedes battery fix to Austria. However, to avoid a grid penalty, Norris won't receive the battery upgrade. On a power-hungry track like the Red Bull Ring, this missing upgrade will severely compromise his pace.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari is introducing their first ADUO power unit upgrade this weekend. With a reported 15 horsepower gain from the ICE and new Shell fuel, plus aerodynamic tweaks to the diffuser, they have the raw straight-line speed to overpower the championship-leading Mercedes cars.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Austrian GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Haas get a car into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leaves Austria 2nd in the Drivers' Championship.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Max Verstappen",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A post-race track-limits penalty changes the podium\",\"reasoning\":\"The Red Bull Ring is one of the most notorious circuits for track-limits violations, especially at Turns 9 and 10. With such a short lap and tight margins, even a five-second penalty could swing multiple finishing positions after the flag, making a podium reshuffle a bold but very plausible Austrian GP scenario.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Austria can punish teams that struggle with kerb compliance, rear-tyre temperature control and clean traction out of slow corners. Ferrari may have strong headline pace, but if the car is peaky over the Spielberg kerbs or forced into conservative cooling at altitude, they could qualify lower than expected and get trapped in DRS trains.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Spielberg's short lap, long full-throttle sections and heavy braking zones can reward a slippery, efficient car more than outright downforce. If Williams' recent straight-line form and improved tyre management carry over, both cars have a realistic path to Q3 contention and points, especially with track-limits chaos likely to shuffle the order.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Austrian GP?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Haas get a car into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leaves Austria 2nd in the Drivers' Championship.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"Tight field with multiple major upgrades across teams (Ferrari engine, Red Bull big aero, McLaren wing, Cadillac floor) likely causes unpredictable handling and incidents; short lap with elevation changes, high-speed corners, and heat increasing tire degradation and errors at the racing-favorite Red Bull Ring often produces chaotic races with frequent interruptions.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Mercedes\",\"reasoning\":\"Despite season dominance and new battery upgrade, persistent reliability concerns with PU/battery in heat (FIA heat hazard declared, past issues in Barcelona/Canada); Spielberg's power and traction demands may expose weaknesses, leading to potential retirements or compromised results for Antonelli and Russell.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Significant upgrade package at their home race expected to close the gap to leaders from over a second to around 0.4s; historically strong at Spielberg with Verstappen's pace, plus weight-saving measures and home crowd boost could see them challenge for podiums or better in a close top-4 battle.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Austrian GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Haas get a car into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leaves Austria 2nd in the Drivers' Championship.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Kimi Antonelli",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Fernando Alonso finishes the race",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "George Russell",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "Charles Leclerc",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Austrian GP?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Haas get a car into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Liam Lawson",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "Not Classified",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leaves Austria 2nd in the Drivers' Championship.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"At least three Mercedes-powered cars retire with reliability problems\",\"reasoning\":\"The convergence of factors is extraordinary: altitude at 700m above sea level straining turbos, hot Austrian temperatures threatening battery cooling, Mercedes' documented 'Achilles heel' of reliability this season with failures in 3+ races already, and eight Mercedes-powered cars on the grid creating a massive sample size. Toto Wolff has explicitly warned about this, and the article specifically notes 'At least three of them will retire with reliability problems on Sunday' as a distinct possibility. With works cars already suffering and customer teams like McLaren also hit, a multi-car Mercedes PU failure cascade is bold but grounded in genuine technical vulnerability.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Mercedes\",\"reasoning\":\"Mercedes has suffered a cluster of reliability problems across both works cars and customer teams, with battery/heat-related failures in multiple races. Toto Wolff has openly called reliability their 'Achilles heel.' The Austrian GP presents a perfect storm: high altitude strains the turbo and power unit, hot temperatures threaten battery cooling, and the track's long straights and heavy braking zones place sustained load on the Mercedes PU. With altitude already a known weakness from 2018/19 and eight Mercedes-powered cars on the grid, the statistical probability of multiple failures is high. Even Guenther Steiner's bullish prediction feels like tempting fate.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Leclerc\",\"reasoning\":\"Despite the circuit not historically suiting Ferrari, Leclerc has always been excellent over one lap and Ferrari is introducing their first ADUO engine upgrade in Austria. The modest power unit gains, combined with Ferrari's chassis prowess, could help Leclerc reverse his qualifying trend and challenge for pole. With Mercedes suffering reliability concerns and the Red Bull Ring's short lap creating tight gaps, Leclerc could capitalize on a strong Saturday to deliver an eyebrow-raising result that exceeds expectations for a car that supposedly doesn't suit this track.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": []
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Red Bull scores a 1-2 finish at their home race\",\"reasoning\":\"Red Bull is introducing a major upgrade package at their home race, and the RB22 has shown improvement in recent rounds. With Verstappen desperate to prove himself after a difficult start to 2026, and Hadjar gaining confidence, a Red Bull 1-2 at Spielberg would be a massive statement and completely reshape the championship narrative. It would be their first 1-2 of the season and a huge morale boost for the team.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Mercedes\",\"reasoning\":\"Despite Mercedes having the power unit advantage at this power-sensitive track, their reliability has been concerning with multiple retirements in recent races. Antonelli already retired in Barcelona and Russell had battery issues in Canada. With eight Mercedes-powered cars on the grid and the article predicting 'at least three of them will retire with reliability problems on Sunday,' the Silver Arrows could see multiple cars drop out, potentially costing them valuable championship points.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Leclerc\",\"reasoning\":\"Leclerc had a disappointing retirement in Barcelona but Ferrari's upgraded power unit should help him bounce back at the Red Bull Ring. With Ferrari bringing an engine upgrade worth 0.2 seconds per lap and the SF-26 having the best chassis on the grid, Leclerc should be well-positioned to challenge for pole and the podium. He's excellent over one lap and has everything to prove after his last-lap error in Spain.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Austrian Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Austrian GP?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Haas get a car into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who finishes ahead in the Grand Prix?",
+          "selection": "Liam Lawson",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Isack Hadjar finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who leaves Austria 2nd in the Drivers' Championship.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  },
+  "generationLogs": [
+    {
+      "id": 320,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"russell\", \"hamilton\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Based on the provided web search results, the Austrian Grand Prix at the Red Bull Ring is a power-sensitive circuit that rewards straight-line performance and aero efficiency, traits where Mercedes holds an edge. Kimi Antonelli (ID: antonelli) leads the championship with 156 points and has taken pole at five of the last six races. Despite a recent retirement in Barcelona, he is the favorite to bounce back. George Russell (ID: russell) is also strong in the Mercedes, and Lewis Hamilton (ID: hamilton) is on a resurgence with Ferrari after his Barcelona win. The predictions suggest a Mercedes 1-2 with Hamilton completing the podium. No sprint race is scheduled, so sprint_pole and sprint_winner are null.\"\n}",
+      "tokensUsed": 2909,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:33.991Z"
+    },
+    {
+      "id": 321,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": { \"name\": \"Hadjar\", \"reasoning\": \"Isack Hadjar has been quietly impressive with 34 points already, and the Red Bull Ring is a power-unit-friendly short lap that suits Racing Bulls/Red Bull machinery. Red Bull is bringing an upgrade package to their home race, and Hadjar's clean style should let him punch above expectations in front of the Red Bull crowd.\", \"is_team\": false, \"referenced_id\": \"hadjar\" },\n  \"flop\": { \"name\": \"Russell\", \"reasoning\": \"Russell has openly admitted he hasn't fully clicked with the 2026 regulations and faded in the Spanish heat. With a heatwave forecast (32°C+) and Mercedes battery/PU reliability concerns flagged, Russell looks the more vulnerable Merc driver this weekend versus the in-form Antonelli.\", \"is_team\": false, \"referenced_id\": \"russell\" },\n  \"crazy_prediction\": { \"prediction\": \"Three or more Mercedes-powered cars retire from the race with reliability issues\", \"reasoning\": \"PlanetF1 explicitly flagged that with eight Mercedes-powered cars on the grid and the extreme heatwave plus the power-hungry short Red Bull Ring lap stressing the new 2026 PUs, multiple Mercedes-engine retirements are very plausible. Antonelli already retired with electrical shutdown in Barcelona — a cascade in Austria's heat would be wild but possible.\" }\n}",
+      "tokensUsed": 26367,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.283Z"
+    },
+    {
+      "id": 322,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"antonelli\",\"podium\":[\"antonelli\",\"hamilton\",\"russell\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"Based on research: Kimi Antonelli leads the 2026 Drivers' Championship with 156 points, 41 points clear of Hamilton, with five wins, four poles and six podiums so far. Antonelli enters Austria as the most in-form driver with four consecutive Grand Prix wins including Canada, while teammate Russell sits second on 88 points, meaning Mercedes owns the fastest package right now. Antonelli is the +175 betting favorite with implied probability around 36 percent. Ferrari has momentum after Hamilton's breakthrough first Ferrari victory in Spain, with Ferrari's upgrade package showing the pace and confidence to challenge Mercedes directly. Expert prediction has Hamilton and Antonelli fighting for victory with Norris close, while Verstappen is in podium conversation if Red Bull qualifies well, but Mercedes and Ferrari look better placed. A heat hazard has been declared by the FIA ahead of the weekend, which could favor Mercedes' tire management. I'm backing Antonelli for pole given his four poles this season and dominant form, with the Mercedes pair flanking Hamilton on the podium - Hamilton's Ferrari momentum gives him the edge for P2 over Russell.\"}",
+      "tokensUsed": 24725,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:33.982Z"
+    },
+    {
+      "id": 323,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"russell\", \"hamilton\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Kimi Antonelli returns to form after his Barcelona retirement and heads to the Red Bull Ring as the +185 favorite. The power-sensitive circuit with three DRS zones plays to Mercedes' strengths - their W17 floor upgrades have given them consistent advantage in high-speed corners that dominate the second sector. Antonelli has set pole at five of the last six races, making him the clear qualifying favorite. George Russell (+300) completes the expected Mercedes front row, sitting second in the championship on 106 points. Lewis Hamilton's first Ferrari win in Barcelona has injected momentum into the Prancing Horse, and his historical record at Spielberg (three wins) combined with Ferrari's medium-downforce package upgrades make him a strong podium contender. The Red Bull Ring's high overtake count (18 per race average) means track position is important but recoverable, reinforcing Mercedes' expected front-row lockout. The gap to Ferrari is tighter than before, but Mercedes remains the class of the field at this power circuit.\"\n}",
+      "tokensUsed": 3266,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:33.992Z"
+    },
+    {
+      "id": 324,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Austrian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"81\":[786,785,789],\"82\":[807],\"83\":[830],\"84\":[831],\"85\":[835],\"86\":[844],\"87\":[846],\"88\":[851],\"89\":[858],\"90\":[877]},\"reasoning\":\"Picks lean on the implied 2026 form: Mercedes appear strongest in qualifying and Antonelli leads the title race, but Russell offers better value and is positioned as Antonelli’s closest challenger. Austria’s short lap, heavy braking and traction zones still make Verstappen a major threat, especially versus Norris and for fastest lap. Haas getting a Q3 car is a calculated value pick on a compact circuit where midfield gaps are small. Red Bull remains a strong pit-stop choice, and recent Austrian starts have had enough lap-one incidents to favor an early SC/VSC. In the midfield, Gasly is the safest Alpine/Racing Bulls finisher, while Hadjar is projected for lower points rather than a podium.\"}",
+      "tokensUsed": 3226,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.486Z"
+    },
+    {
+      "id": 325,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Williams\",\"reasoning\":\"Spielberg's short lap, long full-throttle sections and heavy braking zones can reward a slippery, efficient car more than outright downforce. If Williams' recent straight-line form and improved tyre management carry over, both cars have a realistic path to Q3 contention and points, especially with track-limits chaos likely to shuffle the order.\",\"is_team\":true,\"referenced_id\":\"williams\"},\"flop\":{\"name\":\"Ferrari\",\"reasoning\":\"Austria can punish teams that struggle with kerb compliance, rear-tyre temperature control and clean traction out of slow corners. Ferrari may have strong headline pace, but if the car is peaky over the Spielberg kerbs or forced into conservative cooling at altitude, they could qualify lower than expected and get trapped in DRS trains.\",\"is_team\":true,\"referenced_id\":\"ferrari\"},\"crazy_prediction\":{\"prediction\":\"A post-race track-limits penalty changes the podium\",\"reasoning\":\"The Red Bull Ring is one of the most notorious circuits for track-limits violations, especially at Turns 9 and 10. With such a short lap and tight margins, even a five-second penalty could swing multiple finishing positions after the flag, making a podium reshuffle a bold but very plausible Austrian GP scenario.\"}}",
+      "tokensUsed": 1546,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.284Z"
+    },
+    {
+      "id": 326,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"Significant upgrade package at their home race expected to close the gap to leaders from over a second to around 0.4s; historically strong at Spielberg with Verstappen's pace, plus weight-saving measures and home crowd boost could see them challenge for podiums or better in a close top-4 battle.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"flop\": {\n    \"name\": \"Mercedes\",\n    \"reasoning\": \"Despite season dominance and new battery upgrade, persistent reliability concerns with PU/battery in heat (FIA heat hazard declared, past issues in Barcelona/Canada); Spielberg's power and traction demands may expose weaknesses, leading to potential retirements or compromised results for Antonelli and Russell.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mercedes\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"Tight field with multiple major upgrades across teams (Ferrari engine, Red Bull big aero, McLaren wing, Cadillac floor) likely causes unpredictable handling and incidents; short lap with elevation changes, high-speed corners, and heat increasing tire degradation and errors at the racing-favorite Red Bull Ring often produces chaotic races with frequent interruptions.\"\n  }\n}",
+      "tokensUsed": 26682,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.286Z"
+    },
+    {
+      "id": 327,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Leclerc\",\n    \"reasoning\": \"Leclerc had a disappointing retirement in Barcelona but Ferrari's upgraded power unit should help him bounce back at the Red Bull Ring. With Ferrari bringing an engine upgrade worth 0.2 seconds per lap and the SF-26 having the best chassis on the grid, Leclerc should be well-positioned to challenge for pole and the podium. He's excellent over one lap and has everything to prove after his last-lap error in Spain.\",\n    \"is_team\": false,\n    \"referenced_id\": \"leclerc\"\n  },\n  \"flop\": {\n    \"name\": \"Mercedes\",\n    \"reasoning\": \"Despite Mercedes having the power unit advantage at this power-sensitive track, their reliability has been concerning with multiple retirements in recent races. Antonelli already retired in Barcelona and Russell had battery issues in Canada. With eight Mercedes-powered cars on the grid and the article predicting 'at least three of them will retire with reliability problems on Sunday,' the Silver Arrows could see multiple cars drop out, potentially costing them valuable championship points.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mercedes\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Red Bull scores a 1-2 finish at their home race\",\n    \"reasoning\": \"Red Bull is introducing a major upgrade package at their home race, and the RB22 has shown improvement in recent rounds. With Verstappen desperate to prove himself after a difficult start to 2026, and Hadjar gaining confidence, a Red Bull 1-2 at Spielberg would be a massive statement and completely reshape the championship narrative. It would be their first 1-2 of the season and a huge morale boost for the team.\"\n  }\n}",
+      "tokensUsed": 3583,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.287Z"
+    },
+    {
+      "id": 328,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\n    \"hamilton\",\n    \"antonelli\",\n    \"verstappen\"\n  ],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"A severe European heatwave is forecast for Spielberg, pushing track temperatures above 50°C. This extreme heat heavily favors Ferrari's superior tire management, making Lewis Hamilton the prime candidate for back-to-back wins following his recent victory in Barcelona. Mercedes remains the fastest car over a single lap, so championship leader Kimi Antonelli is tipped for pole and a strong bounce-back performance after his mechanical DNF in Spain. Max Verstappen's exceptional historical record at Red Bull's home track earns him the final podium spot, as Red Bull looks to improve their 2026 form.\"\n}",
+      "tokensUsed": 3498,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:33.989Z"
+    },
+    {
+      "id": 329,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"russell\",\n  \"podium\": [\"russell\", \"antonelli\", \"hamilton\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Mercedes has dominated 2026, winning nearly all races with Antonelli leading the championship (156pts) ahead of Hamilton (115pts, now at Ferrari) and Russell (106pts). Recent Barcelona saw Hamilton win for Ferrari but Antonelli DNF; prior races heavily Mercedes-favored. Red Bull Ring (4.326km, 10 corners, elevation changes, altitude ~700m) emphasizes power, straights, traction, and efficiency—suits Mercedes' PU and aero per previews. Hot/dry weather (~30-32C, track ~50C+) may stress reliability (some predict Mercedes issues). Track historically favors polesitters; recent winners include Norris (2025), Russell (2024), Verstappen. Experts (PlanetF1, ESPN) lean Mercedes 1-2 or strong showing, with Leclerc/Hamilton threats in quali/race. Russell predicted for pole due to one-lap pace; podium reflects current form and track match.\"\n}",
+      "tokensUsed": 25303,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:33.990Z"
+    },
+    {
+      "id": 330,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari is introducing their first ADUO power unit upgrade this weekend. With a reported 15 horsepower gain from the ICE and new Shell fuel, plus aerodynamic tweaks to the diffuser, they have the raw straight-line speed to overpower the championship-leading Mercedes cars.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"flop\": {\n    \"name\": \"Norris\",\n    \"reasoning\": \"McLaren is bringing a new upside-down rear wing and a Mercedes battery fix to Austria. However, to avoid a grid penalty, Norris won't receive the battery upgrade. On a power-hungry track like the Red Bull Ring, this missing upgrade will severely compromise his pace.\",\n    \"is_team\": false,\n    \"referenced_id\": \"norris\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"A safety car is deployed on the opening lap due to a multi-car collision at Turn 3.\",\n    \"reasoning\": \"Turn 3 at the Red Bull Ring is a notorious bottleneck. With the new 2026 cars featuring active aerodynamics and drivers aggressively fighting for slipstreams, a misjudgment in the heavy braking zone will trigger a pile-up right at the start.\"\n  }\n}",
+      "tokensUsed": 4464,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.285Z"
+    },
+    {
+      "id": 331,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Austrian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"81\": [785, 788, 786],\n    \"82\": [807],\n    \"83\": [829],\n    \"84\": [832],\n    \"85\": [833],\n    \"86\": [844],\n    \"87\": [846],\n    \"88\": [851],\n    \"89\": [854],\n    \"90\": [876]\n  },\n  \"reasoning\": \"Kimi Antonelli has dominated the 2026 season for Mercedes, leading the championship with 5 wins, making him the favorite to bounce back from his Barcelona retirement with a win and fastest lap. Lewis Hamilton is in excellent form after his first Ferrari victory in Barcelona and should secure P2, maintaining his 2nd place in the standings over George Russell, who is a strong candidate for pole position and P3. Lando Norris has consistently outperformed Max Verstappen this season and should qualify higher. Isack Hadjar has been solid since his promotion to Red Bull and is expected to finish comfortably in the points (4th-10th), while Pierre Gasly leads the midfield battle for Alpine. Haas is unlikely to reach Q3, and an early Safety Car is highly probable at the Red Bull Ring.\"\n}",
+      "tokensUsed": 6482,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.487Z"
+    },
+    {
+      "id": 332,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Austrian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"81\":[786,787,791],\"82\":[807],\"83\":[830],\"84\":[831],\"85\":[833],\"86\":[844],\"87\":[848],\"88\":[851],\"89\":[858],\"90\":[877]},\"reasoning\":\"Based on F1 data analysis: Mercedes (Russell/Antonelli) dominated with best-ever fantasy score in Canada (87pts), while McLaren rediscovered form in Barcelona. Norris won at Red Bull Ring in 2025 and leads recent overtake stats. For podium, Mercedes 1-2 with Norris P3 reflects current form and track history (Russell won 2024 here). Russell takes pole given Mercedes' qualifying supremacy this season. Verstappen edges Norris in head-to-head at this track despite Norris's 2025 win. Haas Ocon should reach Q3 given improved Alpine form. Ferrari averages reliable pitstop points (5.3 per weekend). Safety Car likely given Lap 1 incidents in 2023/2025 and tight racing at Red Bull Ring. Lawson for Racing Bulls over Colapinto as Red Bull Ring suits their car characteristics. Hadjar finishes 4th-10th range based on consistent midfield pace. Verstappen gets fastest lap with Red Bull race pace and strategy flexibility. Russell finishes 2nd in championship as his closest challenger to Hamilton/Antonelli.\"}",
+      "tokensUsed": 5561,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.489Z"
+    },
+    {
+      "id": 333,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Austrian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "{\n  \"answers\": {\n    \"81\": [785, 786, 788],\n    \"82\": [807],\n    \"83\": [829],\n    \"84\": [832],\n    \"85\": [834],\n    \"86\": [845],\n    \"87\": [846],\n    \"88\": [851],\n    \"89\": [854],\n    \"90\": [876]\n  },\n  \"reasoning\": \"Mercedes have dominated 2026, with Antonelli leading the championship and Russell second. Hamilton broke through in Barcelona for Ferrari and is now 41 pts behind Antonelli. Red Bull Ring suits Mercedes' straight-line speed, so I'm picking Antonelli for the win with Russell P2 and Hamilton P3. Russell took pole in Barcelona and is strong in qualifying, so I picked him for pole. Between Norris and Verstappen, Norris won here in 2025 and McLaren is generally stronger. Haas has been midfield-back; unlikely Q3. McLaren has strong pit crews. Lap-1 SC has happened in recent years but I'll go No given the field has matured. Gasly is in form (Monaco podium) over Colapinto. Hadjar likely points (4th-10th). Antonelli for fastest lap with fresh tires at end. Hamilton's Barcelona win and current form puts him ahead of Russell for 2nd in championship after Austria.\"\n}",
+      "tokensUsed": 23277,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.485Z"
+    },
+    {
+      "id": 334,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"verstappen\",\n  \"podium\": [\n    \"verstappen\",\n    \"norris\",\n    \"piastri\"\n  ],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Austria is not a Sprint weekend. The Red Bull Ring's short lap, heavy braking, traction zones and long DRS sections usually reward efficient, stable cars and leave qualifying margins tiny. McLaren's recent form and race pace make Norris and Piastri the safest podium threats, but Verstappen's historic strength at Spielberg, Red Bull's expected low-drag competitiveness and his qualifying execution make him the pick for pole and victory. Ferrari and Mercedes look close enough to challenge if track limits, weather or strategy disrupt the leaders, but not quite as convincing on combined qualifying and race pace.\"\n}",
+      "tokensUsed": 1206,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:33.988Z"
+    },
+    {
+      "id": 335,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Austrian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"81\": [785, 788, 791],\n    \"82\": [808],\n    \"83\": [829],\n    \"84\": [831],\n    \"85\": [834],\n    \"86\": [845],\n    \"87\": [846],\n    \"88\": [851],\n    \"89\": [854],\n    \"90\": [876]\n  },\n  \"reasoning\": \"2026 season sees Mercedes dominant with Antonelli leading championship; McLaren close behind with Norris/Piastri. Red Bull Ring favors high-downforce but Mercedes power unit excels here historically. Bold pole pick for Antonelli (recent quali form strong). Podium: Antonelli, Hamilton, Piastri (Merc 1-2 likely, Piastri over Norris for 3rd). Norris edges Verstappen in quali head-to-head. Haas improving so yes to Q3. McLaren fastest pit crew. No early SC as 2026 cars more reliable. Gasly ahead of Lawson in tight midfield. Hadjar consistently in points. Antonelli for fastest lap on clear air. Hamilton holds 2nd in drivers over Russell.\"\n}",
+      "tokensUsed": 2699,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.487Z"
+    },
+    {
+      "id": 336,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "parsing_error",
+      "errorMessage": "Question 81: invalid option ID 807; Question 81: invalid option ID 808",
+      "promptUsed": "Make your picks for: \"Austrian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "{\n  \"answers\": {\n    \"81\": [785, 807, 808],\n    \"82\": [808],\n    \"83\": [829],\n    \"84\": [831],\n    \"85\": [834],\n    \"86\": [845],\n    \"87\": [846],\n    \"88\": [850],\n    \"89\": [855],\n    \"90\": [877]\n  },\n  \"reasoning\": \"Based on recent trends, Kimi Antonelli and George Russell are dominating the 2026 season, with Antonelli leading the championship and Mercedes showing strong pace. The Red Bull Ring rewards power and traction, suiting Mercedes. Antonelli takes pole and wins, with Russell in P2. Lewis Hamilton (also Mercedes) completes the podium, though Ferrari's Hamilton is still adapting. Norris vs Verstappen for highest qualifier: McLaren have turned a corner, Norris won here in 2025, and Verstappen's Red Bull is unreliable, so Norris edges it. Haas has been consistently getting at least one car into Q3 in 2026, so 'Yes'. McLaren typically excels in pit stops. Safety car in first 10 laps is less likely given the 2026 reliability improvements and fewer Turn 1 incidents at this track recently. Gasly is outperforming the Racing Bulls and Colapinto, so he finishes ahead. Isack Hadjar has been strong, with podiums in Monaco and Spain, so a podium in Austria is plausible. George Russell often sets fastest laps when chasing. Russell is the closest challenger to Antonelli and likely remains 2nd in the standings.\"\n}",
+      "tokensUsed": 4530,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.488Z"
+    },
+    {
+      "id": 337,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari brings a major engine upgrade that reduces the power deficit to Mercedes. Despite the Red Bull Ring's power sensitivity, this upgrade proves transformative, allowing Ferrari to lock out the front row in qualifying and fight for the win, surpassing expectations.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"flop\": {\n    \"name\": \"McLaren\",\n    \"reasoning\": \"McLaren has struggled all season with the 2026 Pirelli tyres, leading to inconsistent performance. The Red Bull Ring's traction demands expose this weakness, and both Norris and Piastri fail to reach Q3 and finish outside the points.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mclaren\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"At least three Mercedes-powered cars retire with mechanical issues\",\n    \"reasoning\": \"Mercedes has faced a cluster of reliability problems recently, including Antonelli's stoppage in Spain and Russell's battery damage in Canada. The high altitude and hot temperatures at the Red Bull Ring exacerbate these issues, causing a spate of failures among the eight Mercedes-engined cars on the grid.\"\n  }\n}",
+      "tokensUsed": 5839,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:34.286Z"
+    },
+    {
+      "id": 338,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"russell\", \"hamilton\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Mercedes carries the fastest single-lap package into Spielberg, and Kimi Antonelli has taken pole in five of the last six races, making him the clear favorite for top spot on a power-sensitive circuit where straight-line speed and aero efficiency count [statsniper.com]. Despite a cluster of recent reliability scares for Mercedes power units in heat and altitude, the consensus forecast is a Mercedes 1-2 on Sunday, with Antonelli bouncing back from his Barcelona retirement to lead home George Russell [planetf1.com][thefairstake.com]. Lewis Hamilton’s first Ferrari win in Barcelona and strong historical record at the Red Bull Ring give him the edge over Charles Leclerc for the final podium place, though Ferrari’s package is expected to be less ideally suited to the track’s long straights than the Mercedes [thefairstake.com].\"\n}",
+      "tokensUsed": 5754,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T07:55:33.991Z"
+    },
+    {
+      "id": 339,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Austrian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "{\n  \"answers\": {\n    \"81\": [787, 788, 790],\n    \"82\": [807],\n    \"83\": [829],\n    \"84\": [831],\n    \"85\": [833],\n    \"86\": [844],\n    \"87\": [846],\n    \"88\": [851],\n    \"89\": [856],\n    \"90\": [876]\n  },\n  \"reasoning\": \"Based on recent form and track history: McLaren has strong race pace, Lando Norris won at the Red Bull Ring in 2025 and McLaren showed improved reliability. Lewis Hamilton is coming off a historic win and Ferrari performs well at this circuit. Charles Leclerc is quick and has won here before. Mercedes dominates qualifying so George Russell for pole. Norris likely to outqualify Verstappen. Haas has been midfield, so likely to get a car into Q3. Ferrari has the best pit stop consistency. Historically, early safety cars are common at Austria. Pierre Gasly is leading Alpine's midfield charge. Isack Hadjar consistently finishes in points. Norris has strong race pace for fastest lap. Hamilton is expected to be second in the championship after Austria.\"\n}",
+      "tokensUsed": 8702,
+      "costUsd": 0,
+      "createdAt": "2026-06-26T08:02:31.315Z"
+    },
+    {
+      "id": 340,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Austrian Grand Prix (Round 10, 2026-06-28) at Spielberg, Austria.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\"good_surprise\": {\"name\": \"Leclerc\", \"reasoning\": \"Despite the circuit not historically suiting Ferrari, Leclerc has always been excellent over one lap and Ferrari is introducing their first ADUO engine upgrade in Austria. The modest power unit gains, combined with Ferrari's chassis prowess, could help Leclerc reverse his qualifying trend and challenge for pole. With Mercedes suffering reliability concerns and the Red Bull Ring's short lap creating tight gaps, Leclerc could capitalize on a strong Saturday to deliver an eyebrow-raising result that exceeds expectations for a car that supposedly doesn't suit this track.\", \"is_team\": false, \"referenced_id\": \"leclerc\"}, \"flop\": {\"name\": \"Mercedes\", \"reasoning\": \"Mercedes has suffered a cluster of reliability problems across both works cars and customer teams, with battery/heat-related failures in multiple races. Toto Wolff has openly called reliability their 'Achilles heel.' The Austrian GP presents a perfect storm: high altitude strains the turbo and power unit, hot temperatures threaten battery cooling, and the track's long straights and heavy braking zones place sustained load on the Mercedes PU. With altitude already a known weakness from 2018/19 and eight Mercedes-powered cars on the grid, the statistical probability of multiple failures is high. Even Guenther Steiner's bullish prediction feels like tempting fate.\", \"is_team\": true, \"referenced_id\": \"mercedes\"}, \"crazy_prediction\": {\"prediction\": \"At least three Mercedes-powered cars retire with reliability problems\", \"reasoning\": \"The convergence of factors is extraordinary: altitude at 700m above sea level straining turbos, hot Austrian temperatures threatening battery cooling, Mercedes' documented 'Achilles heel' of reliability this season with failures in 3+ races already, and eight Mercedes-powered cars on the grid creating a massive sample size. Toto Wolff has explicitly warned about this, and the article specifically notes 'At least three of them will retire with reliability problems on Sunday' as a distinct possibility. With works cars already suffering and customer teams like McLaren also hit, a multi-car Mercedes PU failure cascade is bold but grounded in genuine technical vulnerability.\"}}",
+      "tokensUsed": 3174,
+      "costUsd": 0,
+      "createdAt": "2026-06-27T05:01:46.790Z"
+    }
+  ]
+}
