@@ -1,0 +1,1001 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "great-britain-2026",
+  "raceName": "British Grand Prix",
+  "isSprint": true,
+  "exportedAt": "2026-07-02T06:50:11.253Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "Kimi Antonelli",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A British driver wins the Sprint AND the Grand Prix on home soil\",\"reasoning\":\"Five British drivers on the grid, Russell arrives as the most recent race winner with momentum having taken 28 points off Antonelli in two rounds, Hamilton has 9 career British GP wins and Norris is defending winner. Silverstone historically produces home heroics — with Sprint weekend format, chance of a British double is elevated but still bold given Antonelli's dominance.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Leclerc\",\"reasoning\":\"Leclerc has been outperformed by Hamilton in each of the last five races and outqualified in three of the last four. Silverstone is Hamilton's fortress, and the setup favoring Hamilton's tyre management style, combined with Ferrari being a power-hungry track concern, means Leclerc could be overshadowed and lost in the mix again — possibly outside the top 6.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Lindblad\",\"reasoning\":\"Lindblad arrives at his home debut in strong form with four straight points finishes and Q3 appearances in two of last four races. Racing Bulls have been strong recently with both drivers in top 10 for three consecutive races. Home crowd boost and momentum make him primed to over-deliver.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams scores points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many British drivers score points in the Grand Prix on Sunday?",
+          "selection": "4",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will a British driver win the Grand Prix on Sunday?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Max Verstappen",
+        "podium_p3": "Lando Norris",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"Silverstone's high-speed corners like Copse, Maggotts, and Becketts are challenging with the 2026 cars' reduced battery energy and lower approach speeds. Combined with the first sprint weekend at Silverstone since 2021, which limits practice and setup time, drivers may be caught out, increasing the likelihood of incidents and multiple safety car deployments.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari showed a power deficit at the Red Bull Ring, and Silverstone is even more power-hungry. Despite Hamilton's emotional home win momentum, the car's weakness on power-sensitive tracks could leave them struggling to match Mercedes and Red Bull.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull arrives with a significant aerodynamic upgrade that worked well in Austria, putting Verstappen in the fight for victory. Silverstone is power-sensitive, and the new Red Bull Ford Powertrains unit has been impressive. With the team's first true win contention in Austria and a track that could suit their package, they could outperform expectations.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Arvid Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams scores points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many British drivers score points in the Grand Prix on Sunday?",
+          "selection": "3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will a British driver win the Grand Prix on Sunday?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Lewis Hamilton",
+        "podium_p2": "George Russell",
+        "podium_p3": "Kimi Antonelli",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Both Mercedes cars crash out while fighting for the lead.\",\"reasoning\":\"With the championship tension boiling over between points leader Kimi Antonelli and George Russell at his home race, a fierce battle for the lead will end in a catastrophic double-DNF at Copse corner, blowing the race wide open.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"The team is suffering from brutal 2026 car development problems. The high-speed, downforce-dependent nature of Silverstone will painfully expose their current aerodynamic flaws and lack of pace, leaving them struggling to even get out of Q1.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"Armed with crucial 2026 aerodynamic upgrades and sporting a special white-and-green heritage livery, McLaren is poised to bounce back at their home race. Lando Norris is desperate to replicate his 2025 Silverstone victory and will push the team to a double podium.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Arvid Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams scores points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many British drivers score points in the Grand Prix on Sunday?",
+          "selection": "3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will a British driver win the Grand Prix on Sunday?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Oscar Piastri",
+        "podium_p3": "Max Verstappen",
+        "pole": "Lando Norris",
+        "sprint_pole": "Lando Norris",
+        "sprint_winner": "Oscar Piastri"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Five different drivers lead the race\",\"reasoning\":\"Silverstone is one of the better venues for strategic chaos: high tyre energy, safety-car probability, wind shifts, and sudden showers can all create offset strategies. If the race becomes dry-wet-dry or features an early safety car, the lead could rotate between front-runners staying out, undercut attempts, and midfield cars gambling on timing.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari's ceiling is still high, but Silverstone can expose cars that are even slightly inconsistent through long, loaded high-speed corners like Copse, Maggotts and Becketts. If the track is cool or windy, tyre temperature windows and balance shifts could become a bigger issue than raw pace. Expectations will also be inflated because of Hamilton's home-race storyline, so even a solid lower-points finish could feel like an underperformance.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Silverstone should reward Williams' traditional strengths: straight-line efficiency, stability through fast corners, and the ability to run a low-drag setup without completely sacrificing tyre life. With Albon and Sainz, they also have two drivers who are usually strong in mixed-condition or wind-sensitive sessions, which matters a lot at Silverstone. If qualifying is disrupted by traffic, gusts, or showers, Williams look like a credible candidate to turn a Q3 appearance into a double-points race.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams scores points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many British drivers score points in the Grand Prix on Sunday?",
+          "selection": "4",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will a British driver win the Grand Prix on Sunday?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "George Russell",
+        "sprint_pole": "Kimi Antonelli",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"It's a sprint weekend with only one practice, making setup tricky for all teams on the high-speed Silverstone layout. Combined with British weather possibly bringing rain and close midfield battles from upgrades, expect multiple incidents in the high-speed corners like Maggotts-Becketts.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull has been struggling with car issues throughout 2026, sitting 4th in constructors with Verstappen only 7th in drivers' standings. Their floor refinements may not be enough at this high-speed, front-limited circuit where Mercedes dominates, leading to another disappointing weekend.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Williams is bringing the biggest upgrade package to Silverstone this sprint weekend, a high-speed track that suits their recent development direction. With Carlos Sainz pushing hard, they could jump into consistent Q3 and points battles, exceeding low expectations after a tough start to 2026.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Arvid Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams scores points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many British drivers score points in the Grand Prix on Sunday?",
+          "selection": "3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will a British driver win the Grand Prix on Sunday?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Lewis Hamilton",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Cadillac get their first points",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Audi",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "Cadillac",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Oliver Bearman",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams scores points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many British drivers score points in the Grand Prix on Sunday?",
+          "selection": "4",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will a British driver win the Grand Prix on Sunday?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A British driver leads every single lap of the race\",\"reasoning\":\"Silverstone has been dominated by British drivers historically - Hamilton has won here 9 times, and British drivers swept the podium two rounds ago in Spain. With Russell winning in Austria, Hamilton having just won in Barcelona for Ferrari, and Norris racing at home with the champion's #1 for the first time, the momentum is with the British drivers. Mercedes appears to have the strongest package currently, and with Russell calling Silverstone 'more to his liking' than Austria, a dominant lights-to-flag victory by a British driver is a bold but plausible outcome given the convergence of form, home advantage, and historical precedent.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull\",\"reasoning\":\"Red Bull made strides in Austria with upgrades and Verstappen was competitive, but Silverstone's characteristics may expose their power unit limitations. Verstappen himself noted that the 2026 cars will be noticeably slower at Silverstone due to battery charging issues on a track with few low-speed corners. As a brand-new power unit manufacturer, their first-year engine may struggle on one of the most power-hungry circuits of the year, causing them to fall back from their Austria performance.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Williams has brought a significant upgrade package to Silverstone aimed at reducing weight and improving performance. The team has struggled with an overweight car and Carlos Sainz has been visibly frustrated, but home races often provide a morale boost and the upgrades could help them fight for points against Alpine and Racing Bulls. With Silverstone being a power-sensitive track and Williams having a Mercedes power unit, they could spring a surprise if the upgrades work as intended.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Arvid Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams scores points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many British drivers score points in the Grand Prix on Sunday?",
+          "selection": "3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will a British driver win the Grand Prix on Sunday?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "George Russell",
+        "sprint_pole": "George Russell",
+        "sprint_winner": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"All four British drivers (Norris, Hamilton, Russell, Antonelli) finish on the podium in the correct order of their championship positions\",\"reasoning\":\"British drivers swept the podium two rounds ago, and Silverstone has been dominated by home drivers - only three non-British winners since 2014. With Norris starting with the champion's number one for the first time at home, Hamilton fresh from his Ferrari win, Russell carrying momentum from his Austria victory, and Antonelli leading the championship, all four British drivers are in strong form. The sprint format adds unpredictability, and if the race unfolds with each driver maximizing their potential, a 1-2-3-4 British lockout in championship order would be an unprecedented and historic result that celebrates British motorsport at its spiritual home.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Williams has made a faltering start to 2026 after their best season in years. The FW48 was finished late and overweight, and they've had back-to-back point-less weekends. While they're bringing a significant upgrade package to Silverstone aimed at reducing weight, it's unclear if it will be enough to compete with Alpine and Racing Bulls. Carlos Sainz has been visibly dismayed by the team's backwards step, and with Silverstone being such a high-speed, power-sensitive circuit, any lingering weight issues or balance problems could be amplified. This could be another difficult weekend for the Grove-based team.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull arrives at Silverstone with significant momentum after their aerodynamic upgrade in Austria allowed Verstappen to fight for victory for the first time this season. He described it as the 'first time I felt like actually I could fight for the win.' Silverstone is a power-sensitive track, and the Red Bull Ford Powertrains offering has been particularly impressive given it's their first season as a power unit manufacturer. With the upgrade working and Verstappen's renewed confidence, Red Bull could be a genuine threat for the podium or even victory at their 'home' race.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 British Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "In The Sprint, which driver finishes highest?",
+          "selection": "Arvid Lindblad",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams scores points in The Sprint?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will both Williams cars get out of Q1?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the first 10 laps of the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many British drivers score points in the Grand Prix on Sunday?",
+          "selection": "3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will a British driver win the Grand Prix on Sunday?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  },
+  "generationLogs": [
+    {
+      "id": 341,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Williams\",\n    \"reasoning\": \"Williams is bringing the biggest upgrade package to Silverstone this sprint weekend, a high-speed track that suits their recent development direction. With Carlos Sainz pushing hard, they could jump into consistent Q3 and points battles, exceeding low expectations after a tough start to 2026.\",\n    \"is_team\": true,\n    \"referenced_id\": \"williams\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"Red Bull has been struggling with car issues throughout 2026, sitting 4th in constructors with Verstappen only 7th in drivers' standings. Their floor refinements may not be enough at this high-speed, front-limited circuit where Mercedes dominates, leading to another disappointing weekend.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"It's a sprint weekend with only one practice, making setup tricky for all teams on the high-speed Silverstone layout. Combined with British weather possibly bringing rain and close midfield battles from upgrades, expect multiple incidents in the high-speed corners like Maggotts-Becketts.\"\n  }\n}",
+      "tokensUsed": 17806,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.467Z"
+    },
+    {
+      "id": 342,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"Red Bull arrives with a significant aerodynamic upgrade that worked well in Austria, putting Verstappen in the fight for victory. Silverstone is power-sensitive, and the new Red Bull Ford Powertrains unit has been impressive. With the team's first true win contention in Austria and a track that could suit their package, they could outperform expectations.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"flop\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari showed a power deficit at the Red Bull Ring, and Silverstone is even more power-hungry. Despite Hamilton's emotional home win momentum, the car's weakness on power-sensitive tracks could leave them struggling to match Mercedes and Red Bull.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"Silverstone's high-speed corners like Copse, Maggotts, and Becketts are challenging with the 2026 cars' reduced battery energy and lower approach speeds. Combined with the first sprint weekend at Silverstone since 2021, which limits practice and setup time, drivers may be caught out, increasing the likelihood of incidents and multiple safety car deployments.\"\n  }\n}",
+      "tokensUsed": 3706,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.467Z"
+    },
+    {
+      "id": 343,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"russell\",\n  \"podium\": [\"russell\", \"antonelli\", \"norris\"],\n  \"sprint_pole\": \"russell\",\n  \"sprint_winner\": \"antonelli\",\n  \"reasoning\": \"Russell comes into his home race with significant momentum after winning at the Red Bull Ring and cutting the gap to championship leader Antonelli to 40 points. Silverstone has been kind to British drivers recently, with Norris winning last year and Hamilton the year before. Russell's recent qualifying form (pole in Austria) and home advantage make him the favorite for pole. For the sprint, prediction markets favor Antonelli (37%) over Russell (33%), but Russell's momentum and Mercedes' strong race pace suggest he could take sprint pole. The main race podium features Russell for the home win, Antonelli's championship consistency, and Norris returning to form after McLaren's difficult Austria weekend. Red Bull's upgrades give Verstappen a chance, but Mercedes appears stronger at this high-speed circuit. Weather looks clear with temperatures around 27°C.\"\n}",
+      "tokensUsed": 4675,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.215Z"
+    },
+    {
+      "id": 344,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"piastri\", \"verstappen\"],\n  \"sprint_pole\": \"norris\",\n  \"sprint_winner\": \"piastri\",\n  \"reasoning\": \"Silverstone rewards high-speed aerodynamic efficiency, tyre stability through long loaded corners, and strong qualifying confidence. McLaren's recent trend and driver form make Norris and Piastri the safest picks, with Norris getting the edge for main-race pole and a home British GP win. Piastri is a strong sprint choice because of his consistency and race-management strength over shorter distances. Verstappen remains the most likely non-McLaren podium threat given his execution and adaptability, while Ferrari and Mercedes are close alternatives but slightly less convincing for overall pace at this track. Variable British weather could increase volatility, but no assumed penalties or mechanical issues change the front-running order.\"\n}",
+      "tokensUsed": 1115,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.210Z"
+    },
+    {
+      "id": 345,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"russell\",\n  \"podium\": [\"russell\", \"antonelli\", \"hamilton\"],\n  \"sprint_pole\": \"antonelli\",\n  \"sprint_winner\": \"russell\",\n  \"reasoning\": \"Mercedes dominate 2026 standings (Antonelli leads drivers on 171pts, Russell 2nd on 131pts; team leads constructors by large margin). Recent form: Russell won Austria (latest race), strong momentum into home GP; Antonelli consistent winner earlier. Silverstone sprint weekend favors Mercedes' high-speed balance. Ferrari (Hamilton 3rd, 125pts) bringing low-drag upgrades (Macarena wing, diffuser) for home boost after Austria struggles. McLaren (reigning champs, Piastri/Norris ~4th/5th) and Red Bull (Verstappen 7th, recent Austria resurgence with upgrades) competitive but behind. Dry, warm weather (25-27C, low rain risk) suits Mercedes. Expert previews (F1.com, YouTube, Oversteer) favor Russell for GP win/podiums, Antonelli for sprint pole. Historical home advantage for Russell/Hamilton.\"\n}",
+      "tokensUsed": 38789,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.212Z"
+    },
+    {
+      "id": 346,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"British Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"91\":[878,879,880],\"92\":[901],\"93\":[903],\"94\":[908],\"95\":[930],\"96\":[932],\"97\":[955],\"98\":[964],\"99\":[970],\"100\":[972]},\"reasoning\":\"Based on research: Mercedes dominates 2026 with Antonelli leading championship (171 pts) and Russell 2nd (131 pts) after winning Austria. Mercedes has yet to be beaten to pole in 2026. Experts predict Russell to finally win at his home Silverstone GP - I'm going bold with Russell P1, Antonelli P2, Verstappen P3 (Red Bull improved after Austria upgrades). For sprint pole/fastest lap, going with Antonelli who's had 5 fastest laps this season and has been 'the bridesmaid' in sprint qualifying. Bearman over Lindblad in sprint (more experienced Haas driver). Kept both Williams out of Q1 as 'No' given Silverstone struggles hint. Racing Bulls for fastest pitstop (three already this season per description). Safety car likely in first 10 laps given British weather history. 4 British drivers scoring points is realistic with Russell, Hamilton, Norris likely + one of Bearman/Lindblad. British winner Yes with Russell tipped to win by multiple experts.\"}",
+      "tokensUsed": 30864,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.683Z"
+    },
+    {
+      "id": 347,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"antonelli\",\"podium\":[\"russell\",\"antonelli\",\"hamilton\"],\"sprint_pole\":\"antonelli\",\"sprint_winner\":\"russell\",\"reasoning\":\"Mercedes has dominated the 2026 season with seven of the eight rounds won, with Hamilton's Spanish Grand Prix win for Ferrari at Barcelona the only interruption. Rookie Kimi Antonelli currently leads the Drivers' Championship with 156 points, ahead of Ferrari driver Lewis Hamilton, and Antonelli leads the field in pole positions (six in eight rounds), making him the clear favorite for pole at Silverstone. For the race, I'm picking Russell to finally win his home GP - Russell took pole in Austria after Verstappen crashed at Turn 9 in Q3, then converted Sunday with Verstappen recovered to second, and momentum is with him. Hamilton rounds out the podium given his longest single-circuit dominance in F1 history with nine wins from 21 starts and 12 podiums in 13 visits at Silverstone. For the Sprint: Antonelli has been the bridesmaid with P2 in Sprint Qualifying in China, Miami and Canada, but should finally beat teammate Russell for Sprint pole, while Russell converts to win the Sprint race at his home track as he did in China and Canada.\"}",
+      "tokensUsed": 27129,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.202Z"
+    },
+    {
+      "id": 348,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Williams\",\"reasoning\":\"Silverstone should reward Williams' traditional strengths: straight-line efficiency, stability through fast corners, and the ability to run a low-drag setup without completely sacrificing tyre life. With Albon and Sainz, they also have two drivers who are usually strong in mixed-condition or wind-sensitive sessions, which matters a lot at Silverstone. If qualifying is disrupted by traffic, gusts, or showers, Williams look like a credible candidate to turn a Q3 appearance into a double-points race.\",\"is_team\":true,\"referenced_id\":\"williams\"},\"flop\":{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari's ceiling is still high, but Silverstone can expose cars that are even slightly inconsistent through long, loaded high-speed corners like Copse, Maggotts and Becketts. If the track is cool or windy, tyre temperature windows and balance shifts could become a bigger issue than raw pace. Expectations will also be inflated because of Hamilton's home-race storyline, so even a solid lower-points finish could feel like an underperformance.\",\"is_team\":true,\"referenced_id\":\"ferrari\"},\"crazy_prediction\":{\"prediction\":\"Five different drivers lead the race\",\"reasoning\":\"Silverstone is one of the better venues for strategic chaos: high tyre energy, safety-car probability, wind shifts, and sudden showers can all create offset strategies. If the race becomes dry-wet-dry or features an early safety car, the lead could rotate between front-runners staying out, undercut attempts, and midfield cars gambling on timing.\"}}",
+      "tokensUsed": 1605,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.465Z"
+    },
+    {
+      "id": 349,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\"good_surprise\": {\"name\": \"Williams\", \"reasoning\": \"Williams has brought a significant upgrade package to Silverstone aimed at reducing weight and improving performance. The team has struggled with an overweight car and Carlos Sainz has been visibly frustrated, but home races often provide a morale boost and the upgrades could help them fight for points against Alpine and Racing Bulls. With Silverstone being a power-sensitive track and Williams having a Mercedes power unit, they could spring a surprise if the upgrades work as intended.\", \"is_team\": true, \"referenced_id\": \"williams\"}, \"flop\": {\"name\": \"Red Bull\", \"reasoning\": \"Red Bull made strides in Austria with upgrades and Verstappen was competitive, but Silverstone's characteristics may expose their power unit limitations. Verstappen himself noted that the 2026 cars will be noticeably slower at Silverstone due to battery charging issues on a track with few low-speed corners. As a brand-new power unit manufacturer, their first-year engine may struggle on one of the most power-hungry circuits of the year, causing them to fall back from their Austria performance.\", \"is_team\": true, \"referenced_id\": \"red-bull\"}, \"crazy_prediction\": {\"prediction\": \"A British driver leads every single lap of the race\", \"reasoning\": \"Silverstone has been dominated by British drivers historically - Hamilton has won here 9 times, and British drivers swept the podium two rounds ago in Spain. With Russell winning in Austria, Hamilton having just won in Barcelona for Ferrari, and Norris racing at home with the champion's #1 for the first time, the momentum is with the British drivers. Mercedes appears to have the strongest package currently, and with Russell calling Silverstone 'more to his liking' than Austria, a dominant lights-to-flag victory by a British driver is a bold but plausible outcome given the convergence of form, home advantage, and historical precedent.\"}}",
+      "tokensUsed": 3857,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.468Z"
+    },
+    {
+      "id": 350,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"British Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"91\": [878, 879, 882],\n    \"92\": [900],\n    \"93\": [903],\n    \"94\": [907],\n    \"95\": [930],\n    \"96\": [932],\n    \"97\": [955],\n    \"98\": [964],\n    \"99\": [969],\n    \"100\": [972]\n  },\n  \"reasoning\": \"Mercedes has been dominant in 2026, taking every pole position so far. George Russell is the favorite to take pole and win his home race, with teammate Kimi Antonelli likely to secure fastest lap based on his recent form. Lando Norris is a strong contender for the podium. Lindblad is favored over Bearman in the Sprint, and Racing Bulls have been consistently fast in the pits. A safety car is likely early on due to typical Silverstone chaos, and we expect 3 British drivers to score points, with a British driver ultimately taking the win.\"\n}",
+      "tokensUsed": 5099,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.684Z"
+    },
+    {
+      "id": 351,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": { \"name\": \"Lindblad\", \"reasoning\": \"Lindblad arrives at his home debut in strong form with four straight points finishes and Q3 appearances in two of last four races. Racing Bulls have been strong recently with both drivers in top 10 for three consecutive races. Home crowd boost and momentum make him primed to over-deliver.\", \"is_team\": false, \"referenced_id\": \"lindblad\" },\n  \"flop\": { \"name\": \"Leclerc\", \"reasoning\": \"Leclerc has been outperformed by Hamilton in each of the last five races and outqualified in three of the last four. Silverstone is Hamilton's fortress, and the setup favoring Hamilton's tyre management style, combined with Ferrari being a power-hungry track concern, means Leclerc could be overshadowed and lost in the mix again — possibly outside the top 6.\", \"is_team\": false, \"referenced_id\": \"leclerc\" },\n  \"crazy_prediction\": { \"prediction\": \"A British driver wins the Sprint AND the Grand Prix on home soil\", \"reasoning\": \"Five British drivers on the grid, Russell arrives as the most recent race winner with momentum having taken 28 points off Antonelli in two rounds, Hamilton has 9 career British GP wins and Norris is defending winner. Silverstone historically produces home heroics — with Sprint weekend format, chance of a British double is elevated but still bold given Antonelli's dominance.\" }\n}",
+      "tokensUsed": 37519,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.464Z"
+    },
+    {
+      "id": 352,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"British Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"91\":[878,882,880],\"92\":[901],\"93\":[903],\"94\":[907],\"95\":[929],\"96\":[932],\"97\":[955],\"98\":[965],\"99\":[970],\"100\":[972]},\"reasoning\":\"I weighted the stated 2026 form indicators heavily: Mercedes have been unbeaten to pole, Antonelli has dominated fastest laps, and Racing Bulls have repeatedly topped pit-stop times. Silverstone’s high-speed layout should suit Mercedes and McLaren, with Russell’s home advantage making him my win/pole pick over safer Verstappen coverage. Norris is a strong podium candidate at Silverstone, while Verstappen remains the best non-British podium insurance. I took some calculated upside with Bearman over Lindblad in the Sprint, Williams to rebound from Styria, no early neutralisation, and four British point-scorers if Bearman or Lindblad converts home-race pace into a lower-top-10 finish.\"}",
+      "tokensUsed": 3520,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.684Z"
+    },
+    {
+      "id": 353,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\n    \"hamilton\",\n    \"russell\",\n    \"antonelli\"\n  ],\n  \"sprint_pole\": \"russell\",\n  \"sprint_winner\": \"russell\",\n  \"reasoning\": \"In the 2026 season, Mercedes is dominating the Constructors' Championship, with Kimi Antonelli leading the Drivers' standings. However, George Russell enters his home race with immense momentum after winning the recent Austrian Grand Prix. Silverstone's high-speed corners heavily favor the downforce and straight-line speed of the Mercedes and the well-balanced Ferrari SF-26. Russell is tipped to excel in the Sprint format on home soil, while Lewis Hamilton, now at Ferrari and sitting third in the championship, remains a formidable historical force at Silverstone. Antonelli's raw pace should secure him Grand Prix pole, but the race experience of Hamilton and Russell will likely see them battle for the top steps of the podium.\"\n}",
+      "tokensUsed": 21873,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.211Z"
+    },
+    {
+      "id": 354,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"McLaren\",\n    \"reasoning\": \"Armed with crucial 2026 aerodynamic upgrades and sporting a special white-and-green heritage livery, McLaren is poised to bounce back at their home race. Lando Norris is desperate to replicate his 2025 Silverstone victory and will push the team to a double podium.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mclaren\"\n  },\n  \"flop\": {\n    \"name\": \"Aston Martin\",\n    \"reasoning\": \"The team is suffering from brutal 2026 car development problems. The high-speed, downforce-dependent nature of Silverstone will painfully expose their current aerodynamic flaws and lack of pace, leaving them struggling to even get out of Q1.\",\n    \"is_team\": true,\n    \"referenced_id\": \"aston-martin\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Both Mercedes cars crash out while fighting for the lead.\",\n    \"reasoning\": \"With the championship tension boiling over between points leader Kimi Antonelli and George Russell at his home race, a fierce battle for the lead will end in a catastrophic double-DNF at Copse corner, blowing the race wide open.\"\n  }\n}\n",
+      "tokensUsed": 14968,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.466Z"
+    },
+    {
+      "id": 355,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"British Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"91\": [879, 878, 881],\n    \"92\": [900],\n    \"93\": [903],\n    \"94\": [908],\n    \"95\": [929],\n    \"96\": [932],\n    \"97\": [953],\n    \"98\": [965],\n    \"99\": [969],\n    \"100\": [972]\n  },\n  \"reasoning\": \"2026 standings show Mercedes dominant (Antonelli 171pts leading, Russell 131pts with recent Austria win); Hamilton 3rd for Ferrari. Silverstone is high-speed, favors Mercedes' strong recent poles (unbeaten in 2026). Sprint weekend with dry forecast (no rain, mid-20sC). Podium: Antonelli (champ leader, recent FLs), Russell (home momentum), Hamilton (Silverstone specialist). Sprint highest: Lindblad (young Brit, lower pts/riskier). Teams in Sprint points: 5 (top teams +1-2 midfield). Pole: Antonelli (expert picks favor him over Russell at home). Both Williams out of Q1: Yes (upgrades, Sainz push, post-Styria bounce). Fastest lap: Antonelli (5 this season). Fastest pitstop: Mercedes (consistent, home). No SC/VSC early (dry, clean start likely). 3 British points scorers (Russell, Hamilton, Norris; Bearman/Lindblad harder). Yes Brit winner (home bias, Russell/Hamilton strong).\"\n}",
+      "tokensUsed": 41442,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.685Z"
+    },
+    {
+      "id": 356,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"British Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "{\n  \"answers\": {\n    \"91\": [878, 882, 880],\n    \"92\": [900],\n    \"93\": [904],\n    \"94\": [907],\n    \"95\": [930],\n    \"96\": [932],\n    \"97\": [955],\n    \"98\": [964],\n    \"99\": [969],\n    \"100\": [972]\n  },\n  \"reasoning\": \"Based on current F1 form and Silverstone characteristics: Mercedes (Russell and Antonelli) are the current championship leaders with Antonelli leading betting odds. McLaren's Norris won last year's race and has 3 straight podiums at Silverstone. Hamilton has 9 wins and 15 podiums at this circuit historically. Red Bull show resurgence after Verstappen podium in Austria. Sprint race features rookies Lindblad and Bearman - Lindblad favored. Racing Bulls lead fastest pitstops with 3 this season. Silverstone's microclimate often produces early safety cars. British drivers Russell, Hamilton, Norris, Bearman, and Lindblad all competitive - expect 3 to score points. Norris and Hamilton both have strong chances for British GP victory given recent form and Silverstone history.\"\n}",
+      "tokensUsed": 6784,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.687Z"
+    },
+    {
+      "id": 357,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"British Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"91\": [878, 882, 880],\n    \"92\": [900],\n    \"93\": [903],\n    \"94\": [907],\n    \"95\": [930],\n    \"96\": [931],\n    \"97\": [955],\n    \"98\": [965],\n    \"99\": [969],\n    \"100\": [972]\n  },\n  \"reasoning\": \"Based on the 2026 season context provided: Mercedes have been dominant in qualifying, with George Russell and Kimi Antonelli as the low-point favorites for pole. McLaren are the team to beat on race pace with Norris and Piastri consistently scoring highly. Russell has home advantage and Mercedes' qualifying supremacy makes him the favorite for pole. For the podium, Russell (P1), Norris (P2), and Verstappen (P3) represent the most likely top three given current form, though Verstappen at 10 pts is still a strong contender. For the sprint, Arvid Lindblad (10 pts) is favored over Bearman as a rookie with momentum. For teams scoring in the sprint, 5 teams is a balanced pick given the competitive midfield. Williams are struggling, making 'No' on both cars escaping Q1 the logical choice. Antonelli leads fastest laps but Russell at 10 pts offers value given Mercedes pace; however, with Antonelli having 5 fastest laps already, Russell is a safer high-probability pick at similar low points. Racing Bulls have a pit stop streak making them the value pick. The weather forecast suggests a clean start is likely, favoring 'No' on early SC/VSC. With 5 British drivers and strong home form, 3 scoring points is realistic, and a British winner (Russell or Norris) is plausible enough to take the 10-pt 'Yes'.\"\n}",
+      "tokensUsed": 4930,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.686Z"
+    },
+    {
+      "id": 358,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"russell\",\n  \"podium\": [\"russell\", \"verstappen\", \"norris\"],\n  \"sprint_pole\": \"russell\",\n  \"sprint_winner\": \"russell\",\n  \"reasoning\": \"Mercedes leads the predicted team order at high-speed Silverstone. Russell won in Austria and has home advantage; Verstappen's upgraded Red Bull excels on straights; Norris's McLaren should rebound on home soil with strong race pace.\"\n}",
+      "tokensUsed": 6323,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.213Z"
+    },
+    {
+      "id": 359,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull arrives at Silverstone with significant momentum after their aerodynamic upgrade in Austria allowed Verstappen to fight for victory for the first time this season. He described it as the 'first time I felt like actually I could fight for the win.' Silverstone is a power-sensitive track, and the Red Bull Ford Powertrains offering has been particularly impressive given it's their first season as a power unit manufacturer. With the upgrade working and Verstappen's renewed confidence, Red Bull could be a genuine threat for the podium or even victory at their 'home' race.\",\"is_team\":true,\"referenced_id\":\"red-bull\"},\"flop\":{\"name\":\"Williams\",\"reasoning\":\"Williams has made a faltering start to 2026 after their best season in years. The FW48 was finished late and overweight, and they've had back-to-back point-less weekends. While they're bringing a significant upgrade package to Silverstone aimed at reducing weight, it's unclear if it will be enough to compete with Alpine and Racing Bulls. Carlos Sainz has been visibly dismayed by the team's backwards step, and with Silverstone being such a high-speed, power-sensitive circuit, any lingering weight issues or balance problems could be amplified. This could be another difficult weekend for the Grove-based team.\",\"is_team\":true,\"referenced_id\":\"williams\"},\"crazy_prediction\":{\"prediction\":\"All four British drivers (Norris, Hamilton, Russell, Antonelli) finish on the podium in the correct order of their championship positions\",\"reasoning\":\"British drivers swept the podium two rounds ago, and Silverstone has been dominated by home drivers - only three non-British winners since 2014. With Norris starting with the champion's number one for the first time at home, Hamilton fresh from his Ferrari win, Russell carrying momentum from his Austria victory, and Antonelli leading the championship, all four British drivers are in strong form. The sprint format adds unpredictability, and if the race unfolds with each driver maximizing their potential, a 1-2-3-4 British lockout in championship order would be an unprecedented and historic result that celebrates British motorsport at its spiritual home.\"}}",
+      "tokensUsed": 4525,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.468Z"
+    },
+    {
+      "id": 360,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"British Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "{\n  \"answers\": {\n    \"91\": [878, 882, 880],\n    \"92\": [900],\n    \"93\": [903],\n    \"94\": [907],\n    \"95\": [930],\n    \"96\": [932],\n    \"97\": [955],\n    \"98\": [965],\n    \"99\": [969],\n    \"100\": [972]\n  },\n  \"reasoning\": \"For the podium, Russell's low points suggest he's a strong favourite, likely benefiting from Mercedes' qualifying dominance. Norris has excellent Silverstone form, winning in 2025 and podiums in three straight. Verstappen is always a threat. In the sprint head-to-head, Lindblad is lower points and thus favoured over Bearman. For number of teams scoring in the sprint, five is the safest bet given the competitive field. Pole position: Russell edges Antonelli with home crowd and experience. Both Williams cars escaping Q1 is less likely after recent struggles, so 'No' is favoured. Fastest lap: Antonelli has five already this season, making him the top pick. Fastest pit stop: Racing Bulls have a habit of taking it, as noted. Clean start likely in dry conditions, so no early Safety Car/VSC. Three British drivers in points is the most probable, with Russell, Hamilton, and Norris near certain. A British winner is heavily expected, so Yes.\"\n}",
+      "tokensUsed": 10349,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.686Z"
+    },
+    {
+      "id": 361,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the British Grand Prix (Round 11, 2026-07-05) at Silverstone, United Kingdom.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"russell\",\n  \"podium\": [\"russell\", \"antonelli\", \"hamilton\"],\n  \"sprint_pole\": \"russell\",\n  \"sprint_winner\": \"antonelli\",\n  \"reasoning\": \"Mercedes is rated as the leading package for Silverstone by composite circuit-fit models [podiumprophets.com], and George Russell arrives with dominant momentum after taking pole and victory at the Red Bull Ring [racefans.net]. Silverstone’s high-speed Copse-Maggotts-Becketts sequence rewards rear stability and aero efficiency, playing to the W27’s strengths and giving Russell a clear shot at both pole positions on home soil. Championship leader Andrea Kimi Antonelli demonstrated superior race pace and fastest laps in Austria [scuderiafans.com] and is the logical pick to win the Saturday sprint if he can convert his tyre-management advantage into a pass. For Sunday, a Mercedes 1-2 is the most probable outcome, while Lewis Hamilton’s unmatched Silverstone experience and Ferrari’s second-ranked car attribute fit [podiumprophets.com] put him ahead of McLaren and a recovering Red Bull for the final podium place [racefans.net].\"\n}",
+      "tokensUsed": 7989,
+      "costUsd": 0,
+      "createdAt": "2026-07-02T06:46:37.214Z"
+    }
+  ]
+}
