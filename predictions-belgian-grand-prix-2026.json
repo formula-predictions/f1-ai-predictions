@@ -1,0 +1,910 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "belgium-2026",
+  "raceName": "Belgian Grand Prix",
+  "isSprint": false,
+  "exportedAt": "2026-07-17T07:10:34.445Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"The race is red-flagged due to torrential rain, with a delayed start of over an hour — just like 2025\",\"reasoning\":\"Thundery showers are forecast all weekend, drivers haven't had a wet race yet in 2026 with the new cars, and Spa has a history of massive rain delays (2021 non-race, 2025 90-minute delay). The 7km track means one sector can be flooded while another is dry — perfect recipe for another red-flag chaos race.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Verstappen\",\"reasoning\":\"Despite Spa being a Verstappen stronghold historically, Red Bull have had TWO consecutive rear wing failures (Austria qualifying and Silverstone race). Spa is the highest full-throttle circuit on the calendar, brutal on rear wings, and it's an energy-poor track that will expose Red Bull's PU weaknesses in the 2026 regs. Combined with McLaren switch rumors distracting him, a rare weekend where Max disappoints.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Racing Bulls have been scoring double points finishes and are just one point behind Alpine for P5 in the constructors. Hadjar has been the standout rookie and Spa's flowing nature rewards precise drivers. With wet weather forecast and Hadjar's karting/junior formula pedigree in the rain, he could easily punch into Q3 and score big points.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Belgian Grand Prix?",
+          "selection": "Gabriel Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Racing Bulls get both cars into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": "8",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Belgian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "Max Verstappen",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Isack Hadjar",
+        "pole": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"Spa's fast, sweeping nature will expose the 2026 cars' energy management weaknesses, leading to chaotic racing with cars passing unpredictably on the run to La Source and Blanchimont. Combined with the threat of rain and the circuit's history of dramatic incidents, multiple safety car periods are a bold but realistic possibility.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Mercedes\",\"reasoning\":\"Mercedes arrives at Spa under pressure after a difficult run of results. The high-speed circuit will expose the weaknesses of the 2026 power units, and energy management struggles could hurt them more than others. Kimi Antonelli is looking to halt a recent slide, but the team's overall form suggests they will underperform.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Isack Hadjar is on a five-race run of top-six finishes and outqualified Verstappen at Silverstone. With rain possible in qualifying, his skill in wet conditions could secure a stellar grid position. Red Bull's strong ICE performance and Spa's energy management challenges may also play to his strengths, making a first podium very possible.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Belgian Grand Prix?",
+          "selection": "Gabriel Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Racing Bulls get both cars into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": ">19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">10",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Belgian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "George Russell",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A red flag due to sudden torrential rain in the final 5 laps\",\"reasoning\":\"Spa's microclimate is notoriously unpredictable. With the new 2026 active aero cars being highly sensitive to sudden grip loss, a late-race downpour will cause chaos and force a red flag finish.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"The long, demanding straights of Spa could expose early energy deployment issues with the new 2026 Red Bull Ford powertrains, leaving them vulnerable to being overtaken in Sectors 1 and 3.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Audi\",\"reasoning\":\"With the 2026 power unit regulations in full effect, Audi's massive investment in their new engine could show its true potential on the power-hungry straights of Spa, allowing them to punch above their expected weight.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Belgian Grand Prix?",
+          "selection": "Gabriel Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Racing Bulls get both cars into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "16",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">10",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Belgian Grand Prix winner?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Max Verstappen",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Four different drivers lead the race\",\"reasoning\":\"Spa regularly creates unusual race shapes because of slipstreaming, long pit-loss sensitivity, safety-car probability, and fast-changing weather across such a long lap. A wet-dry-wet race or an early safety car could scramble tyre strategies enough that several cars inherit or fight for the lead at different stages.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari has the driver quality to be near the front, but Spa can punish any compromise in high-speed balance, tyre warm-up, and strategic timing. A wet-dry weekend would increase the chance of split calls, pit-window hesitation, or a qualifying setup miss. If the car is even slightly draggy or unstable through the middle sector, Ferrari could look strong in flashes but fail to convert it into the result expected from Leclerc and Hamilton.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Spa is one of the best circuits on the calendar for an efficient, low-drag car, and Williams should be able to convert straight-line speed into overtaking chances on the Kemmel Straight. With Albon usually strong in mixed-condition, low-downforce races and Sainz adding race-management quality, this is the kind of weekend where Williams can look better than its normal pecking-order position, especially if rain disrupts qualifying or strategy.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Belgian Grand Prix?",
+          "selection": "Gabriel Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Racing Bulls get both cars into Q3?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": ">19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": "9",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Belgian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"Spa's unpredictable Ardennes weather, combined with the 2026 cars' sensitivity to conditions, high tyre degradation on resurfaced track, and aggressive energy deployment battles on long straights, increases the chance of incidents, especially at high-speed corners like Eau Rouge.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Verstappen and Hadjar have struggled with the 2026 car's handling, evidenced by recent crashes and wing changes; Spa's demanding layout with long straights and elevation changes will likely expose ongoing reliability and pace issues, leading to another disappointing weekend.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Alpine\",\"reasoning\":\"Recent upgrades and strong performances from Gasly and Ocon in mixed conditions; Spa's high-speed nature and energy management demands under 2026 regs could play to their strengths, allowing them to challenge for points or even a podium beyond current expectations.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Belgian Grand Prix?",
+          "selection": "Gabriel Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Racing Bulls get both cars into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Belgian Grand Prix winner?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Lewis Hamilton",
+        "podium_p3": "Lando Norris",
+        "pole": "Lewis Hamilton"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "An Racing Bulls car gets a top-5 finish",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Hadjar",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "McLaren",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Belgian Grand Prix?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Racing Bulls get both cars into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "16",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": "9",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Belgian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Max Verstappen",
+        "pole": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Four different race leaders in the first five laps due to energy-deployment chaos\",\"reasoning\":\"The 2026 regulations have produced extreme battery yo-yo effects on long straights, and Spa's full-throttle Kemmel Straight and Blanchimont sections are tipped to trigger chaotic position-swapping early in the race before teams optimise energy deployment strategies.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Mercedes\",\"reasoning\":\"Mercedes arrives at Spa under pressure after a difficult run of results that has derailed its early championship charge; the circuit's long full-throttle sections and energy-poor nature are expected to expose lingering weaknesses in their 2026 power unit deployment.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Hadjar carries strong momentum with five consecutive top-six finishes and outqualified Verstappen at Silverstone; Spa's forecast rain and his comfort with the Red Bull package in tricky conditions could open the door for a maiden podium.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": []
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "George Russell",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A red flag within the first 5 laps due to a multi-car incident triggered by energy deployment confusion\",\"reasoning\":\"The 2026 regulations create massive yo-yo behavior with battery state of charge, causing cars to pass each other like they're standing still. Spa's high-speed nature with the La Source hairpin and Blanchimont combination means cars will be in unpredictable states of deployment. Experts warn of chaotic racing in early stages, and with 40% chance of rain on Friday potentially affecting track evolution, the conditions will be treacherous. A red flag early would reset the energy states and could completely shuffle the race outcome.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"McLaren's struggles with the 2026 energy management regulations have been well-documented this season. The cool Spa conditions (track temp in low 30s) will expose their energy efficiency weaknesses, and the power-sensitive nature of Spa-Francorchamps plays directly into their weaknesses. Multiple experts predict both Norris and Piastri could fall out of the points positions entirely this weekend. The yo-yo battery deployment behavior will be particularly punishing for their chassis.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Isack Hadjar\",\"reasoning\":\"Hadjar is on a five-race streak of top-six finishes and outqualified Verstappen at Silverstone. Red Bull's internal combustion engine is rated best by the FIA for energy deployment, which will be critical given the chaotic energy management expected at Spa. With potential rain in qualifying and the high-downforce nature of Spa favoring Red Bull's package, Hadjar could finally secure his first podium. He's been described as potentially Verstappen and Ricciardo's best teammate in years.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Belgian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Belgian Grand Prix?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Racing Bulls get both cars into Q3?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": "8",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Belgian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  },
+  "generationLogs": [
+    {
+      "id": 362,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Hadjar\",\n    \"reasoning\": \"Isack Hadjar is on a five-race run of top-six finishes and outqualified Verstappen at Silverstone. With rain possible in qualifying, his skill in wet conditions could secure a stellar grid position. Red Bull's strong ICE performance and Spa's energy management challenges may also play to his strengths, making a first podium very possible.\",\n    \"is_team\": false,\n    \"referenced_id\": \"hadjar\"\n  },\n  \"flop\": {\n    \"name\": \"Mercedes\",\n    \"reasoning\": \"Mercedes arrives at Spa under pressure after a difficult run of results. The high-speed circuit will expose the weaknesses of the 2026 power units, and energy management struggles could hurt them more than others. Kimi Antonelli is looking to halt a recent slide, but the team's overall form suggests they will underperform.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mercedes\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"Spa's fast, sweeping nature will expose the 2026 cars' energy management weaknesses, leading to chaotic racing with cars passing unpredictably on the run to La Source and Blanchimont. Combined with the threat of rain and the circuit's history of dramatic incidents, multiple safety car periods are a bold but realistic possibility.\"\n  }\n}",
+      "tokensUsed": 3519,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.990Z"
+    },
+    {
+      "id": 363,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"russell\", \"antonelli\", \"leclerc\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Research from F1 Oversteer and Planet F1 shows Ferrari's improved downforce levels make them competitive at Spa, and Leclerc has history here with wins in 2019 and poles in 2019, 2023, and 2024. Cooler conditions forecast (21°C qualifying) favor Ferrari's downforce package for pole position. However, Mercedes' W17 has superior race pace, and Russell arrives in excellent form after winning the Austrian GP and finishing P2 at Silverstone. Antonelli is due a bounce-back after showing pace but not converting in recent races. Experts predict Mercedes will outpace Ferrari over the 44 race laps. Verstappen remains a threat given his exceptional Spa record and Red Bull's strong ICE engine, which could help with the energy management chaos expected from 2026 regulations. Weather looks stable for qualifying (20% rain chance) and race day (10% rain), reducing the chance for major upsets. No Sprint weekend means focus is entirely on Sunday's main event.\"\n}",
+      "tokensUsed": 4356,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.743Z"
+    },
+    {
+      "id": 364,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Alpine\",\n    \"reasoning\": \"Recent upgrades and strong performances from Gasly and Ocon in mixed conditions; Spa's high-speed nature and energy management demands under 2026 regs could play to their strengths, allowing them to challenge for points or even a podium beyond current expectations.\",\n    \"is_team\": true,\n    \"referenced_id\": \"alpine\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"Verstappen and Hadjar have struggled with the 2026 car's handling, evidenced by recent crashes and wing changes; Spa's demanding layout with long straights and elevation changes will likely expose ongoing reliability and pace issues, leading to another disappointing weekend.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"Spa's unpredictable Ardennes weather, combined with the 2026 cars' sensitivity to conditions, high tyre degradation on resurfaced track, and aggressive energy deployment battles on long straights, increases the chance of incidents, especially at high-speed corners like Eau Rouge.\"\n  }\n}",
+      "tokensUsed": 15767,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.990Z"
+    },
+    {
+      "id": 365,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"verstappen\",\n  \"podium\": [\"verstappen\", \"norris\", \"piastri\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Spa-Francorchamps rewards straight-line efficiency, confidence through high-speed corners and tyre management, which keeps Verstappen a leading pick given his strong historical Spa record and Red Bull's typical low-drag strength. McLaren's recent all-round form makes Norris and Piastri the main race threats, especially if mixed weather or tyre degradation brings race pace into play. Ferrari and Mercedes should be competitive, but Spa's long full-throttle sections and Verstappen's qualifying edge make him the safest pole and win prediction. No Sprint is scheduled, so sprint fields are null.\"\n}",
+      "tokensUsed": 1060,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.738Z"
+    },
+    {
+      "id": 366,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": { \"name\": \"Hadjar\", \"reasoning\": \"Racing Bulls have been scoring double points finishes and are just one point behind Alpine for P5 in the constructors. Hadjar has been the standout rookie and Spa's flowing nature rewards precise drivers. With wet weather forecast and Hadjar's karting/junior formula pedigree in the rain, he could easily punch into Q3 and score big points.\", \"is_team\": false, \"referenced_id\": \"hadjar\" },\n  \"flop\": { \"name\": \"Verstappen\", \"reasoning\": \"Despite Spa being a Verstappen stronghold historically, Red Bull have had TWO consecutive rear wing failures (Austria qualifying and Silverstone race). Spa is the highest full-throttle circuit on the calendar, brutal on rear wings, and it's an energy-poor track that will expose Red Bull's PU weaknesses in the 2026 regs. Combined with McLaren switch rumors distracting him, a rare weekend where Max disappoints.\", \"is_team\": true, \"referenced_id\": \"red-bull\" },\n  \"crazy_prediction\": { \"prediction\": \"The race is red-flagged due to torrential rain, with a delayed start of over an hour — just like 2025\", \"reasoning\": \"Thundery showers are forecast all weekend, drivers haven't had a wet race yet in 2026 with the new cars, and Spa has a history of massive rain delays (2021 non-race, 2025 90-minute delay). The 7km track means one sector can be flooded while another is dry — perfect recipe for another red-flag chaos race.\" }\n}",
+      "tokensUsed": 25394,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.987Z"
+    },
+    {
+      "id": 367,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Isack Hadjar\",\n    \"reasoning\": \"Hadjar is on a five-race streak of top-six finishes and outqualified Verstappen at Silverstone. Red Bull's internal combustion engine is rated best by the FIA for energy deployment, which will be critical given the chaotic energy management expected at Spa. With potential rain in qualifying and the high-downforce nature of Spa favoring Red Bull's package, Hadjar could finally secure his first podium. He's been described as potentially Verstappen and Ricciardo's best teammate in years.\",\n    \"is_team\": false,\n    \"referenced_id\": \"hadjar\"\n  },\n  \"flop\": {\n    \"name\": \"McLaren\",\n    \"reasoning\": \"McLaren's struggles with the 2026 energy management regulations have been well-documented this season. The cool Spa conditions (track temp in low 30s) will expose their energy efficiency weaknesses, and the power-sensitive nature of Spa-Francorchamps plays directly into their weaknesses. Multiple experts predict both Norris and Piastri could fall out of the points positions entirely this weekend. The yo-yo battery deployment behavior will be particularly punishing for their chassis.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mclaren\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"A red flag within the first 5 laps due to a multi-car incident triggered by energy deployment confusion\",\n    \"reasoning\": \"The 2026 regulations create massive yo-yo behavior with battery state of charge, causing cars to pass each other like they're standing still. Spa's high-speed nature with the La Source hairpin and Blanchimont combination means cars will be in unpredictable states of deployment. Experts warn of chaotic racing in early stages, and with 40% chance of rain on Friday potentially affecting track evolution, the conditions will be treacherous. A red flag early would reset the energy states and could completely shuffle the race outcome.\"\n  }\n}",
+      "tokensUsed": 4083,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.991Z"
+    },
+    {
+      "id": 368,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"russell\",\"podium\":[\"antonelli\",\"russell\",\"hamilton\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"Mercedes enters Spa as the dominant force in 2026, with Antonelli leading the championship on 179 points and five wins, and Russell just 25 points behind after his Silverstone P2 and Austria win. Mercedes is favored as the class of the field, with Antonelli the betting favorite at +140. I'm picking Russell for pole given his recent momentum (Austria win, Silverstone P2) and Mercedes' qualifying dominance (four poles each for the Mercedes drivers), though Antonelli is equally capable. For the race, Antonelli is due a bounce-back after his Silverstone reliability DNF and is expected to convert Mercedes' pace into victory on Sunday when dry weather is forecast. Russell should complete the Mercedes 1-2. Hamilton takes P3 - he's had four podiums in his last five races, has four career Spa wins, and Ferrari's downforce plus cooler conditions should help them punch above their straight-line speed limitations. Leclerc is a threat given his Spa pole history (2019, 2023, 2024) and Silverstone win, but Hamilton's current form edges him. Verstappen remains a wildcard on a driver's circuit but Red Bull reliability concerns (rear wing issues) and Silverstone crash make him a risky podium pick.\"}",
+      "tokensUsed": 32549,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.729Z"
+    },
+    {
+      "id": 369,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Belgian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"101\": [976, 975, 974],\n    \"102\": [997],\n    \"103\": [1018],\n    \"104\": [1020],\n    \"105\": [1022],\n    \"106\": [1036],\n    \"107\": [1040],\n    \"108\": [1044],\n    \"109\": [1049],\n    \"110\": [1072]\n  },\n  \"reasoning\": \"Recent British GP saw Ferrari 1-3 (Leclerc win, Hamilton P3) with Mercedes strong (Russell P2, Antonelli leading standings at 179pts vs Russell 154, Hamilton 147). Mercedes dominant in 2026 with Antonelli/Russell 1-2 in standings; Hamilton strong at Spa historically (5 wins). Predictions favor Mercedes 1-2-3 podium (Antonelli P1 low pts, Russell P2, Hamilton P3) for Q101. Pole to Antonelli (Q102) per form/experts. Bortoleto edges Colapinto in quali (Q103) per Audi progress. Racing Bulls both in Q3 likely (Q104) from Silverstone. Mercedes fastest pit (Q105) as top team. 17 classified (Q106) given reliability trends but Spa attrition. Red Bull edges McLaren in points (Q107) via Verstappen/Hadjar. 7 positions gained max (Q108) typical for Spa overtakes. Antonelli fastest lap (Q109) continuing streak. No new winner (Q110) as Hamilton/Leclerc have Spa wins.\"\n}",
+      "tokensUsed": 45291,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:01.200Z"
+    },
+    {
+      "id": 370,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Belgian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"101\":[975,974,976],\"102\":[999],\"103\":[1018],\"104\":[1021],\"105\":[1022],\"106\":[1036],\"107\":[1041],\"108\":[1045],\"109\":[1049],\"110\":[1071]},\"reasoning\":\"Podium: Antonelli (championship leader, favorite +140), Russell (2nd in standings, on strong form with Austria win & Silverstone P2), Hamilton (3rd in standings, 4 podiums in last 5, Spa specialist with 4 wins there). Pole: Leclerc - experts tip him due to Ferrari's downforce, cooler conditions, and his Spa pole record (2019, 2023, 2024). Bortoleto over Colapinto - had edge at Silverstone qualifying. Racing Bulls both in Q3: No - tougher ask at power-sensitive Spa. Fastest pitstop: Mercedes - typically strong operationally and leading team. Classified finishers: 17 - Spa is long/tough but modern reliability decent, rain adds risk. Team points McLaren vs Red Bull: McLaren - stronger car overall, RBR having reliability woes. Positions gained: 8 - Spa always produces charging drives with long straights/DRS. Fastest lap: Antonelli - on 6-race streak. New winner: Yes - Antonelli has 5 wins but never won at Spa, and he's the favorite; Russell also hasn't won there.\"}",
+      "tokensUsed": 38902,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:01.198Z"
+    },
+    {
+      "id": 371,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Audi\",\n    \"reasoning\": \"With the 2026 power unit regulations in full effect, Audi's massive investment in their new engine could show its true potential on the power-hungry straights of Spa, allowing them to punch above their expected weight.\",\n    \"is_team\": true,\n    \"referenced_id\": \"audi\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"The long, demanding straights of Spa could expose early energy deployment issues with the new 2026 Red Bull Ford powertrains, leaving them vulnerable to being overtaken in Sectors 1 and 3.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"A red flag due to sudden torrential rain in the final 5 laps\",\n    \"reasoning\": \"Spa's microclimate is notoriously unpredictable. With the new 2026 active aero cars being highly sensitive to sudden grip loss, a late-race downpour will cause chaos and force a red flag finish.\"\n  }\n}",
+      "tokensUsed": 2307,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.989Z"
+    },
+    {
+      "id": 372,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"leclerc\", \"hamilton\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"2026 standings: Antonelli leads (179 pts) over Russell (154), Hamilton (147), Leclerc (108). Recent: Leclerc won dramatic Silverstone (from Russell, Hamilton); Antonelli suffered issue dropping back. Mercedes strong overall but Ferrari momentum post-Silverstone win. Spa (7km, high-speed sweeps, elevation, energy mgmt key in 2026 regs) historically favors skilled drivers; changeable weather possible but qualifying/race likely dry. Mercedes bringing biggest upgrades; McLaren expects 3rd/4th pace (Piastri); Red Bull struggling (Verstappen low odds). Betting favors Antonelli for pole/win; Hamilton strong Spa history. Prediction: Antonelli pole + win, Ferrari 2-3.\"\n}",
+      "tokensUsed": 44288,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.740Z"
+    },
+    {
+      "id": 373,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"antonelli\",\"podium\":[\"antonelli\",\"hamilton\",\"russell\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"Lando Norris is serving a 10-place grid penalty for a new power electronics unit, effectively ruling him out of pole contention. Mercedes has dominated the 2026 season so far, with Kimi Antonelli leading the championship and entering Spa as the betting favorite. Spa's high-speed, energy-starved layout heavily favors the powerful Mercedes and Ferrari power units. Lewis Hamilton has excellent historical form at this track and is chasing a record-tying sixth Belgian GP victory. Despite a high chance of rain during Friday practice, Saturday qualifying and Sunday's race are forecast to be mostly dry and cool. I expect Antonelli to secure pole and the win, with Hamilton and Russell completing the podium.\"}",
+      "tokensUsed": 5620,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.739Z"
+    },
+    {
+      "id": 374,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Belgian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"101\":[976,974,977],\"102\":[997],\"103\":[1018],\"104\":[1020],\"105\":[1023],\"106\":[1035],\"107\":[1040],\"108\":[1048],\"109\":[1049],\"110\":[1072]},\"reasoning\":\"\"}",
+      "tokensUsed": 11261,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:01.200Z"
+    },
+    {
+      "id": 375,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Williams\",\"reasoning\":\"Spa is one of the best circuits on the calendar for an efficient, low-drag car, and Williams should be able to convert straight-line speed into overtaking chances on the Kemmel Straight. With Albon usually strong in mixed-condition, low-downforce races and Sainz adding race-management quality, this is the kind of weekend where Williams can look better than its normal pecking-order position, especially if rain disrupts qualifying or strategy.\",\"is_team\":true,\"referenced_id\":\"williams\"},\"flop\":{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari has the driver quality to be near the front, but Spa can punish any compromise in high-speed balance, tyre warm-up, and strategic timing. A wet-dry weekend would increase the chance of split calls, pit-window hesitation, or a qualifying setup miss. If the car is even slightly draggy or unstable through the middle sector, Ferrari could look strong in flashes but fail to convert it into the result expected from Leclerc and Hamilton.\",\"is_team\":true,\"referenced_id\":\"ferrari\"},\"crazy_prediction\":{\"prediction\":\"Four different drivers lead the race\",\"reasoning\":\"Spa regularly creates unusual race shapes because of slipstreaming, long pit-loss sensitivity, safety-car probability, and fast-changing weather across such a long lap. A wet-dry-wet race or an early safety car could scramble tyre strategies enough that several cars inherit or fight for the lead at different stages.\"}}",
+      "tokensUsed": 1589,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.988Z"
+    },
+    {
+      "id": 376,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Belgian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"101\":[974,977,978],\"102\":[999],\"103\":[1018],\"104\":[1021],\"105\":[1026],\"106\":[1039],\"107\":[1041],\"108\":[1046],\"109\":[1049],\"110\":[1071]},\"reasoning\":\"Picked Mercedes/Russell as the race benchmark given the implied recent form, but with Ferrari strong enough at Spa to take pole through Leclerc and contend for the podium. Verstappen remains a high-probability Spa podium threat even if Red Bull is not the outright best package. Bortoleto is chosen over Colapinto based on recent qualifying edge, while Racing Bulls repeating a double-Q3 at Spa feels statistically difficult. Red Bull is a value pick for fastest stop based on pit-crew pedigree. Modern reliability points toward more than 19 classified finishers, and Spa’s overtaking/strategy variance supports a 9-place biggest gain. Antonelli’s fastest-lap streak is too strong to fade, and a Russell win would mean a new Belgian GP winner.\"}",
+      "tokensUsed": 3743,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:01.199Z"
+    },
+    {
+      "id": 377,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"verstappen\",\n  \"podium\": [\"verstappen\", \"antonelli\", \"hadjar\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Research indicates Spa will expose 2026 energy management weaknesses, favouring Red Bull's superior engine and Max Verstappen's ability to overcome car limitations at driver's circuits. Kimi Antonelli is tipped to win again after Silverstone, but Verstappen's historic Spa form and the Red Bull power unit give him the edge for pole and victory. Isack Hadjar's consistent top-six finishes and growing momentum make him a strong podium candidate, especially if rain in qualifying creates opportunities.\"\n}",
+      "tokensUsed": 4539,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.741Z"
+    },
+    {
+      "id": 378,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Belgian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"101\":[975,974,977],\"102\":[996],\"103\":[1019],\"104\":[1020],\"105\":[1022],\"106\":[1036],\"107\":[1040],\"108\":[1045],\"109\":[1049],\"110\":[1071]},\"reasoning\":\"Based on F1 research: Mercedes has been dominant in 2026 with Antonelli winning fastest lap in 6 of 9 races and Russell offering great value at 5 pts - they should lock out the front row at Spa. Ferrari's recent upgrades with Leclerc's Silverstone win make them the second force. For Q103, Colapinto's recent 27-point fantasy haul and 10-position gain at Silverstone shows stronger form than Bortoleto. Racing Bulls duo Hadjar and Lindblad both reach Q3 regularly. Mercedes leads pitstop points averaging 8 per weekend. Spa historically sees 16-17 finishers given its demanding nature. Red Bull should outscore McLaren given Norris's inconsistent 2026 form. With overtaking plentiful, expect 8+ positions gained for drivers like Norris starting further back. Antonelli's fastest lap streak continues at his strongest circuit. For the winner question, Mercedes drivers haven't won at Spa, making a new winner likely with Antonelli or Russell primed to break through.\"}",
+      "tokensUsed": 5905,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:01.202Z"
+    },
+    {
+      "id": 379,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Belgian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "{\n  \"answers\": {\n    \"101\": [975, 977, 976],\n    \"102\": [999],\n    \"103\": [1018],\n    \"104\": [1021],\n    \"105\": [1022],\n    \"106\": [1039],\n    \"107\": [1041],\n    \"108\": [1048],\n    \"109\": [1049],\n    \"110\": [1071]\n  },\n  \"reasoning\": \"Based on 2026 season form from the F1 Fantasy Strategist article, Mercedes and Ferrari are the strongest teams. Kimi Antonelli has been exceptional with six fastest laps and three wins, making him a prime podium pick at a high-speed Spa circuit that suits his style. Charles Leclerc won the previous race at Silverstone, and Lewis Hamilton has recent podiums, so they complete the top three. For pole, Ferrari has been closing the gap on Mercedes, and Leclerc is a strong qualifier. Gabriel Bortoleto outqualified Franco Colapinto at Silverstone and should maintain an edge. Racing Bulls' Q3 streak is at risk after previously making both sessions; a 'No' is bolder. Mercedes consistently leads pit stop times. Spa's long lap usually yields high finishing rates, so over 19 finishers. McLaren is trending stronger than Red Bull based on the article's monitor list. Position gains of over 10 are common at Spa, with drivers like Colapinto excelling. Antonelli's fastest lap streak continues. A new winner like Antonelli or Russell is likely given Mercedes' pace and neither having previously won at Spa.\"\n}",
+      "tokensUsed": 7498,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:01.201Z"
+    },
+    {
+      "id": 380,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": { \"name\": \"Hadjar\", \"reasoning\": \"Hadjar carries strong momentum with five consecutive top-six finishes and outqualified Verstappen at Silverstone; Spa's forecast rain and his comfort with the Red Bull package in tricky conditions could open the door for a maiden podium.\", \"is_team\": false, \"referenced_id\": \"hadjar\" },\n  \"flop\": { \"name\": \"Mercedes\", \"reasoning\": \"Mercedes arrives at Spa under pressure after a difficult run of results that has derailed its early championship charge; the circuit's long full-throttle sections and energy-poor nature are expected to expose lingering weaknesses in their 2026 power unit deployment.\", \"is_team\": true, \"referenced_id\": \"mercedes\" },\n  \"crazy_prediction\": { \"prediction\": \"Four different race leaders in the first five laps due to energy-deployment chaos\", \"reasoning\": \"The 2026 regulations have produced extreme battery yo-yo effects on long straights, and Spa's full-throttle Kemmel Straight and Blanchimont sections are tipped to trigger chaotic position-swapping early in the race before teams optimise energy deployment strategies.\" }\n}",
+      "tokensUsed": 6458,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.991Z"
+    },
+    {
+      "id": 381,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Belgian Grand Prix (Round 12, 2026-07-19) at Spa-Francorchamps, Belgium.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"russell\",\n  \"podium\": [\"antonelli\", \"russell\", \"verstappen\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Mercedes remains unbeaten in qualifying in 2026 and the W17’s straight-line speed is perfectly suited to Spa’s long full-throttle sections, pointing to George Russell taking pole position [f1oversteer.com](https://www.f1oversteer.com/races/belgian-grand-prix-predictions-as-f1-experts-decide-if-ferrari-can-beat-mercedes-to-the-win-at-spa/). In the race, Kimi Antonelli is widely seen as due a bounce-back win after dominating earlier in the season, while Russell’s recent momentum—victory in Austria and a British GP podium—supports a Mercedes 1-2 finish [f1oversteer.com](https://www.f1oversteer.com/races/belgian-grand-prix-predictions-as-f1-experts-decide-if-ferrari-can-beat-mercedes-to-the-win-at-spa/). Max Verstappen is a four-time winner at Spa and the 2026 energy-management chaos on a fast, sweeping drivers’ circuit is expected to neutralize some car deficits; combined with Red Bull’s potent ICE, forecast rain and Max’s wet-weather skill make him the strongest non-Mercedes podium threat [planetf1.com](https://www.planetf1.com/features/belgian-grand-prix-2026-predictions) [covers.com](https://www.covers.com/f1/belgian-grand-prix-odds-predictions-picks-2026). There is no Sprint race at the Belgian GP, so both Sprint fields are null.\"\n}",
+      "tokensUsed": 6575,
+      "costUsd": 0,
+      "createdAt": "2026-07-17T06:23:00.742Z"
+    }
+  ]
+}
