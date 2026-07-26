@@ -1,0 +1,985 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "hungary-2026",
+  "raceName": "Hungarian Grand Prix",
+  "isSprint": false,
+  "exportedAt": "2026-07-26T05:17:17.015Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A driver starting outside the top 10 finishes on the podium\",\"reasoning\":\"The Hungaroring is notoriously hard to overtake at, but with three weeks until the summer break, teams often gamble on aggressive strategy. Combined with predicted 31°C heat causing tyre degradation, a potential safety car (frequent at Hungary's Turn 1), and possible rain showers, a bold undercut or alternate strategy from a midfield driver like Hadjar, Alonso or Sainz could produce a shock podium.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Hamilton\",\"reasoning\":\"Despite Hungary being historically Hamilton's best track (8 wins), his form has been dismal. He's been comprehensively beaten by Leclerc, had a scrappy Spa weekend triggered by an FP3 crash, and even collided with Russell on lap 1. The pressure and confidence issues are mounting, and 'useless' Hungary 2025 haunts him. Ferrari's tight-corner traction issues won't help either.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Hadjar\",\"reasoning\":\"Hadjar has been on a red-hot run at Red Bull, delivering 15+ fantasy points in each of his last four race weekends and reaching Q3 in all but one qualifying session in 2026. His strong qualifying record is ideal for the Hungaroring, where track position is everything. Expect him to outqualify Verstappen or at least finish comfortably in the top 6.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get both cars into Q2?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Hungarian Grand Prix?",
+          "selection": "Sergio Perez",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Lewis Hamilton finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Hungarian Grand Prix winner?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"The Hungaroring's narrow, twisty layout combined with high temperatures causing tire degradation often leads to incidents, and with overtaking difficulty, even minor incidents can trigger safety cars, making multiple interventions a realistic bold outcome.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"The Hungaroring's tight, high-downforce layout is historically less favorable to Red Bull's car concept, and with strong competition from Mercedes and Ferrari, they may underperform and finish outside the top two teams.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"McLaren\",\"reasoning\":\"Based on their new power unit update introduced in Belgium showing immediate pace, and the Hungaroring's high-downforce demands which should suit the upgraded McLaren, the team could surprise by challenging for a podium despite recent struggles.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get both cars into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Hungarian Grand Prix?",
+          "selection": "Lance Stroll",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Hungarian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Max Verstappen",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A red flag in the first 3 laps due to a Turn 1 collision.\",\"reasoning\":\"With championship tensions boiling over between Antonelli, Hamilton, and Russell, and the notoriously tight Turn 1 at the Hungaroring bunching up the grid, a desperate late-braking maneuver will trigger a multi-car pileup and an early red flag.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull has been battling rear instability and is reverting to an older rear wing specification. On a high-downforce, technical track like the Hungaroring, these aerodynamic compromises will cause them to underperform significantly.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Aston Martin is bringing a massive B-spec upgrade to Hungary, including a lighter chassis, new nose, and reworked front end. This significant aerodynamic step forward will allow them to shock the midfield and score their best result of the season.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get both cars into Q2?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Hungarian Grand Prix?",
+          "selection": "Lance Stroll",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Alpine",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Hungarian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Oscar Piastri",
+        "podium_p3": "Max Verstappen",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"A red flag before lap 10 reshuffles the entire race strategy\",\"reasoning\":\"The Hungaroring's narrow first sector, dusty off-line surface and aggressive opening-lap positioning make early incidents more likely than at many circuits. Because overtaking is so difficult, drivers tend to take bigger risks at the start, and an early red flag would create a major strategic reset with free tyre changes and unexpected podium possibilities.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari should theoretically be strong at Hungary, but that also raises expectations. The circuit punishes setup compromises, overheating tyres in traffic, and small qualifying mistakes, and Ferrari's weekends can unravel when strategy flexibility is limited by track position. If they miss the ideal operating window in the heat, a front-row expectation could turn into a frustrating race stuck behind slower cars.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Hungaroring rewards high-downforce efficiency, traction, tyre management and qualifying execution more than raw straight-line speed. If Aston Martin's recent development direction is improving low-speed balance, this is exactly the type of circuit where they can overperform versus their usual baseline. Alonso is also historically excellent at maximizing track-position races where overtaking is difficult, so a surprise Q3-double or meaningful points haul is plausible.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get both cars into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Hungarian Grand Prix?",
+          "selection": "Sergio Perez",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Lewis Hamilton finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Hungarian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "George Russell",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Three or more safety cars during the race\",\"reasoning\":\"The Hungaroring's narrow, technical layout with limited runoff areas and high tyre stress often leads to incidents; combined with 2026's closer midfield pack and potential for aggressive overtaking attempts in a 70-lap race, multiple safety car deployments are a bold but plausible outcome if chaos ensues early.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull\",\"reasoning\":\"Red Bull has been struggling with consistency in 2026, currently sitting 4th in predicted weekend order for Hungary; the car's characteristics don't suit the high-downforce, low-speed corners as well as Mercedes or Ferrari, leading to another underwhelming weekend with both drivers outside the top 4.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Aston Martin has brought significant upgrades that are expected to perform particularly well on the tight, twisty Hungaroring layout which rewards downforce and traction; recent previews suggest this could propel them into consistent points contention or even Q3 battles, exceeding current low expectations after a poor season so far.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get both cars into Q2?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Hungarian Grand Prix?",
+          "selection": "Lance Stroll",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Hungarian Grand Prix winner?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Charles Leclerc",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Aston Martin's b-spec package does not get it in front of Cadillac",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Racing Bulls",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "Hülkenberg",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get both cars into Q2?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Hungarian Grand Prix?",
+          "selection": "Sergio Perez",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Lewis Hamilton finish?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Hungarian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Red flag in the first 3 laps\",\"reasoning\":\"The Hungaroring's narrow, twisty layout is notoriously difficult for opening-lap racing, with sources noting the safety-car market runs hot here due to first-lap chaos and difficult recoveries. The tight, high-downforce sequence through Turns 1-3 and the blind crests create a powder-keg scenario where a multi-car incident could easily trigger an early red flag.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Alpine\",\"reasoning\":\"Alpine has openly admitted it is not where it wants to be on pace, and Racing Bulls are closing fast with upgrades. The Hungaroring punishes cars lacking mechanical grip and traction out of slow corners, which is likely to expose Alpine's current shortcomings. With their direct rival on the rise, Alpine is poised to underperform and potentially leave Hungary empty-handed.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Racing Bulls\",\"reasoning\":\"Racing Bulls arrive in Hungary tied with Alpine on 61 points and have brought upgrades for Liam Lawson. The team is expected to pull clear of Alpine to solidify fifth in the Constructors' Championship, and the Hungaroring's technical, high-downforce nature could suit their updated package better than expected—potentially setting up a best-of-the-rest result or even a surprise points haul that outperforms midfield expectations.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get both cars into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Hungarian Grand Prix?",
+          "selection": "Lance Stroll",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the Grand Prix?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Hungarian Grand Prix winner?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "Kimi Antonelli",
+        "podium_p2": "George Russell",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"George Russell wins the Hungarian Grand Prix from outside the top 3 on the grid\",\"reasoning\":\"After a devastating retirement in Belgium that dropped him 50 points behind Antonelli, Russell needs a miracle result. The Hungaroring rewards precise technical driving and Russell has won here before (2022). If Ferrari and Antonelli experience any misfortune—mechanical issues, strategy errors, or first-lap contact—Russell could capitalize on his historical strength at this circuit. Starting from a lower grid position actually adds to the 'crazy' element: a driver 50 points behind in the championship, perhaps starting P5 or worse, storming through to take a crucial victory that completely reinvigorates the title fight and cuts Antonelli's lead dramatically.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"George Russell\",\"reasoning\":\"Russell had a nightmare weekend in Belgium, retiring from the race and falling 50 points behind teammate Antonelli. While Russell has historically been strong at technical circuits, the pressure of being 25 points behind in the championship (and the gap re-opening after his Spa disaster) could weigh heavily. Additionally, Antonelli himself warned that Ferrari will be extremely strong at Hungary, suggesting Mercedes may not have the pace advantage they had at Spa. Russell could struggle to recover psychologically and performance-wise from such a crushing retirement, potentially finishing off the podium or worse for the second consecutive race.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Alpine\",\"reasoning\":\"Alpine has recently brought upgrades and sits tied with Racing Bulls in the Constructors' standings at 61 points. The Hungaroring's emphasis on downforce, mechanical grip, and traction out of slow corners plays to Alpine's technical strengths. With Gasly scoring points regularly and the team admitting they're still improving, a strong showing where both drivers score well could see them jump ahead of Racing Bulls in the championship and possibly challenge Haas for more points. This would be above expectations given their earlier struggles this season.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Hungarian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will Aston Martin get both cars into Q2?",
+          "selection": "Yes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Hungarian Grand Prix?",
+          "selection": "Sergio Perez",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will the Safety Car or VSC be required during the Grand Prix?",
+          "selection": "No",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Where does Lewis Hamilton finish?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Will we see a new Hungarian Grand Prix winner?",
+          "selection": "No",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  },
+  "generationLogs": [
+    {
+      "id": 382,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Aston Martin\",\n    \"reasoning\": \"Aston Martin has brought significant upgrades that are expected to perform particularly well on the tight, twisty Hungaroring layout which rewards downforce and traction; recent previews suggest this could propel them into consistent points contention or even Q3 battles, exceeding current low expectations after a poor season so far.\",\n    \"is_team\": true,\n    \"referenced_id\": \"aston-martin\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull\",\n    \"reasoning\": \"Red Bull has been struggling with consistency in 2026, currently sitting 4th in predicted weekend order for Hungary; the car's characteristics don't suit the high-downforce, low-speed corners as well as Mercedes or Ferrari, leading to another underwhelming weekend with both drivers outside the top 4.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"The Hungaroring's narrow, technical layout with limited runoff areas and high tyre stress often leads to incidents; combined with 2026's closer midfield pack and potential for aggressive overtaking attempts in a 70-lap race, multiple safety car deployments are a bold but plausible outcome if chaos ensues early.\"\n  }\n}",
+      "tokensUsed": 19498,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.275Z"
+    },
+    {
+      "id": 383,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\n    \"norris\",\n    \"verstappen\",\n    \"piastri\"\n  ],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"The Hungaroring's tight, twisty layout demands maximum downforce and mechanical grip. Under the new 2026 regulations with active aero and updated power units, McLaren has demonstrated a highly efficient high-downforce package. Norris has historically excelled at this circuit and is favored for pole position given McLaren's current qualifying form. Verstappen's relentless race pace and Red Bull's strategic execution keep him in the fight for the win, while Piastri's smooth driving style and excellent tire management should secure him a podium spot in a race where track position and thermal degradation are critical.\"\n}",
+      "tokensUsed": 1982,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:38.838Z"
+    },
+    {
+      "id": 384,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"antonelli\",\"podium\":[\"antonelli\",\"leclerc\",\"hamilton\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"Kimi Antonelli enters the Hungarian GP as the dominant championship leader with 204 points, six wins, six poles, and eight podiums this season, having just won the Belgian GP. Mercedes is expected to be particularly strong at the technical Hungaroring, which favors a well-sorted chassis over horsepower - a switch from Spa's energy-sensitive layout that should suit Mercedes even better. Antonelli is the betting favorite at +150 and has been exceptional over one lap all year, making him the top pick for pole. For the podium, Ferrari has been closing the gap with Leclerc finishing P2 at Spa and winning two of the previous three races before that. Lewis Hamilton arrives at his most successful circuit (8 career Hungarian GP wins - a record) and is currently P2 in the championship, making a Ferrari double-podium highly plausible. Verstappen (P3 at Spa with Red Bull upgrades paying off) is the main threat to displace Hamilton, but Hamilton's historical Hungaroring mastery gives him the edge. Weather forecast is sunny with highs of 31°C, no rain expected to shake up the order.\"}",
+      "tokensUsed": 30603,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:38.831Z"
+    },
+    {
+      "id": 385,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "I have enough information now to make my predictions.\n\n{\n  \"good_surprise\": { \"name\": \"Hadjar\", \"reasoning\": \"Hadjar has been on a red-hot run at Red Bull, delivering 15+ fantasy points in each of his last four race weekends and reaching Q3 in all but one qualifying session in 2026. His strong qualifying record is ideal for the Hungaroring, where track position is everything. Expect him to outqualify Verstappen or at least finish comfortably in the top 6.\", \"is_team\": false, \"referenced_id\": \"hadjar\" },\n  \"flop\": { \"name\": \"Hamilton\", \"reasoning\": \"Despite Hungary being historically Hamilton's best track (8 wins), his form has been dismal. He's been comprehensively beaten by Leclerc, had a scrappy Spa weekend triggered by an FP3 crash, and even collided with Russell on lap 1. The pressure and confidence issues are mounting, and 'useless' Hungary 2025 haunts him. Ferrari's tight-corner traction issues won't help either.\", \"is_team\": false, \"referenced_id\": \"hamilton\" },\n  \"crazy_prediction\": { \"prediction\": \"A driver starting outside the top 10 finishes on the podium\", \"reasoning\": \"The Hungaroring is notoriously hard to overtake at, but with three weeks until the summer break, teams often gamble on aggressive strategy. Combined with predicted 31°C heat causing tyre degradation, a potential safety car (frequent at Hungary's Turn 1), and possible rain showers, a bold undercut or alternate strategy from a midfield driver like Hadjar, Alonso or Sainz could produce a shock podium.\" }\n}",
+      "tokensUsed": 53484,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.273Z"
+    },
+    {
+      "id": 386,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"norris\",\"podium\":[\"norris\",\"piastri\",\"verstappen\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"Hungaroring rewards high downforce, traction and qualifying position, with overtaking difficult and tyre management important in likely hot Budapest conditions. McLaren have the best fit for this type of circuit and both Norris and Piastri have strong recent Hungary form, including McLaren's 2024 1-2. Norris is the stronger pole pick given his one-lap record here, while Piastri's race pace makes him a clear podium threat. Verstappen remains the safest non-McLaren podium choice due to consistency and race execution, with Ferrari/Mercedes close but slightly less convincing for this layout. No Sprint is scheduled.\"}",
+      "tokensUsed": 1196,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:38.838Z"
+    },
+    {
+      "id": 387,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Aston Martin\",\n    \"reasoning\": \"Hungaroring rewards high-downforce efficiency, traction, tyre management and qualifying execution more than raw straight-line speed. If Aston Martin's recent development direction is improving low-speed balance, this is exactly the type of circuit where they can overperform versus their usual baseline. Alonso is also historically excellent at maximizing track-position races where overtaking is difficult, so a surprise Q3-double or meaningful points haul is plausible.\",\n    \"is_team\": true,\n    \"referenced_id\": \"aston-martin\"\n  },\n  \"flop\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari should theoretically be strong at Hungary, but that also raises expectations. The circuit punishes setup compromises, overheating tyres in traffic, and small qualifying mistakes, and Ferrari's weekends can unravel when strategy flexibility is limited by track position. If they miss the ideal operating window in the heat, a front-row expectation could turn into a frustrating race stuck behind slower cars.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"A red flag before lap 10 reshuffles the entire race strategy\",\n    \"reasoning\": \"The Hungaroring's narrow first sector, dusty off-line surface and aggressive opening-lap positioning make early incidents more likely than at many circuits. Because overtaking is so difficult, drivers tend to take bigger risks at the start, and an early red flag would create a major strategic reset with free tyre changes and unexpected podium possibilities.\"\n  }\n}",
+      "tokensUsed": 1421,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.274Z"
+    },
+    {
+      "id": 388,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"leclerc\", \"hamilton\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"The Hungaroring is a tight, low-speed circuit that heavily rewards qualifying and mechanical grip. Kimi Antonelli has five poles this season and arrives off a confidence-boosting win in Belgium, making him the favorite for pole [statsniper.com]. Ferrari's high-downforce package should suit the track, with Charles Leclerc a strong podium threat after winning at Silverstone [statsniper.com]. Lewis Hamilton is second in the championship and historically excels at the Hungaroring, giving Ferrari a double podium chance [polymarket.copilot.markets]. Mercedes teammate George Russell struggled in Belgium and may be on the back foot, while McLaren and Red Bull are still closing the gap but likely need incidents to disrupt the frontrunners [sportskhabri.com].\"\n}",
+      "tokensUsed": 3833,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:38.840Z"
+    },
+    {
+      "id": 389,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"McLaren\",\n    \"reasoning\": \"Based on their new power unit update introduced in Belgium showing immediate pace, and the Hungaroring's high-downforce demands which should suit the upgraded McLaren, the team could surprise by challenging for a podium despite recent struggles.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mclaren\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"The Hungaroring's tight, high-downforce layout is historically less favorable to Red Bull's car concept, and with strong competition from Mercedes and Ferrari, they may underperform and finish outside the top two teams.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Three or more safety cars during the race\",\n    \"reasoning\": \"The Hungaroring's narrow, twisty layout combined with high temperatures causing tire degradation often leads to incidents, and with overtaking difficulty, even minor incidents can trigger safety cars, making multiple interventions a realistic bold outcome.\"\n  }\n}",
+      "tokensUsed": 4345,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.276Z"
+    },
+    {
+      "id": 390,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "\n\n{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"russell\", \"leclerc\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"The Hungaroring is a high-downforce (8.0/10), low-speed circuit where overtaking is extremely difficult (8.5/10), making qualifying performance critical. Antonelli leads the championship with 179 points and 6 poles this season, showing the exact single-lap pace that dominates here. His win at Spa extended his lead over Russell to 50 points, and he'll be hungry to extend it further before the summer break. Russell had a nightmare weekend at Spa (retirement) and needs a strong response at a track where Mercedes historically perform well. Leclerc comes in as a genuine threat off his Silverstone win and Ferrari's improved downforce package should suit this circuit better than Spa. Norris will start further back due to his power unit penalty but showed strong pace at Spa. The August heat will compound tyre degradation challenges, making strategy critical. Mercedes' 78-point constructors' lead suggests they have the overall package to dominate here.\"\n}",
+      "tokensUsed": 3823,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:38.849Z"
+    },
+    {
+      "id": 391,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Aston Martin\",\n    \"reasoning\": \"Aston Martin is bringing a massive B-spec upgrade to Hungary, including a lighter chassis, new nose, and reworked front end. This significant aerodynamic step forward will allow them to shock the midfield and score their best result of the season.\",\n    \"is_team\": true,\n    \"referenced_id\": \"aston-martin\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"Red Bull has been battling rear instability and is reverting to an older rear wing specification. On a high-downforce, technical track like the Hungaroring, these aerodynamic compromises will cause them to underperform significantly.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"A red flag in the first 3 laps due to a Turn 1 collision.\",\n    \"reasoning\": \"With championship tensions boiling over between Antonelli, Hamilton, and Russell, and the notoriously tight Turn 1 at the Hungaroring bunching up the grid, a desperate late-braking maneuver will trigger a multi-car pileup and an early red flag.\"\n  }\n}",
+      "tokensUsed": 5493,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.275Z"
+    },
+    {
+      "id": 392,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Hungarian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"111\":[1073,1074,1078],\"112\":[1095],\"113\":[1117],\"114\":[1120],\"115\":[1122],\"116\":[1133],\"117\":[1134],\"118\":[1137],\"119\":[1145],\"120\":[1162]},\"reasoning\":\"Hungaroring is a high-downforce, qualifying-sensitive circuit where track position and tyre management usually decide the race. I weighted the listed market-style point values against recent-form cues in the questions: Mercedes appear to be the benchmark, Ferrari/McLaren close behind, Norris has strong fastest-lap momentum, and Ferrari pit stops are trending well after Spa. I’m backing Antonelli/Russell strength up front but adding Norris for McLaren’s race pace, while taking a couple of informed risks: Aston’s upgrade getting both cars into Q2 and a low-interruption race continuing the recent Hungary Safety Car/VSC trend.\"}",
+      "tokensUsed": 3446,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.336Z"
+    },
+    {
+      "id": 393,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"leclerc\", \"russell\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"2026 standings post-Belgium show Mercedes dominant (Antonelli leads on 204pts with 6 wins, Russell 3rd on 154); recent Antonelli win at Spa fighting Leclerc. Hungaroring is twisty, high-downforce 'karting' track rewarding chassis/mechanical grip over power - suits Mercedes' strong 2026 car. McLaren (Norris/Piastri) strong historically here (2025 1-2) but trail in standings; Ferrari competitive (Hamilton 2nd overall, Leclerc recent fights). Upgrades continue but Mercedes favored for pole/race win; Hamilton/Russell reliability mixed. Weather typically hot/dry. Predictions align with models favoring Mercedes 1-2 potential and expert previews.\"\n}",
+      "tokensUsed": 45019,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:38.839Z"
+    },
+    {
+      "id": 394,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Hungarian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"111\": [1073, 1074, 1077],\n    \"112\": [1095],\n    \"113\": [1118],\n    \"114\": [1119],\n    \"115\": [1122],\n    \"116\": [1132],\n    \"117\": [1135],\n    \"118\": [1136],\n    \"119\": [1145],\n    \"120\": [1162]\n  },\n  \"reasoning\": \"Mercedes is dominating the 2026 season, with Kimi Antonelli leading the championship and winning the recent Belgian GP. Antonelli and Russell are strong favorites for the podium and pole, and since neither has won at Hungary, a new winner is highly likely. Lewis Hamilton, now at Ferrari and 2nd in the standings, has an exceptional track record at the Hungaroring, making him a solid pick for a podium finish. Aston Martin has struggled, sitting 10th with just 1 point, making a double Q2 appearance unlikely, though Lance Stroll should still outqualify Sergio Perez in the newly-formed, point-less Cadillac team. Ferrari has already secured three fastest pitstops this season, making them a reliable choice. Alpine and Racing Bulls are tied in the standings, but Alpine's recent form gives them a slight edge. Finally, the tight nature of the Hungaroring makes a Safety Car or VSC very probable, and Lando Norris is a strong candidate for fastest lap after securing it at Spa.\"\n}",
+      "tokensUsed": 9506,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.337Z"
+    },
+    {
+      "id": 395,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Alpine\",\"reasoning\":\"Alpine has recently brought upgrades and sits tied with Racing Bulls in the Constructors' standings at 61 points. The Hungaroring's emphasis on downforce, mechanical grip, and traction out of slow corners plays to Alpine's technical strengths. With Gasly scoring points regularly and the team admitting they're still improving, a strong showing where both drivers score well could see them jump ahead of Racing Bulls in the championship and possibly challenge Haas for more points. This would be above expectations given their earlier struggles this season.\",\"is_team\":true,\"referenced_id\":\"alpine\"},\"flop\":{\"name\":\"George Russell\",\"reasoning\":\"Russell had a nightmare weekend in Belgium, retiring from the race and falling 50 points behind teammate Antonelli. While Russell has historically been strong at technical circuits, the pressure of being 25 points behind in the championship (and the gap re-opening after his Spa disaster) could weigh heavily. Additionally, Antonelli himself warned that Ferrari will be extremely strong at Hungary, suggesting Mercedes may not have the pace advantage they had at Spa. Russell could struggle to recover psychologically and performance-wise from such a crushing retirement, potentially finishing off the podium or worse for the second consecutive race.\",\"is_team\":false,\"referenced_id\":\"russell\"},\"crazy_prediction\":{\"prediction\":\"George Russell wins the Hungarian Grand Prix from outside the top 3 on the grid\",\"reasoning\":\"After a devastating retirement in Belgium that dropped him 50 points behind Antonelli, Russell needs a miracle result. The Hungaroring rewards precise technical driving and Russell has won here before (2022). If Ferrari and Antonelli experience any misfortune—mechanical issues, strategy errors, or first-lap contact—Russell could capitalize on his historical strength at this circuit. Starting from a lower grid position actually adds to the 'crazy' element: a driver 50 points behind in the championship, perhaps starting P5 or worse, storming through to take a crucial victory that completely reinvigorates the title fight and cuts Antonelli's lead dramatically.\"}}",
+      "tokensUsed": 4564,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.276Z"
+    },
+    {
+      "id": 396,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Hungarian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"111\": [1073, 1074, 1077],\n    \"112\": [1095],\n    \"113\": [1118],\n    \"114\": [1119],\n    \"115\": [1121],\n    \"116\": [1132],\n    \"117\": [1134],\n    \"118\": [1136],\n    \"119\": [1140],\n    \"120\": [1163]\n  },\n  \"reasoning\": \"2026 standings show Mercedes dominant (Antonelli leading title by 45pts after Spa win), Ferrari 2nd, McLaren 3rd, Red Bull 4th. Hungaroring favors high-downforce Mercedes/Ferrari per models. Podium: Antonelli (recent form, track history for Merc), Russell (strong qual), Hamilton (8 Hungaroring wins). Pole: Antonelli (converts poles often). Aston upgrades unlikely to get both in Q2 (predicted last). Stroll > Perez in qual per recent. Merc for fastest pit (consistent). SC likely (twisty track, incidents common). Racing Bulls > Alpine (tied pts but RB better recently). Hamilton podium (history). Antonelli fastest lap (dominance). No new winner (Antonelli/Merc repeat).\"\n}",
+      "tokensUsed": 25061,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.338Z"
+    },
+    {
+      "id": 397,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Hungarian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.\n\nThe previous attempt did not produce parseable output. Return exactly one valid JSON object matching the requested schema. Do not include markdown fences, citations, commentary, or text outside the JSON object.",
+      "fullResponse": "I have enough information to make informed picks. Antonelli is the dominant championship leader with 6 wins, Hamilton is 2nd, Leclerc is very strong at Hungary (took pole last year), Verstappen has been on podium recently.\n\n{\"answers\":{\"111\":[1073,1077,1075],\"112\":[1095],\"113\":[1118],\"114\":[1120],\"115\":[1122],\"116\":[1132],\"117\":[1135],\"118\":[1137],\"119\":[1140],\"120\":[1163]},\"reasoning\":\"Antonelli is dominant championship leader with 6 wins and 45-point lead, and topped both practice sessions at Belgium. He's my pick for pole and win. Hamilton has 8 Hungarian GP wins historically and is now P2 in championship, strong podium pick. Leclerc took surprise pole at Hungary last year and has been consistently strong, finishing P2 at Spa - solid P3 pick. For Aston Martin, upgrade unlikely to get both into Q2 given their poor form; Perez (Cadillac) likely quicker than Stroll. Ferrari has strong pit stop record (3 Fastest Pit Stop Awards). Hungaroring often produces SC/VSC due to tight nature. Alpine slightly ahead of Racing Bulls in recent form. Hamilton likely 4th-10th given Ferrari's inconsistency. Antonelli fastest lap pick given dominance. No new winner - Antonelli, Hamilton, Leclerc, Verstappen, Norris, Piastri all previous winners and favorites.\"}",
+      "tokensUsed": 53825,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.335Z"
+    },
+    {
+      "id": 398,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\"antonelli\", \"russell\", \"leclerc\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Mercedes hold the strongest predicted team order at the high-downforce Hungaroring, where pole converts to win at an exceptional rate and overtaking is extremely difficult [podiumprophets.com](https://podiumprophets.com/predictions/hungarian-gp) [statsniper.com](https://statsniper.com/blog/f1/hungarian-grand-prix-2026-preview-antonelli-russell-odds/). Kimi Antonelli leads the championship after his sixth win in Belgium and has five poles this season, making him the favorite for pole and the race win [sportskhabri.com](https://sportskhabri.com/f1-2026-hungarian-grand-prix-preview-and-predictions/) [statsniper.com](https://statsniper.com/blog/f1/hungarian-grand-prix-2026-preview-antonelli-russell-odds/). George Russell is the clear second-choice contender given Mercedes' dominance and his technical-circuit strength, while Charles Leclerc leads the chasing pack after his Silverstone victory and Ferrari's downforce package should suit Budapest [statsniper.com](https://statsniper.com/blog/f1/hungarian-grand-prix-2026-preview-antonelli-russell-odds/). No sprint event is scheduled [podiumprophets.com](https://podiumprophets.com/predictions/hungarian-gp).\"\n}",
+      "tokensUsed": 7743,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:38.840Z"
+    },
+    {
+      "id": 399,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Hungarian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "\n\n{\"answers\":{\"111\":[1073,1074,1077],\"112\":[1095],\"113\":[1117],\"114\":[1120],\"115\":[1121],\"116\":[1133],\"117\":[1134],\"118\":[1136],\"119\":[1140],\"120\":[1163]},\"reasoning\":\"Based on horizon model projections and recent form: Mercedes dominates with Antonelli projected P1 (fastest lap in 6 of 9 races) and Russell P2, making them the top podium picks. Ferrari's recent upgrade has unlocked potential - Hamilton's Silverstone podium and Leclerc's win show strong pace. For pole, Antonelli's exceptional single-lap record (15 pts) makes him the value pick over the favored Russell. Aston Martin's incoming upgrade should help both cars reach Q2. Perez offers better value than Stroll for AM's highest qualifier given his experience. Mercedes leads pitstops averaging 8 points per weekend. Safety Car streak at Hungary is likely to hold given the track's defensive nature. Racing Bulls have scored consistently while Alpine struggles. Hamilton's Hungary expertise (8 wins) and Ferrari form support a podium finish. Antonelli is the clear fastest lap pick given his record. For new winner, existing championship contenders (Antonelli, Russell, Verstappen) are strong favorites despite Hungary's history.\"}",
+      "tokensUsed": 7983,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.339Z"
+    },
+    {
+      "id": 400,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Hungarian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"111\": [1073, 1075, 1079],\n    \"112\": [1095],\n    \"113\": [1117],\n    \"114\": [1119],\n    \"115\": [1121],\n    \"116\": [1132],\n    \"117\": [1134],\n    \"118\": [1136],\n    \"119\": [1140],\n    \"120\": [1162]\n  },\n  \"reasoning\": \"Research from formula1.com and Podium Prophets indicates Mercedes and Ferrari are the strongest teams for the high-downforce Hungaroring. Kimi Antonelli's six fastest laps in nine races and Mercedes' qualifying pace make him pole and likely winner. Charles Leclerc's Monaco win and Ferrari's recent upgrades suggest a podium, alongside Oscar Piastri's strong form. Aston Martin's upgrades should allow both cars into Q2, with Stroll outqualifying Perez. Mercedes leads pit stop averages, so they're picked for fastest stop. Safety Car is a risk given high temperatures and tyre degradation. Racing Bulls have been more consistent than Alpine in recent points. Hamilton's track record and current form point to a podium. Antonelli's one-lap pace makes him fastest lap favourite. With Antonelli never having won in Hungary, a new winner is highly probable.\"\n}",
+      "tokensUsed": 8703,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.338Z"
+    },
+    {
+      "id": 401,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Hungarian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"111\": [1073, 1074, 1078],\n    \"112\": [1096],\n    \"113\": [1117],\n    \"114\": [1119],\n    \"115\": [1122],\n    \"116\": [1132],\n    \"117\": [1134],\n    \"118\": [1136],\n    \"119\": [1145],\n    \"120\": [1162]\n  },\n  \"reasoning\": \"Antonelli enters as the form favorite but Russell offers strong value given Mercedes pace at the Hungaroring. Norris provides a solid McLaren podium play after their 2025 1-2 sweep here. Leclerc took pole in 2025, making Russell a contrarian pole pick at slightly better odds. Aston Martin's upgrade should push both cars into Q2, while Stroll in an established team outqualifies a likely backmarker Cadillac entry. Ferrari's recent pit stop speed continues, and the tight Hungaroring layout historically produces Safety Cars despite recent clean races. Racing Bulls should outscore Alpine on current form. Hamilton's eight Hungarian GP wins make a podium gamble justified, and Norris's Spa fastest lap momentum carries over for another FL attempt. A new winner is likely if the favorite Antonelli takes his first victory here.\"\n}",
+      "tokensUsed": 13412,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T08:40:39.339Z"
+    },
+    {
+      "id": 402,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Hungarian Grand Prix (Round 13, 2026-07-26) at Budapest, Hungary.\n\nResearch current F1 news, recent performance, and any factors that might create surprises or disappointments this weekend. Be bold with your crazy prediction!",
+      "fullResponse": "{\n  \"good_surprise\": { \"name\": \"Racing Bulls\", \"reasoning\": \"Racing Bulls arrive in Hungary tied with Alpine on 61 points and have brought upgrades for Liam Lawson. The team is expected to pull clear of Alpine to solidify fifth in the Constructors' Championship, and the Hungaroring's technical, high-downforce nature could suit their updated package better than expected—potentially setting up a best-of-the-rest result or even a surprise points haul that outperforms midfield expectations.\", \"is_team\": true, \"referenced_id\": \"racing-bulls\" },\n  \"flop\": { \"name\": \"Alpine\", \"reasoning\": \"Alpine has openly admitted it is not where it wants to be on pace, and Racing Bulls are closing fast with upgrades. The Hungaroring punishes cars lacking mechanical grip and traction out of slow corners, which is likely to expose Alpine's current shortcomings. With their direct rival on the rise, Alpine is poised to underperform and potentially leave Hungary empty-handed.\", \"is_team\": true, \"referenced_id\": \"alpine\" },\n  \"crazy_prediction\": { \"prediction\": \"Red flag in the first 3 laps\", \"reasoning\": \"The Hungaroring's narrow, twisty layout is notoriously difficult for opening-lap racing, with sources noting the safety-car market runs hot here due to first-lap chaos and difficult recoveries. The tight, high-downforce sequence through Turns 1-3 and the blind crests create a powder-keg scenario where a multi-car incident could easily trigger an early red flag.\" }\n}",
+      "tokensUsed": 9647,
+      "costUsd": 0,
+      "createdAt": "2026-07-21T09:09:40.759Z"
+    }
+  ]
+}
