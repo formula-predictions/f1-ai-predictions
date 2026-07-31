@@ -1,0 +1,37 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "netherlands-2026",
+  "raceName": "Dutch Grand Prix",
+  "raceDate": "2026-08-23",
+  "isSprint": true,
+  "exportedAt": "2026-07-31T15:15:00.415Z",
+  "predictions": {
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Liam Lawson",
+        "podium_p2": "Alexander Albon",
+        "podium_p3": "Liam Lawson",
+        "pole": "Lando Norris",
+        "sprint_pole": "Isack Hadjar",
+        "sprint_winner": "Lewis Hamilton"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Aston",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Albon",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "Williams",
+          "isTeam": false
+        }
+      },
+      "fantasy": []
+    }
+  },
+  "generationLogs": []
+}
