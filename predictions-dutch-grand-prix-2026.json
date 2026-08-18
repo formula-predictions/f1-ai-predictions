@@ -1,0 +1,1002 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "netherlands-2026",
+  "raceName": "Dutch Grand Prix",
+  "raceDate": "2026-08-23",
+  "isSprint": true,
+  "exportedAt": "2026-08-18T18:30:47.150Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Oscar Piastri",
+        "podium_p3": "Max Verstappen",
+        "pole": "Lando Norris",
+        "sprint_pole": "Lando Norris",
+        "sprint_winner": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Aston Martin scores points with both cars in the Sunday Grand Prix, with Alonso finishing inside the top 8.\",\"reasoning\":\"Aston Martin has been cast adrift at the back most of 2026, but Honda is bringing its new power unit to Zandvoort. Combined with a recent aero package the team introduced pre-break, a fresh PU at a circuit where Alonso has historically over-delivered (he podiumed at Zandvoort 2023) creates a genuine window. Sprint weekends also scramble grids via qualifying variance and the potential 20% rain chance adds chaos Alonso thrives in. A double-points finish with Alonso in the top 8 would be a huge break from their season-long pattern of being nowhere.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Antonelli\",\"reasoning\":\"Antonelli still leads the championship but his form over the last five races has been the fourth-best in the field per Crash.net. Mercedes has had reliability issues, and a rookie under title pressure returning from summer break to a hostile Orange Army crowd at a technical, unforgiving circuit he's never raced an F1 car at (Zandvoort was axed before his F1 debut window) is a recipe for a rough weekend. Sprint format compresses learning time - punishes rookies most. Expect him to finish behind Russell and Hamilton and lose significant championship ground.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Verstappen\",\"reasoning\":\"Home race for Verstappen with the Orange Army in force, and Zandvoort's technical, low-speed, high-downforce nature has historically suited Red Bull and Verstappen specifically (three previous Dutch GP wins). Despite being winless in 2026, the compressed sprint weekend format rewards drivers who nail things quickly - and no one knows Zandvoort like Max. He finished 2nd in Austria showing Red Bull's pace is closing. Emotional final Dutch GP will squeeze every tenth from him. Expect at least a podium and possibly a sprint win.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Where does Max Verstappen finish in The Sprint?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will score points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Dutch Grand Prix?",
+          "selection": "Nico Hulkenberg",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "20",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Combining The Sprint and Grand Prix, which of these teams will score the most points ?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "Max Verstappen",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Max Verstappen",
+        "sprint_pole": "Max Verstappen",
+        "sprint_winner": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Pierre Gasly finishes on the podium.\",\"reasoning\":\"Alpine brings a key upgrade package precisely for this weekend, and Gasly has a history of opportunistic drives in tricky conditions. With rain likely across all three days of the Sprint format, the field could be jumbled. Starting from a midfield position, Gasly could avoid first-lap chaos, gamble on strategy, and profit from the pressure on the front-runners to secure a shock top-three finish.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"George Russell has suffered a run of reliability problems and setbacks, falling to third in the championship and needing a strong response. The Mercedes is not as dominant as early in the season, and with rain forecast all weekend, the risk of another DNF or a costly mistake is high. If Antonelli again secures the spotlight while Russell drops out of the points, it would be a major underperformance.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Aston Martin introduced a significant chassis upgrade in Hungary that helped Alonso reach Q2, and this weekend they debut Honda's updated power unit. Rainy conditions at Zandvoort often reward experienced drivers, and Alonso is a rain master. If the Honda PU delivers even a small step, the combination could push Aston Martin into a double points finish or even a top-6 result, far above their usual 2026 performance.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Where does Max Verstappen finish in The Sprint?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will score points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Dutch Grand Prix?",
+          "selection": "Nico Hulkenberg",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Combining The Sprint and Grand Prix, which of these teams will score the most points ?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Max Verstappen",
+        "pole": "Kimi Antonelli",
+        "sprint_pole": "Lando Norris",
+        "sprint_winner": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Max Verstappen will win the Saturday Sprint by mastering a sudden coastal rain shower, but will suffer a mechanical DNF in Sunday's main race.\",\"reasoning\":\"Red Bull has slipped to fourth in the pecking order, making a dry-weather win unlikely for Verstappen at his home track. However, Zandvoort's notorious coastal microclimate often brings sudden rain. Verstappen's wet-weather brilliance will secure a Sprint victory, but Red Bull's 2026 reliability woes will break Dutch hearts on Sunday.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Antonelli\",\"reasoning\":\"Although he leads the championship, Antonelli's momentum stalled before the summer break due to on-track incidents and reliability issues. Zandvoort's narrow, old-school layout with punishing gravel traps, combined with a high-pressure Sprint format, makes a costly rookie mistake highly likely for the Mercedes driver.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Haas\",\"reasoning\":\"Haas secured a brilliant double-points finish here last year. The combination of Zandvoort's unpredictable coastal weather and the chaotic Sprint format provides the perfect opportunity for Bearman and Ocon to punch above their current 7th place in the constructors' standings and score significant points.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Where does Max Verstappen finish in The Sprint?",
+          "selection": "4th - 10th",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will score points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Dutch Grand Prix?",
+          "selection": "Nico Hulkenberg",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Combining The Sprint and Grand Prix, which of these teams will score the most points ?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Max Verstappen",
+        "podium_p3": "Oscar Piastri",
+        "pole": "Lando Norris",
+        "sprint_pole": "Max Verstappen",
+        "sprint_winner": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Sainz qualifies ahead of both Ferraris and finishes in the top five.\",\"reasoning\":\"The expectation is that Ferrari’s driver quality and overall resources should keep them clear of Williams at a technical venue like Zandvoort. The surprise scenario is a clean break from that hierarchy: Williams nails tyre preparation and low-speed stability in qualifying, while Ferrari loses time through setup compromise or traffic. Because Zandvoort is so track-position sensitive, one exceptional Sainz qualifying lap could be enough to convert into a top-five finish if Williams avoids strategic mistakes and the faster cars behind get trapped in DRS trains.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari should theoretically be strong at a high-downforce, traction-sensitive circuit, but Zandvoort can punish exactly the operational weaknesses that have repeatedly hurt them: narrow setup windows, tyre temperature sensitivity, and vulnerability when qualifying is disrupted by wind, traffic or mixed conditions. With Leclerc and Hamilton, expectations will be for a podium challenge, but if the car is nervous through the long loaded corners and the banked final sector, Ferrari could end up stuck behind slower cars in a race where recovery is very difficult.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Zandvoort is usually not the obvious Williams venue because it is narrow, high-downforce and heavily qualifying-dependent, but that is exactly why they are an interesting upside pick: if their recent floor and beam-wing development has improved medium-speed load without sacrificing straight-line efficiency, Albon and Sainz can turn Saturday into a points platform. The team also has two experienced race managers in the cockpit, and Zandvoort often rewards clean execution, tyre discipline and opportunistic strategy more than raw race pace because overtaking is difficult.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Where does Max Verstappen finish in The Sprint?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will score points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Dutch Grand Prix?",
+          "selection": "Nico Hulkenberg",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Racing Bulls",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Combining The Sprint and Grand Prix, which of these teams will score the most points ?",
+          "selection": "Williams",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Lando Norris",
+        "sprint_pole": "Max Verstappen",
+        "sprint_winner": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Kimi Antonelli and Lewis Hamilton collide while battling for the lead in wet Sprint, handing McLaren a 1-2 and cutting Mercedes' constructors lead dramatically\",\"reasoning\":\"Mercedes dominates 2026 with Antonelli leading drivers (219 pts) but recent races show vulnerability to upgrades from Ferrari/McLaren; Hamilton (2nd, 169 pts at Ferrari) has history of aggressive moves. Zandvoort's first Sprint plus forecast of heavy Saturday rain (first true wet for 2026 cars) creates chaos on banked corners where visibility and grip are tricky; pattern of close title fights breaking Mercedes streak (e.g. Hungary McLaren win) makes this high-stakes error plausible yet surprising given Antonelli's rookie-year maturity.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull sits 4th in constructors with 177 points, far behind Mercedes (379) and Ferrari (307), and Verstappen (6th in drivers with 109 pts) has been inconsistent in 2026. While Honda brings a PU update, the team has shown track-to-track variability, and the Sprint format with rain risk may expose setup weaknesses on the demanding Zandvoort layout where they historically rely on Max's home heroics but lack overall pace this season.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Alpine\",\"reasoning\":\"Alpine brings a critical aero upgrade package to Zandvoort described as make-or-break for their 2026 ambitions. Recent form shows them close to Racing Bulls in the midfield (61 vs 66 points in constructors). The high-downforce, technical banked layout of Zandvoort rewards aero efficiency; combined with possible wet conditions that level the field and limited Sprint weekend practice favoring adaptable teams, Alpine could score strong points and challenge for P5 in the standings this weekend.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Where does Max Verstappen finish in The Sprint?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will score points in The Sprint?",
+          "selection": "5",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Dutch Grand Prix?",
+          "selection": "Nico Hulkenberg",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Combining The Sprint and Grand Prix, which of these teams will score the most points ?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Oscar Piastri",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lando Norris",
+        "pole": "Oscar Piastri",
+        "sprint_pole": "Kimi Antonelli",
+        "sprint_winner": "George Russell"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "Williams has a double points finish",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Isack Hadjar",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "Oscar Piastri",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Where does Max Verstappen finish in The Sprint?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will score points in The Sprint?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Dutch Grand Prix?",
+          "selection": "Gabriel Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Combining The Sprint and Grand Prix, which of these teams will score the most points ?",
+          "selection": "Williams",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Max Verstappen",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "Max Verstappen",
+        "sprint_pole": "Max Verstappen",
+        "sprint_winner": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Fernando Alonso scores Aston Martin's first podium of the season in a wet Dutch Grand Prix\",\"reasoning\":\"Aston Martin is introducing a Honda power unit upgrade and optimizing its recent chassis package at a circuit where aerodynamic confidence is paramount. The forecast calls for rain across the entire Sprint weekend, creating the first truly wet competitive running of the 2026 season. Alonso is renowned as one of the best wet-weather drivers on the grid, and the narrow, unforgiving Zandvoort layout in the rain could produce a race of attrition among the frontrunners. If the upgrades deliver a step in balance and the conditions reward his experience, a podium from the lower midfield is shocking yet plausible.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Verstappen finished second in Hungary despite struggling badly with the Red Bull's behavior, indicating underlying balance issues masked by recovery drives. Zandvoort's high-speed, flowing corners demand absolute confidence in the car, which the team has failed to provide. As a Sprint weekend with only one practice session and rain forecast for all three days, there is minimal time to dial out setup problems. Both Verstappen and rookie Hadjar could struggle to meet high expectations at the Dutchman's home race.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Aston Martin introduced a chassis upgrade in Hungary that produced Alonso's first Q2 appearance and allowed both cars to fight in the midfield. They now bring a Honda power unit upgrade and aim to extract further performance from the chassis. Zandvoort rewards aerodynamic confidence through fast corners, and forecast rain across the Sprint weekend could let Alonso maximize any gains. A collective step forward may see them reach Q3 and score points with both cars, well exceeding their back-of-midfield expectations.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Where does Max Verstappen finish in The Sprint?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will score points in The Sprint?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Dutch Grand Prix?",
+          "selection": "Nico Hulkenberg",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Combining The Sprint and Grand Prix, which of these teams will score the most points ?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "Max Verstappen",
+        "podium_p2": "Kimi Antonelli",
+        "podium_p3": "Lando Norris",
+        "pole": "Max Verstappen",
+        "sprint_pole": "Kimi Antonelli",
+        "sprint_winner": "Max Verstappen"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Piastri wins the Dutch Grand Prix while Norris suffers a mechanical retirement in the early laps, as heavy rain transforms the Sprint race into chaos and McLaren's upgraded car gives Piastri the edge in treacherous conditions.\",\"reasoning\":\"The weather forecast suggests rain could impact all three days at Zandvoort, and this would be the first truly wet competitive session with the 2026 cars. Piastri had clear pace before his Hungary DNF, showing he can fight at the front. Norris's breakthrough win and McLaren's upgrade momentum make them strong on paper, but unpredictable wet conditions historically create chaos where established order breaks down. The Sprint format means drivers get only one practice session to adapt before qualifying and the sprint race, raising the probability of mistakes and incidents. Piastri winning while Norris fails to finish would be a dramatic reversal of Hungary's narrative and a huge championship shake-up, making it a genuinely surprising but plausible outcome given the conditions and format.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"George Russell\",\"reasoning\":\"Russell sits third in the championship but arrives at Zandvoort under pressure after a difficult run before the summer break. While he showed race-winning speed throughout the first half of 2026, reliability problems and other setbacks have cost him important points. The 50-point gap to teammate Antonelli highlights the divergence in their seasons. Russell needs a strong response, but Mercedes' dominance has clearly faded as Ferrari and McLaren closed the gap. The Sprint format adds pressure with minimal practice time, and Russell's recent qualifying struggles could leave him vulnerable. With Hamilton determined to close the gap and Norris riding momentum from his Hungary win, Russell risks being overtaken by multiple rivals this weekend.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Oscar Piastri\",\"reasoning\":\"Piastri has shown race-winning pace all season but suffered terrible luck, most recently a gearbox failure while fighting at the front in Hungary. McLaren arrives at Zandvoort with further upgrades following Norris's breakthrough victory, and the MCL40 has clearly evolved into a race-winning package. Piastri's pace in Hungary before retiring suggests he's due for a strong bounce-back. The Sprint weekend format with limited practice creates opportunities for drivers who can adapt quickly, and Piastri has demonstrated that ability. With the gap to Antonelli at 91 points, Piastri needs a big result to re-enter the title conversation, and Zandvoort's technical nature rewards confident drivers through its fast corners and banking.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Dutch Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Where does Max Verstappen finish in The Sprint?",
+          "selection": "Podium",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will score points in The Sprint?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which driver takes pole position?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Dutch Grand Prix?",
+          "selection": "Gabriel Bortoleto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Max Verstappen",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "20",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Combining The Sprint and Grand Prix, which of these teams will score the most points ?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  },
+  "generationLogs": [
+    {
+      "id": 403,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"verstappen\", \"piastri\"],\n  \"sprint_pole\": \"verstappen\",\n  \"sprint_winner\": \"norris\",\n  \"reasoning\": \"Zandvoort rewards front-end confidence, high-downforce efficiency and qualifying execution, with overtaking difficult and safety-car/weather variance often important. McLaren’s recent form and tyre management make Norris/Piastri the safest race picks, while Verstappen’s home-track record, wet-weather strength and Zandvoort qualifying history keep him a major pole/sprint threat. Ferrari/Mercedes look more likely podium outsiders unless qualifying or strategy swings their way. Sprint weekend format increases the value of teams with stable baseline setup, favoring McLaren and Verstappen.\"\n}",
+      "tokensUsed": 1199,
+      "costUsd": 0.02332,
+      "createdAt": "2026-08-18T18:01:58.689Z"
+    },
+    {
+      "id": 404,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Dutch Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"121\":[1166,1167,1164],\"122\":[1186],\"123\":[1191],\"124\":[1197],\"125\":[1217],\"126\":[1219],\"127\":[1233],\"128\":[1237],\"129\":[1260],\"130\":[1263]},\"reasoning\":\"Antonelli leads the 2026 championship (219 pts) with Mercedes dominant in constructors. Norris won Hungary; Verstappen was P2. At Zandvoort, Verstappen is the home hero with 3 straight wins there and excels in tricky/wet conditions—experts tip him for pole and victory despite Red Bull not being fastest overall. Podium: Verstappen P1 (home masterclass), Norris P2 (McLaren pace/momentum), Antonelli P3 (championship leader, Mercedes strong). Sprint: Verstappen podium at home. Teams scoring in Sprint: 5 (top 8 sprint points, typically 5 teams). Pole to Verstappen (local knowledge in tricky conditions, possible damp qualifying). Hulkenberg over Bortoleto (H2H advantage). Fastest pitstop: Mercedes (championship-leading team, consistent). Safety cars: 3 (Zandvoort historically chaotic, sprint weekend increases incidents). Fastest lap: Verstappen (likely to push late for FL on home soil, especially if leading comfortably). Classified finishers: 20 (Zandvoort's narrow layout often causes an incident or two). Audi (Hulkenberg + Bortoleto) over Williams given recent points scoring form at Hungary.\"}",
+      "tokensUsed": 31017,
+      "costUsd": 0.192065,
+      "createdAt": "2026-08-18T18:01:59.132Z"
+    },
+    {
+      "id": 405,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"norris\",\"podium\":[\"norris\",\"piastri\",\"verstappen\"],\"sprint_pole\":\"norris\",\"sprint_winner\":\"verstappen\",\"reasoning\":\"McLaren enters Zandvoort in outstanding form after Norris won the Hungarian GP from pole following a substantial upgrade package, with Norris describing his pace as among the strongest of his career. Zandvoort's high-downforce, technical nature suits McLaren perfectly - Piastri won here in 2025 from pole, and Norris won in 2024. For dry Sunday qualifying, I favor Norris on current momentum for pole, with Piastri close behind (he took Zandvoort pole in 2025). Verstappen has podiumed at every Zandvoort race since 2021 and will be extra motivated for his final home race with a special Delft-inspired helmet, but the RB22 has been unstable per Helmut Marko and Verstappen has no wins in 2026. For the wet Saturday sprint, rain is a great equalizer - Verstappen thrives in wet conditions (won the 2023 rain-affected Zandvoort race) and could capitalize on chaos to win the sprint, though Norris's raw pace should still secure sprint pole in mixed conditions. Antonelli and Hamilton are podium threats but Mercedes has qualifying struggles and Ferrari lacks the killer edge here.\"}",
+      "tokensUsed": 59005,
+      "costUsd": 0.355625,
+      "createdAt": "2026-08-18T18:01:58.681Z"
+    },
+    {
+      "id": 406,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Williams\",\n    \"reasoning\": \"Zandvoort is usually not the obvious Williams venue because it is narrow, high-downforce and heavily qualifying-dependent, but that is exactly why they are an interesting upside pick: if their recent floor and beam-wing development has improved medium-speed load without sacrificing straight-line efficiency, Albon and Sainz can turn Saturday into a points platform. The team also has two experienced race managers in the cockpit, and Zandvoort often rewards clean execution, tyre discipline and opportunistic strategy more than raw race pace because overtaking is difficult.\",\n    \"is_team\": true,\n    \"referenced_id\": \"williams\"\n  },\n  \"flop\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari should theoretically be strong at a high-downforce, traction-sensitive circuit, but Zandvoort can punish exactly the operational weaknesses that have repeatedly hurt them: narrow setup windows, tyre temperature sensitivity, and vulnerability when qualifying is disrupted by wind, traffic or mixed conditions. With Leclerc and Hamilton, expectations will be for a podium challenge, but if the car is nervous through the long loaded corners and the banked final sector, Ferrari could end up stuck behind slower cars in a race where recovery is very difficult.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Sainz qualifies ahead of both Ferraris and finishes in the top five.\",\n    \"reasoning\": \"The expectation is that Ferrari’s driver quality and overall resources should keep them clear of Williams at a technical venue like Zandvoort. The surprise scenario is a clean break from that hierarchy: Williams nails tyre preparation and low-speed stability in qualifying, while Ferrari loses time through setup compromise or traffic. Because Zandvoort is so track-position sensitive, one exceptional Sainz qualifying lap could be enough to convert into a top-five finish if Williams avoids strategic mistakes and the faster cars behind get trapped in DRS trains.\"\n  }\n}",
+      "tokensUsed": 1764,
+      "costUsd": 0.03277,
+      "createdAt": "2026-08-18T18:01:58.913Z"
+    },
+    {
+      "id": 407,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "I have enough context. Key facts:\n- 2026 season, Mercedes dominant early (Antonelli leading, Russell won Austria, Hamilton climbed to 3rd for Ferrari)\n- Sprint weekend at Zandvoort (first time)\n- McLaren rear wing upgrade, Ferrari floor upgrade\n- Aston Martin brings new Honda power unit\n- Verstappen without a GP or sprint win in 2026, home race\n- Weather: mostly dry with ~20% rain chance\n- Antonelli's form has dipped (4th-best over last 5 races despite leading)\n\n{\n  \"good_surprise\": {\n    \"name\": \"Verstappen\",\n    \"reasoning\": \"Home race for Verstappen with the Orange Army in force, and Zandvoort's technical, low-speed, high-downforce nature has historically suited Red Bull and Verstappen specifically (three previous Dutch GP wins). Despite being winless in 2026, the compressed sprint weekend format rewards drivers who nail things quickly - and no one knows Zandvoort like Max. He finished 2nd in Austria showing Red Bull's pace is closing. Emotional final Dutch GP will squeeze every tenth from him. Expect at least a podium and possibly a sprint win.\",\n    \"is_team\": false,\n    \"referenced_id\": \"verstappen\"\n  },\n  \"flop\": {\n    \"name\": \"Antonelli\",\n    \"reasoning\": \"Antonelli still leads the championship but his form over the last five races has been the fourth-best in the field per Crash.net. Mercedes has had reliability issues, and a rookie under title pressure returning from summer break to a hostile Orange Army crowd at a technical, unforgiving circuit he's never raced an F1 car at (Zandvoort was axed before his F1 debut window) is a recipe for a rough weekend. Sprint format compresses learning time - punishes rookies most. Expect him to finish behind Russell and Hamilton and lose significant championship ground.\",\n    \"is_team\": false,\n    \"referenced_id\": \"antonelli\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Aston Martin scores points with both cars in the Sunday Grand Prix, with Alonso finishing inside the top 8.\",\n    \"reasoning\": \"Aston Martin has been cast adrift at the back most of 2026, but Honda is bringing its new power unit to Zandvoort. Combined with a recent aero package the team introduced pre-break, a fresh PU at a circuit where Alonso has historically over-delivered (he podiumed at Zandvoort 2023) creates a genuine window. Sprint weekends also scramble grids via qualifying variance and the potential 20% rain chance adds chaos Alonso thrives in. A double-points finish with Alonso in the top 8 would be a huge break from their season-long pattern of being nowhere.\"\n  }\n}",
+      "tokensUsed": 24068,
+      "costUsd": 0.1625,
+      "createdAt": "2026-08-18T18:01:58.912Z"
+    },
+    {
+      "id": 408,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"verstappen\",\n  \"podium\": [\"verstappen\", \"antonelli\", \"norris\"],\n  \"sprint_pole\": \"antonelli\",\n  \"sprint_winner\": \"verstappen\",\n  \"reasoning\": \"Despite Max Verstappen sitting sixth in the championship, Zandvoort is his domain - he's won his home race three times and holds exceptional wet-weather ability that could prove decisive given the 91% rain forecast for Friday and 75% chance of precipitation on Saturday. The Sprint weekend format with limited practice (only one session before competitive action) and unpredictable conditions plays into his hands. Kimi Antonelli remains the championship favorite with a 50-point lead and should challenge strongly for Sprint pole given Mercedes' strong all-round form across circuit types, but may not convert to race victory given Verstappen's Zandvoort expertise. Norris's Hungary victory with McLaren's upgraded car gives the team genuine front-running pace, making him a strong podium contender. Ferrari (Hamilton) and Mercedes (Russell) also bring developments, but Verstappen's home advantage and weather variables make him the pick for pole and race win. Hamilton's five-second penalty in Hungary shows Ferrari needs to execute cleanly. Piastri's gearbox failure in Hungary is a concern but McLaren has the pace to recover.\"\n}",
+      "tokensUsed": 3677,
+      "costUsd": 0.0089023,
+      "createdAt": "2026-08-18T18:01:58.693Z"
+    },
+    {
+      "id": 409,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"antonelli\",\n  \"podium\": [\n    \"norris\",\n    \"antonelli\",\n    \"verstappen\"\n  ],\n  \"sprint_pole\": \"norris\",\n  \"sprint_winner\": \"verstappen\",\n  \"reasoning\": \"Kimi Antonelli leads the 2026 championship and Mercedes is bringing a major upgrade to Zandvoort, making him a strong favorite for Grand Prix pole. However, McLaren's MCL40 showed dominant high-downforce pace with Lando Norris's 15-second victory in Hungary, positioning Norris to take Sprint pole and the main race win. Max Verstappen, entering his final home race with nothing to lose, is highly motivated and expected to capitalize on the forecasted heavy rain to win the Sprint and secure a podium on Sunday. Antonelli's remarkable consistency should comfortably secure him second place.\"\n}",
+      "tokensUsed": 4434,
+      "costUsd": 0.089658,
+      "createdAt": "2026-08-18T18:01:58.690Z"
+    },
+    {
+      "id": 410,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Haas\",\n    \"reasoning\": \"Haas secured a brilliant double-points finish here last year. The combination of Zandvoort's unpredictable coastal weather and the chaotic Sprint format provides the perfect opportunity for Bearman and Ocon to punch above their current 7th place in the constructors' standings and score significant points.\",\n    \"is_team\": true,\n    \"referenced_id\": \"haas\"\n  },\n  \"flop\": {\n    \"name\": \"Antonelli\",\n    \"reasoning\": \"Although he leads the championship, Antonelli's momentum stalled before the summer break due to on-track incidents and reliability issues. Zandvoort's narrow, old-school layout with punishing gravel traps, combined with a high-pressure Sprint format, makes a costly rookie mistake highly likely for the Mercedes driver.\",\n    \"is_team\": false,\n    \"referenced_id\": \"antonelli\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Max Verstappen will win the Saturday Sprint by mastering a sudden coastal rain shower, but will suffer a mechanical DNF in Sunday's main race.\",\n    \"reasoning\": \"Red Bull has slipped to fourth in the pecking order, making a dry-weather win unlikely for Verstappen at his home track. However, Zandvoort's notorious coastal microclimate often brings sudden rain. Verstappen's wet-weather brilliance will secure a Sprint victory, but Red Bull's 2026 reliability woes will break Dutch hearts on Sunday.\"\n  }\n}",
+      "tokensUsed": 6130,
+      "costUsd": 0.06536,
+      "createdAt": "2026-08-18T18:01:58.914Z"
+    },
+    {
+      "id": 411,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"antonelli\", \"leclerc\"],\n  \"sprint_pole\": \"verstappen\",\n  \"sprint_winner\": \"verstappen\",\n  \"reasoning\": \"2026 standings show Mercedes dominant (Antonelli leads on 219pts, Russell 3rd) but McLaren strong recently with Norris winning Hungary GP (first win of season) after upgrades; McLaren completing further upgrades at Zandvoort. Ferrari (Hamilton 2nd, Leclerc 4th) competitive in qualy. Models predict Mercedes > Ferrari > McLaren at high-downforce, high-speed, high-tyre-wear Zandvoort (narrow, banked final corner favors Mercedes ride-height but McLaren race pace strong). Verstappen (6th in standings, 109pts) historically excels at home with 3 prior Zandvoort wins; likely strong in Sprint. Weather: possible rain Saturday (Sprint) favors Red Bull, dry Sunday. Recent poles mixed (Norris Hungary, Antonelli Silverstone). Norris for GP pole/podium lead, Antonelli/Leclerc complete podium.\"\n}",
+      "tokensUsed": 47333,
+      "costUsd": 0.0789111,
+      "createdAt": "2026-08-18T18:01:58.691Z"
+    },
+    {
+      "id": 412,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Dutch Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"121\": [1164, 1165, 1166],\n    \"122\": [1186],\n    \"123\": [1191],\n    \"124\": [1195],\n    \"125\": [1217],\n    \"126\": [1219],\n    \"127\": [1232],\n    \"128\": [1235],\n    \"129\": [1259],\n    \"130\": [1263]\n  },\n  \"reasoning\": \"2026 standings show Antonelli (Mercedes) leading, Hamilton/Russell close; recent Hungary: Norris win (McLaren upgrades), Verstappen P2 (Red Bull), Antonelli P3. Mercedes top in Zandvoort models, strong at high-downforce track; McLaren/Red Bull challenging post-Hungary. Bold podium: Antonelli (home-like form, low pts), Russell, Verstappen (fan favorite, recent podiums). Verstappen Podium in Sprint (home hero). 5 teams points in Sprint (midfield mix). Antonelli pole (recent qual strength). Hulkenberg over Bortoleto (given H2H edge). Mercedes fastest pit (reliable). 2 SC/VSC (Zandvoort history, possible rain Sat but dry Sun). Antonelli fastest lap (consistent). 19 finishers (typical reliability). Audi over Williams in combined (better recent form/upgrades).\"\n}",
+      "tokensUsed": 35856,
+      "costUsd": 0.0675529,
+      "createdAt": "2026-08-18T18:01:59.134Z"
+    },
+    {
+      "id": 413,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"verstappen\",\n  \"podium\": [\"verstappen\", \"antonelli\", \"hamilton\"],\n  \"sprint_pole\": \"verstappen\",\n  \"sprint_winner\": \"verstappen\",\n  \"reasoning\": \"Heavy rain expected Friday and Saturday at Zandvoort, a narrow circuit where overtaking is extremely difficult and qualifying position is critical. Max Verstappen's intimate knowledge of his home track and exceptional wet-weather ability give him the edge in chaotic conditions, especially with only one practice session before Sprint qualifying. While Kimi Antonelli leads the championship and Mercedes has strong pace, the weather and track characteristics point to a Verstappen masterclass for both the Sprint and the Grand Prix. Lewis Hamilton's improved Ferrari and Lando Norris's recent Hungary win make them podium threats, but Verstappen's experience at Zandvoort makes him the clear favorite for pole and victory.\"\n}",
+      "tokensUsed": 4094,
+      "costUsd": 0.0107617541,
+      "createdAt": "2026-08-18T18:01:58.692Z"
+    },
+    {
+      "id": 414,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Alpine\",\n    \"reasoning\": \"Alpine brings a critical aero upgrade package to Zandvoort described as make-or-break for their 2026 ambitions. Recent form shows them close to Racing Bulls in the midfield (61 vs 66 points in constructors). The high-downforce, technical banked layout of Zandvoort rewards aero efficiency; combined with possible wet conditions that level the field and limited Sprint weekend practice favoring adaptable teams, Alpine could score strong points and challenge for P5 in the standings this weekend.\",\n    \"is_team\": true,\n    \"referenced_id\": \"alpine\"\n  },\n  \"flop\": {\n    \"name\": \"Red Bull Racing\",\n    \"reasoning\": \"Red Bull sits 4th in constructors with 177 points, far behind Mercedes (379) and Ferrari (307), and Verstappen (6th in drivers with 109 pts) has been inconsistent in 2026. While Honda brings a PU update, the team has shown track-to-track variability, and the Sprint format with rain risk may expose setup weaknesses on the demanding Zandvoort layout where they historically rely on Max's home heroics but lack overall pace this season.\",\n    \"is_team\": true,\n    \"referenced_id\": \"red-bull\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Kimi Antonelli and Lewis Hamilton collide while battling for the lead in wet Sprint, handing McLaren a 1-2 and cutting Mercedes' constructors lead dramatically\",\n    \"reasoning\": \"Mercedes dominates 2026 with Antonelli leading drivers (219 pts) but recent races show vulnerability to upgrades from Ferrari/McLaren; Hamilton (2nd, 169 pts at Ferrari) has history of aggressive moves. Zandvoort's first Sprint plus forecast of heavy Saturday rain (first true wet for 2026 cars) creates chaos on banked corners where visibility and grip are tricky; pattern of close title fights breaking Mercedes streak (e.g. Hungary McLaren win) makes this high-stakes error plausible yet surprising given Antonelli's rookie-year maturity.\"\n  }\n}",
+      "tokensUsed": 35574,
+      "costUsd": 0.06978645,
+      "createdAt": "2026-08-18T18:01:58.915Z"
+    },
+    {
+      "id": 415,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Aston Martin\",\n    \"reasoning\": \"Aston Martin introduced a significant chassis upgrade in Hungary that helped Alonso reach Q2, and this weekend they debut Honda's updated power unit. Rainy conditions at Zandvoort often reward experienced drivers, and Alonso is a rain master. If the Honda PU delivers even a small step, the combination could push Aston Martin into a double points finish or even a top-6 result, far above their usual 2026 performance.\",\n    \"is_team\": true,\n    \"referenced_id\": \"aston-martin\"\n  },\n  \"flop\": {\n    \"name\": \"Russell\",\n    \"reasoning\": \"George Russell has suffered a run of reliability problems and setbacks, falling to third in the championship and needing a strong response. The Mercedes is not as dominant as early in the season, and with rain forecast all weekend, the risk of another DNF or a costly mistake is high. If Antonelli again secures the spotlight while Russell drops out of the points, it would be a major underperformance.\",\n    \"is_team\": false,\n    \"referenced_id\": \"russell\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Pierre Gasly finishes on the podium.\",\n    \"reasoning\": \"Alpine brings a key upgrade package precisely for this weekend, and Gasly has a history of opportunistic drives in tricky conditions. With rain likely across all three days of the Sprint format, the field could be jumbled. Starting from a midfield position, Gasly could avoid first-lap chaos, gamble on strategy, and profit from the pressure on the front-runners to secure a shock top-three finish.\"\n  }\n}",
+      "tokensUsed": 4838,
+      "costUsd": 0.0114456464,
+      "createdAt": "2026-08-18T18:01:58.916Z"
+    },
+    {
+      "id": 416,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Dutch Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"121\": [1166, 1164, 1167],\n    \"122\": [1186],\n    \"123\": [1191],\n    \"124\": [1197],\n    \"125\": [1217],\n    \"126\": [1221],\n    \"127\": [1232],\n    \"128\": [1238],\n    \"129\": [1259],\n    \"130\": [1264]\n  },\n  \"reasoning\": \"Picks are based on Zandvoort being a high-downforce, qualifying-sensitive track with frequent incident risk. I’m backing Verstappen’s home-track strength for pole, sprint podium and the Grand Prix win, but with Mercedes and McLaren form strong enough to put Antonelli and Norris on the podium. Racing Bulls are the pit-stop pick after recent sub-two-second pace. Two SC/VSC interventions and 19 classified finishers fit Zandvoort’s narrow, gravel-lined profile without assuming total chaos. Williams over Audi is the value play, with Albon/Sainz offering stronger combined points upside than the Hulkenberg/Bortoleto pairing.\"\n}",
+      "tokensUsed": 3809,
+      "costUsd": 0.05032,
+      "createdAt": "2026-08-18T18:01:59.133Z"
+    },
+    {
+      "id": 417,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Dutch Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "\n\n{\"answers\":{\"121\":[1164,1170,1166],\"122\":[1186],\"123\":[1192],\"124\":[1198],\"125\":[1218],\"126\":[1222],\"127\":[1232],\"128\":[1237],\"129\":[1260],\"130\":[1263]},\"reasoning\":\"Based on current F1 form and research: McLaren's dominance (4 consecutive 1-2 finishes) with Piastri's exceptional consistency (40 consecutive double-digit fantasy races) makes them favorites. Betting lines predict Antonelli for the win, while Norris has momentum from Hungary. For value picks, Verstappen has P1 or P2 in all 5 Zandvoort appearances as hometown hero. For Sprint, Verstappen should podium given his Zandvoort record. With 5 different winners recently, expecting 6 teams to score in Sprint. Norris has pole momentum but McLaren likely locks front row. Bortoleto offers better value at 15pts given his recent form. McLaren had identical season-best 1.94s pitstops in Hungary, making them safest pick. Zandvoort historically has 4 SC/VSC instances, so 2 is moderate expectation. Verstappen showed late-race defense ability for fastest lap. Full 20 finishers expected given reliability improvements. McLaren's combined Sprint+GP scoring potential is highest given their current form.\"}",
+      "tokensUsed": 6258,
+      "costUsd": 0.00966004,
+      "createdAt": "2026-08-18T18:01:59.135Z"
+    },
+    {
+      "id": 418,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": " {\n  \"good_surprise\": { \"name\": \"Aston Martin\", \"reasoning\": \"Aston Martin introduced a chassis upgrade in Hungary that produced Alonso's first Q2 appearance and allowed both cars to fight in the midfield. They now bring a Honda power unit upgrade and aim to extract further performance from the chassis. Zandvoort rewards aerodynamic confidence through fast corners, and forecast rain across the Sprint weekend could let Alonso maximize any gains. A collective step forward may see them reach Q3 and score points with both cars, well exceeding their back-of-midfield expectations.\", \"is_team\": true, \"referenced_id\": \"aston-martin\" },\n  \"flop\": { \"name\": \"Red Bull Racing\", \"reasoning\": \"Verstappen finished second in Hungary despite struggling badly with the Red Bull's behavior, indicating underlying balance issues masked by recovery drives. Zandvoort's high-speed, flowing corners demand absolute confidence in the car, which the team has failed to provide. As a Sprint weekend with only one practice session and rain forecast for all three days, there is minimal time to dial out setup problems. Both Verstappen and rookie Hadjar could struggle to meet high expectations at the Dutchman's home race.\", \"is_team\": true, \"referenced_id\": \"red-bull\" },\n  \"crazy_prediction\": { \"prediction\": \"Fernando Alonso scores Aston Martin's first podium of the season in a wet Dutch Grand Prix\", \"reasoning\": \"Aston Martin is introducing a Honda power unit upgrade and optimizing its recent chassis package at a circuit where aerodynamic confidence is paramount. The forecast calls for rain across the entire Sprint weekend, creating the first truly wet competitive running of the 2026 season. Alonso is renowned as one of the best wet-weather drivers on the grid, and the narrow, unforgiving Zandvoort layout in the rain could produce a race of attrition among the frontrunners. If the upgrades deliver a step in balance and the conditions reward his experience, a podium from the lower midfield is shocking yet plausible.\" }\n}",
+      "tokensUsed": 10534,
+      "costUsd": 0.03422694,
+      "createdAt": "2026-08-18T18:01:58.916Z"
+    },
+    {
+      "id": 419,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Dutch Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"121\": [\n      1164,\n      1167,\n      1166\n    ],\n    \"122\": [\n      1187\n    ],\n    \"123\": [\n      1191\n    ],\n    \"124\": [\n      1195\n    ],\n    \"125\": [\n      1217\n    ],\n    \"126\": [\n      1221\n    ],\n    \"127\": [\n      1232\n    ],\n    \"128\": [\n      1235\n    ],\n    \"129\": [\n      1259\n    ],\n    \"130\": [\n      1263\n    ]\n  },\n  \"reasoning\": \"Kimi Antonelli leads the 2026 championship for Mercedes and is the favorite for pole and the race win. Lando Norris and Max Verstappen have shown strong recent form, with Norris winning in Hungary and Verstappen taking P2, making them solid podium contenders. Max's Red Bull has slipped to 4th in the constructors' standings, so a 4th-10th finish in the Sprint is a realistic expectation. Racing Bulls recently achieved a sub-2-second pitstop, making them a strong pick for the fastest stop. Audi is favored over Williams after Hulkenberg's recent points finish in Hungary.\"\n}",
+      "tokensUsed": 10461,
+      "costUsd": 0.095322,
+      "createdAt": "2026-08-18T18:01:59.133Z"
+    },
+    {
+      "id": 420,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Dutch Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"121\":[1164,1166,1167],\"122\":[1186],\"123\":[1192],\"124\":[1201],\"125\":[1217],\"126\":[1222],\"127\":[1233],\"128\":[1235],\"129\":[1258],\"130\":[1263]},\"reasoning\":\"Research from [fanamp.com](https://www.fanamp.com/articles/fantasy-preview-dutch-grand-prix-2026) and [formula1.com](https://www.formula1.com/en/latest/article/f1-fantasy-strategist-selection-whats-the-best-line-up-for-the-dutch-grand.4ILrhLxHVzGZhR3IY4S7rJ) shows Kimi Antonelli is the betting favorite to win Sunday, while McLaren's recent dominance with four consecutive 1-2 finishes gives Oscar Piastri a strong shot at pole despite higher odds. Max Verstappen's perfect Zandvoort record of finishing P1 or P2 in every Dutch GP appearance makes him a podium lock at home, joined by Lando Norris who carries momentum from his Hungary victory. For the Sprint, Verstappen should deliver a home podium. McLaren's season-best 1.94s pit stops in Hungary support selecting them for fastest pit stop over market favorite Mercedes. Zandvoort's narrow layout and an iffy weather forecast that has historically produced\"}",
+      "tokensUsed": 13083,
+      "costUsd": 0.03758395,
+      "createdAt": "2026-08-18T18:01:59.135Z"
+    },
+    {
+      "id": 421,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Oscar Piastri\",\"reasoning\":\"Piastri has shown race-winning pace all season but suffered terrible luck, most recently a gearbox failure while fighting at the front in Hungary. McLaren arrives at Zandvoort with further upgrades following Norris's breakthrough victory, and the MCL40 has clearly evolved into a race-winning package. Piastri's pace in Hungary before retiring suggests he's due for a strong bounce-back. The Sprint weekend format with limited practice creates opportunities for drivers who can adapt quickly, and Piastri has demonstrated that ability. With the gap to Antonelli at 91 points, Piastri needs a big result to re-enter the title conversation, and Zandvoort's technical nature rewards confident drivers through its fast corners and banking.\",\"is_team\":false,\"referenced_id\":\"piastri\"},\"flop\":{\"name\":\"George Russell\",\"reasoning\":\"Russell sits third in the championship but arrives at Zandvoort under pressure after a difficult run before the summer break. While he showed race-winning speed throughout the first half of 2026, reliability problems and other setbacks have cost him important points. The 50-point gap to teammate Antonelli highlights the divergence in their seasons. Russell needs a strong response, but Mercedes' dominance has clearly faded as Ferrari and McLaren closed the gap. The Sprint format adds pressure with minimal practice time, and Russell's recent qualifying struggles could leave him vulnerable. With Hamilton determined to close the gap and Norris riding momentum from his Hungary win, Russell risks being overtaken by multiple rivals this weekend.\",\"is_team\":false,\"referenced_id\":\"russell\"},\"crazy_prediction\":{\"prediction\":\"Piastri wins the Dutch Grand Prix while Norris suffers a mechanical retirement in the early laps, as heavy rain transforms the Sprint race into chaos and McLaren's upgraded car gives Piastri the edge in treacherous conditions.\",\"reasoning\":\"The weather forecast suggests rain could impact all three days at Zandvoort, and this would be the first truly wet competitive session with the 2026 cars. Piastri had clear pace before his Hungary DNF, showing he can fight at the front. Norris's breakthrough win and McLaren's upgrade momentum make them strong on paper, but unpredictable wet conditions historically create chaos where established order breaks down. The Sprint format means drivers get only one practice session to adapt before qualifying and the sprint race, raising the probability of mistakes and incidents. Piastri winning while Norris fails to finish would be a dramatic reversal of Hungary's narrative and a huge championship shake-up, making it a genuinely surprising but plausible outcome given the conditions and format.\"}}",
+      "tokensUsed": 5446,
+      "costUsd": 0.0144652,
+      "createdAt": "2026-08-18T18:01:58.917Z"
+    },
+    {
+      "id": 422,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Dutch Grand Prix (Round 12, 2026-08-23) at Zandvoort, Netherlands.\n\nThis is a Sprint weekend. Include sprint_pole and sprint_winner predictions.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"verstappen\",\n  \"podium\": [\"verstappen\", \"antonelli\", \"norris\"],\n  \"sprint_pole\": \"verstappen\",\n  \"sprint_winner\": \"verstappen\",\n  \"reasoning\": \"Zandvoort is forecast for heavy rain and strong winds on Friday and Saturday [bets.com.au](https://www.bets.com.au/formula1/f1-dutch-grand-prix-2026-tips-predictions-20260817-0006/), giving Max Verstappen a decisive advantage in Sprint qualifying, the Sprint race, and Grand Prix qualifying thanks to his intimate home-track knowledge and elite wet-weather skill. The circuit’s narrow, banked layout makes overtaking extremely difficult and qualifying pace a stronger-than-average predictor of the result [podiumprophets.com](https://podiumprophets.com/predictions/dutch-gp), so a Verstappen pole positions likely translate to victories. Behind him, championship leader Kimi Antonelli brings Mercedes’ strong high-downforce pace and consistency, while Lando Norris carries McLaren’s post-Hungary upgrade momentum and the team’s first 2026 win into the fight for the remaining podium places [grandprixdestination.com](https://grandprixdestination.com/f1-dutch-grand-prix-predictions-2026-can-anyone-add-pressure-to-antonelli/).\"\n}",
+      "tokensUsed": 8400,
+      "costUsd": 0.028501,
+      "createdAt": "2026-08-18T18:01:58.693Z"
+    },
+    {
+      "id": 423,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Dutch Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"121\": [1164, 1165, 1166],\n    \"122\": [1187],\n    \"123\": [1191],\n    \"124\": [1195],\n    \"125\": [1217],\n    \"126\": [1219],\n    \"127\": [1232],\n    \"128\": [1235],\n    \"129\": [1259],\n    \"130\": [1263]\n  },\n  \"reasoning\": \"Based on recent form and odds, Mercedes appears to have a performance edge with Kimi Antonelli favored for pole and fastest lap. I anticipate a Mercedes 1-2 with Verstappen completing the podium at his home race. Verstappen should finish in the top 10 in the Sprint but miss the podium. Five teams are likely to score Sprint points. Hulkenberg should outqualify Bortoleto at Audi. Mercedes is also the top pick for fastest pitstop. Two Safety Car or VSC periods seem most likely, and 19 classified finishers is the statistical expectation. Audi is favored to outscore Williams across the weekend.\"\n}",
+      "tokensUsed": 26890,
+      "costUsd": 0.042308408,
+      "createdAt": "2026-08-18T18:01:59.134Z"
+    }
+  ]
+}
