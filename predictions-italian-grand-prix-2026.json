@@ -1,0 +1,1169 @@
+{
+  "exportType": "race_predictions",
+  "raceId": "italy-2026",
+  "raceName": "Italian Grand Prix",
+  "raceDate": "2026-09-06",
+  "isSprint": false,
+  "lineup": {
+    "status": "confirmed",
+    "source": "admin",
+    "confirmedAt": "2026-09-04T07:25:01.790Z",
+    "entries": [
+      {
+        "driverId": "norris",
+        "driver": "Lando Norris",
+        "teamId": "mclaren",
+        "team": "McLaren",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "piastri",
+        "driver": "Oscar Piastri",
+        "teamId": "mclaren",
+        "team": "McLaren",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "leclerc",
+        "driver": "Charles Leclerc",
+        "teamId": "ferrari",
+        "team": "Ferrari",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "hamilton",
+        "driver": "Lewis Hamilton",
+        "teamId": "ferrari",
+        "team": "Ferrari",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "verstappen",
+        "driver": "Max Verstappen",
+        "teamId": "red-bull",
+        "team": "Red Bull Racing",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "lawson",
+        "driver": "Liam Lawson",
+        "teamId": "red-bull",
+        "team": "Red Bull Racing",
+        "slot": 2,
+        "isSubstitute": true
+      },
+      {
+        "driverId": "russell",
+        "driver": "George Russell",
+        "teamId": "mercedes",
+        "team": "Mercedes",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "antonelli",
+        "driver": "Kimi Antonelli",
+        "teamId": "mercedes",
+        "team": "Mercedes",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "alonso",
+        "driver": "Fernando Alonso",
+        "teamId": "aston-martin",
+        "team": "Aston Martin",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "stroll",
+        "driver": "Lance Stroll",
+        "teamId": "aston-martin",
+        "team": "Aston Martin",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "gasly",
+        "driver": "Pierre Gasly",
+        "teamId": "alpine",
+        "team": "Alpine",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "colapinto",
+        "driver": "Franco Colapinto",
+        "teamId": "alpine",
+        "team": "Alpine",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "ocon",
+        "driver": "Esteban Ocon",
+        "teamId": "haas",
+        "team": "Haas",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "bearman",
+        "driver": "Ollie Bearman",
+        "teamId": "haas",
+        "team": "Haas",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "tsunoda",
+        "driver": "Yuki Tsunoda",
+        "teamId": "racing-bulls",
+        "team": "Racing Bulls",
+        "slot": 1,
+        "isSubstitute": true
+      },
+      {
+        "driverId": "lindblad",
+        "driver": "Arvid Lindblad",
+        "teamId": "racing-bulls",
+        "team": "Racing Bulls",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "albon",
+        "driver": "Alexander Albon",
+        "teamId": "williams",
+        "team": "Williams",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "sainz",
+        "driver": "Carlos Sainz",
+        "teamId": "williams",
+        "team": "Williams",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "hulkenberg",
+        "driver": "Nico Hulkenberg",
+        "teamId": "audi",
+        "team": "Audi",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "bortoleto",
+        "driver": "Gabriel Bortoleto",
+        "teamId": "audi",
+        "team": "Audi",
+        "slot": 2,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "bottas",
+        "driver": "Valtteri Bottas",
+        "teamId": "cadillac",
+        "team": "Cadillac",
+        "slot": 1,
+        "isSubstitute": false
+      },
+      {
+        "driverId": "perez",
+        "driver": "Sergio Perez",
+        "teamId": "cadillac",
+        "team": "Cadillac",
+        "slot": 2,
+        "isSubstitute": false
+      }
+    ]
+  },
+  "exportedAt": "2026-09-04T07:44:59.798Z",
+  "predictions": {
+    "Anthropic": {
+      "predictor": "Claude Opus 4.7",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Kimi Antonelli recovers from his grid penalty to finish on the podium at his home race\",\"reasoning\":\"Mercedes deliberately chose Monza to absorb Antonelli's engine penalty precisely because overtaking is viable and the Mercedes PU is dominant on this power-sensitive track. He leads the championship by 59 points on raw pace. A charge to P3 from a deep grid slot on debut home race would be a huge story but is grounded in Mercedes' strategic reasoning.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Aston Martin\",\"reasoning\":\"Honda's chief engineer has admitted the power unit remains well behind Mercedes, and Monza's long straights punish power deficits harder than any other track. Alonso and Stroll are set for a tough weekend on the Temple of Speed.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Despite a dismal 2026 season sitting ninth in constructors with only 11 points, Monza is historically Williams's best circuit type. Albon himself has said low downforce and lack of combined cornering suits their car, and they have the Mercedes power unit — the best on the grid. After five weak races, Monza is where their fundamental car weaknesses are hidden. A double points finish would be a meaningful surprise.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Who'll be the fastest driver in qualifying?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Italian Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a car into Q3?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Ferrari",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">12",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Williams",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "DeepSeek": {
+      "predictor": "DeepSeek V4 Pro",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "George Russell",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Kimi Antonelli recovers from a back-of-the-grid start to finish on the podium, while both Ferraris suffer race-ending reliability failures with their new engines.\",\"reasoning\":\"Antonelli starts from the back due to a fresh power unit penalty, but Monza's easy overtaking and Mercedes' potent engine make a recovery drive plausible. Meanwhile, Ferrari is introducing an aggressive second-spec engine upgrade. Historically, new engine specs can carry reliability risks, and Monza's 'energy-starved' nature stresses hybrid components. A double Ferrari DNF would be a shocking twist, especially at their home race, while Antonelli's charge to the podium would defy the Italian curse and his grid penalty.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"George Russell is the lead Mercedes fighting at the front, but the team is at the limit of engine parts and appears less prepared to respond to Ferrari's engine upgrade. With McLaren's strong recent form and Ferrari's power boost, Russell risks being outgunned on Monza's long straights. He may struggle to match the pace of the upgraded Ferraris and the resurgent McLarens, leading to an underwhelming result relative to his championship position.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari brings a significant second-spec engine upgrade focused on closing the 22 kW power deficit to Mercedes, specifically targeting the internal combustion engine and energy recovery. Monza is a power-sensitive circuit, and the team has designed a low-downforce aero package for the straights. With both Hamilton and Leclerc taking the upgrade without penalties, and Mercedes' Antonelli starting from the back, Ferrari is poised to outperform expectations and fight for the win.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Who'll be the fastest driver in qualifying?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Italian Grand Prix?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a car into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "1",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">12",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Williams",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Google": {
+      "predictor": "Gemini 3.1 Pro",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "George Russell",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"The race lead will change hands over 10 times in a MotoGP-style pack race, with drivers intentionally lifting on the straights to avoid leading.\",\"reasoning\":\"Monza's lack of heavy braking zones makes energy recovery extremely difficult under the 2026 regulations. Combined with four active aero 'straight-mode' zones, leading is a massive disadvantage, forcing drivers to play tactical slipstreaming games and conserve battery until the final lap.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Despite the passionate home crowd and searing heat, Ferrari's power unit may struggle with the extreme energy recovery demands of the 2026 regulations at Monza compared to Mercedes and McLaren.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Russell\",\"reasoning\":\"With his teammate Antonelli taking a grid penalty and offering a slipstream in qualifying, Russell is perfectly positioned to exploit Mercedes' superior electrical efficiency on a track where energy management is critical.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Who'll be the fastest driver in qualifying?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Italian Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a car into Q3?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">12",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Williams",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "OpenAI": {
+      "predictor": "GPT-5.5",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Max Verstappen",
+        "pole": "Charles Leclerc"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Sainz qualifies ahead of both Ferraris and finishes in the top five for Williams.\",\"reasoning\":\"The surprise is not just Williams being quick, but Sainz beating Ferrari at Monza on merit. It is plausible because Monza rewards low-drag efficiency, slipstream execution, braking confidence, and clean race management more than peak downforce. If Williams nails the tow in qualifying and Ferrari gets trapped by home-pressure strategy or tyre-temperature compromises, Sainz has a real route to start high enough to survive the DRS trains and convert it into a top-five finish.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari will arrive with huge home pressure, but Monza can punish any compromise between straight-line speed, braking stability, and rear-tyre protection. If their package is slightly too draggy or too nervous over kerbs, they risk being stuck in the same DRS train as McLaren, Mercedes, and Williams rather than controlling the race. The Leclerc-Hamilton pairing raises expectations massively at Monza, so anything short of a podium will feel like an underperformance.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Williams\",\"reasoning\":\"Monza is one of the few circuits where Williams' usual strengths can outweigh its weaknesses: low drag, strong straight-line efficiency, and drivers who are comfortable defending in DRS trains. Sainz should be highly motivated against Ferrari at their home race, while Albon has repeatedly overperformed at low-downforce venues. If the midfield is compressed, Williams has a realistic path to getting both cars into the top ten fight rather than just chasing opportunistic points.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Max Verstappen",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Who'll be the fastest driver in qualifying?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Italian Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a car into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Red Bull Racing",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">12",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": ">19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Williams",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "xAI": {
+      "predictor": "Grok 4.20",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "George Russell",
+        "podium_p3": "Charles Leclerc",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Ferrari scores a 1-2 finish with Leclerc winning in front of the tifosi, while championship leader Antonelli recovers from last to the podium\",\"reasoning\":\"Ferrari's targeted PU upgrade and home motivation align perfectly with Monza's power-sensitive layout, breaking their recent pattern of strategy-induced podium misses. McLaren's recent wins (Hungary, Zandvoort) came on twistier tracks; their low-drag package may not match the upgraded Ferrari straight-line speed. Antonelli's penalty turns the weekend into a recovery test, but the long straights and overtake zones (plus his season-long consistency with 6 wins) make a charge to P3 plausible, surprising given the 59-point lead and back-of-grid start.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Mercedes\",\"reasoning\":\"Mercedes leads both championships comfortably, but Antonelli (championship leader by 59 points) takes a full power unit penalty and starts from the back at his home race. While overtaking is possible at Monza, the 2026 regs make energy management critical with limited harvesting on the straights. Recent races show close competition; starting last plus potential strategy/traffic issues could limit the team to fewer points than expected, especially if Ferrari's upgrade closes the PU gap.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari brings its second permitted ADUO power unit upgrade (revised turbo, combustion chamber, Shell fuel for ~15hp gain) specifically to Monza, its home race with passionate tifosi support. The circuit's long straights and emphasis on straight-line speed will highlight any power gains. Recent form has been hampered by strategy errors (Hungary, Zandvoort), but perfect execution plus the upgrade and low-downforce aero tweaks could see both Leclerc and Hamilton challenge for the win or podiums, exceeding current expectations where they've struggled for consistent top results.\"}",
+          "isTeam": true
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Who'll be the fastest driver in qualifying?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Italian Grand Prix?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a car into Q3?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Mercedes",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">12",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "George Russell",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Aston Martin",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Human": {
+      "predictor": "Human",
+      "raceWeekend": {
+        "podium_p1": "Lewis Hamilton",
+        "podium_p2": "Lando Norris",
+        "podium_p3": "George Russell",
+        "pole": "Kimi Antonelli"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "There will be no safety cars deployed",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "Aston Martin",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "Piastri",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Who'll be the fastest driver in qualifying?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Italian Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a car into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "0",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">12",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lewis Hamilton",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "18",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Tied",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "Moonshot": {
+      "predictor": "Kimi K2.6",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "Charles Leclerc",
+        "podium_p3": "Max Verstappen",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Ferrari scores a 1-2 finish at Monza, their first since 2019, with Leclerc leading Hamilton home ahead of a recovering Antonelli.\",\"reasoning\":\"Ferrari has introduced a second upgraded power-unit specification specifically for Monza, their most important race. Hamilton has stated they 'have the car to fight' this year, unlike 2025. McLaren has dominated the last two races, creating an expectation they will continue, but Monza's characteristics (low downforce, power-dependent) differ fundamentally from Hungary and Zandvoort. Mercedes is compromised by Antonelli's penalty. Red Bull is off the pace. This creates a perfect storm where Ferrari's emotional home advantage, specific low-drag package, and fresh engine could allow them to capitalize on others' circumstances. A 1-2 would break the McLaren/Mercedes recent dominance and end Ferrari's long Monza win drought, making it genuinely shocking yet grounded in their upgrades and the circuit.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Red Bull Racing\",\"reasoning\":\"Red Bull has been struggling significantly since the summer break. At Zandvoort, Verstappen crashed out early and stand-in Liam Lawson could only manage P7. The team lacks competitive pace and has no major upgrades expected for Monza. Meanwhile, Ferrari, McLaren, and Mercedes are all bringing significant power unit or aerodynamic upgrades specifically tailored for Monza's low-drag, high-speed nature. Red Bull's RB22 appears fundamentally ill-suited to the current development trajectory, and at a power-hungry circuit where their rivals are maximizing performance, Red Bull is likely to be exposed and finish well outside the podium fight.\"}",
+          "isTeam": true
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Antonelli\",\"reasoning\":\"Kimi Antonelli is starting from the back of the grid due to a fresh power unit penalty at his home race. However, Mercedes specifically chose Monza for this penalty because the long straights and plentiful overtaking opportunities make recovery drives highly viable. With a brand-new, potent power unit and the emotional motivation of the Monza crowd, Antonelli has a genuine chance to charge through the field to a podium finish. Historical precedent exists: Verstappen won from a penalty in 2022, and Hamilton recovered from the back to P5. Given his 59-point championship lead and strong season form, Antonelli has the skill and machinery to massively overdeliver this weekend.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Oscar Piastri",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Who'll be the fastest driver in qualifying?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Italian Grand Prix?",
+          "selection": "Franco Colapinto",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a car into Q3?",
+          "selection": "7",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "Audi",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": ">3",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": ">12",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Kimi Antonelli",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "19",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Williams",
+          "selectionIndex": 1
+        }
+      ]
+    },
+    "MiniMax": {
+      "predictor": "MiniMax M2.7",
+      "raceWeekend": {
+        "podium_p1": "Lando Norris",
+        "podium_p2": "George Russell",
+        "podium_p3": "Lewis Hamilton",
+        "pole": "Lando Norris"
+      },
+      "subjective": {
+        "crazy_prediction": {
+          "text": "{\"name\":\"Kimi Antonelli wins the Italian Grand Prix from the back of the grid, ending 73 years of Italian drought at Monza.\",\"reasoning\":\"Mercedes has installed a completely new power unit for Antonelli specifically because Monza offers the best overtaking opportunities on the calendar and their HPP unit is expected to be particularly potent here. The Mercedes engine was already strong at Zandvoort, and with a fresh, unrestricted unit, Antonelli will have maximum power deployment. He leads the championship by 59 points and has consistently exceeded expectations this season with six wins. The new generation cars are predicted to be two seconds faster than last year, making recovery drives more feasible. Mercedes has calculated this as the least damaging race for the penalty. With Ferrari distracted by home pressure and McLaren having their own targets, Antonelli could benefit from safety cars and strategic chaos. The home curse is real, but no Italian has faced this combination of factors: a fresh engine, championship leadership, proven race-winning ability, and a circuit designed for overtaking. Ascari's curse breaks here as the 20-year-old becomes Italy's first Monza winner since 1966.\"}",
+          "isTeam": false
+        },
+        "flop": {
+          "text": "{\"name\":\"Fernando Alonso\",\"reasoning\":\"Aston Martin has shown glimpses of competitiveness but remains fundamentally behind the top four teams. At a circuit like Monza where raw engine power and aerodynamic efficiency matter most, Aston Martin's power unit lags behind Mercedes, Ferrari, and even McLaren. Alonso has extract miracles from inferior machinery throughout his career, but the ceiling appears lower this season than in previous years. With Ferrari bringing new upgrades and McLaren surging, the gap to the front is widening rather than closing. Alonso's home race at Monza is unlikely to provide the turnaround Aston Martin needs, and he could find himself struggling for pace against rivals with superior straight-line speed. The Tifosi will be focused on Ferrari while Alonso battles outside the top ten, extending his winless streak at a circuit where he's traditionally performed better.\"}",
+          "isTeam": false
+        },
+        "good_surprise": {
+          "text": "{\"name\":\"Liam Lawson\",\"reasoning\":\"Red Bull had a challenging weekend at Zandvoort where Verstappen crashed early and Lawson managed P7. However, Lawson showed composure in his best race yet and Monza is a venue where Verstappen won last year despite a 5-place penalty. With Red Bull desperate to bounce back and Lawson gaining confidence after a solid recovery drive in Holland, he could capitalize on the high-energy management demands and overtaking opportunities at Monza. Red Bull's power unit has been strong, and with McLaren and Ferrari focused on each other, Lawson could slip into the points or even challenge for a podium in a quieter race than expected. He's had time to settle into the seat after the early-season pressure, and Monza's unique characteristics could play into his hands as he looks to prove his long-term future with the team.\"}",
+          "isTeam": false
+        }
+      },
+      "fantasy": [
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "Lando Norris",
+          "selectionIndex": 2
+        },
+        {
+          "question": "Predict the podium for the 2026 Italian Grand Prix.",
+          "selection": "George Russell",
+          "selectionIndex": 3
+        },
+        {
+          "question": "Who'll be the fastest driver in qualifying?",
+          "selection": "Charles Leclerc",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who qualifies highest for the Italian Grand Prix?",
+          "selection": "Pierre Gasly",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many teams will get a car into Q3?",
+          "selection": "6",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which team will set the fastest pitstop time of the race?",
+          "selection": "McLaren",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many times will the Safety Car or VSC be called upon during the Grand Prix?",
+          "selection": "2",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Most positions gained by a driver in the race?",
+          "selection": "10",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Who will set the fastest lap time of the race?",
+          "selection": "Lando Norris",
+          "selectionIndex": 1
+        },
+        {
+          "question": "How many classified finishers?",
+          "selection": "17",
+          "selectionIndex": 1
+        },
+        {
+          "question": "Which of these teams will score the most points?",
+          "selection": "Aston Martin",
+          "selectionIndex": 1
+        }
+      ]
+    }
+  },
+  "generationLogs": [
+    {
+      "id": 424,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\n  \"good_surprise\": { \"name\": \"Antonelli\", \"reasoning\": \"Kimi Antonelli is starting from the back of the grid due to a fresh power unit penalty at his home race. However, Mercedes specifically chose Monza for this penalty because the long straights and plentiful overtaking opportunities make recovery drives highly viable. With a brand-new, potent power unit and the emotional motivation of the Monza crowd, Antonelli has a genuine chance to charge through the field to a podium finish. Historical precedent exists: Verstappen won from a penalty in 2022, and Hamilton recovered from the back to P5. Given his 59-point championship lead and strong season form, Antonelli has the skill and machinery to massively overdeliver this weekend.\", \"is_team\": false, \"referenced_id\": \"antonelli\" },\n  \"flop\": { \"name\": \"Red Bull Racing\", \"reasoning\": \"Red Bull has been struggling significantly since the summer break. At Zandvoort, Verstappen crashed out early and stand-in Liam Lawson could only manage P7. The team lacks competitive pace and has no major upgrades expected for Monza. Meanwhile, Ferrari, McLaren, and Mercedes are all bringing significant power unit or aerodynamic upgrades specifically tailored for Monza's low-drag, high-speed nature. Red Bull's RB22 appears fundamentally ill-suited to the current development trajectory, and at a power-hungry circuit where their rivals are maximizing performance, Red Bull is likely to be exposed and finish well outside the podium fight.\", \"is_team\": true, \"referenced_id\": \"red-bull\" },\n  \"crazy_prediction\": { \"prediction\": \"Ferrari scores a 1-2 finish at Monza, their first since 2019, with Leclerc leading Hamilton home ahead of a recovering Antonelli.\", \"reasoning\": \"Ferrari has introduced a second upgraded power-unit specification specifically for Monza, their most important race. Hamilton has stated they 'have the car to fight' this year, unlike 2025. McLaren has dominated the last two races, creating an expectation they will continue, but Monza's characteristics (low downforce, power-dependent) differ fundamentally from Hungary and Zandvoort. Mercedes is compromised by Antonelli's penalty. Red Bull is off the pace. This creates a perfect storm where Ferrari's emotional home advantage, specific low-drag package, and fresh engine could allow them to capitalize on others' circumstances. A 1-2 would break the McLaren/Mercedes recent dominance and end Ferrari's long Monza win drought, making it genuinely shocking yet grounded in their upgrades and the circuit.\" }\n}",
+      "tokensUsed": 3843,
+      "costUsd": 0.0100617454,
+      "createdAt": "2026-09-04T07:29:32.890Z"
+    },
+    {
+      "id": 425,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"russell\", \"leclerc\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Recent form shows McLaren (Norris wins in Hungary & Netherlands) surging with low-drag upgrades suiting Monza's straights; Norris is betting favorite for pole/win. Mercedes leads championship (Antonelli 59pts clear but grid penalty for new PU drops him back, Russell to capitalize). Ferrari bringing major PU upgrade (~15hp) for home race boosts Leclerc/Hamilton. Hot/dry weather forecast. Experts split on pole (Leclerc/Russell/Norris) but consensus favors Norris or Russell for win; Verstappen/Red Bull struggling. Podium reflects current momentum, Mercedes consistency, Ferrari straight-line gains.\"\n}",
+      "tokensUsed": 65964,
+      "costUsd": 0.1278168,
+      "createdAt": "2026-09-04T07:29:32.642Z"
+    },
+    {
+      "id": 426,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari brings its second permitted ADUO power unit upgrade (revised turbo, combustion chamber, Shell fuel for ~15hp gain) specifically to Monza, its home race with passionate tifosi support. The circuit's long straights and emphasis on straight-line speed will highlight any power gains. Recent form has been hampered by strategy errors (Hungary, Zandvoort), but perfect execution plus the upgrade and low-downforce aero tweaks could see both Leclerc and Hamilton challenge for the win or podiums, exceeding current expectations where they've struggled for consistent top results.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"flop\": {\n    \"name\": \"Mercedes\",\n    \"reasoning\": \"Mercedes leads both championships comfortably, but Antonelli (championship leader by 59 points) takes a full power unit penalty and starts from the back at his home race. While overtaking is possible at Monza, the 2026 regs make energy management critical with limited harvesting on the straights. Recent races show close competition; starting last plus potential strategy/traffic issues could limit the team to fewer points than expected, especially if Ferrari's upgrade closes the PU gap.\",\n    \"is_team\": true,\n    \"referenced_id\": \"mercedes\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Ferrari scores a 1-2 finish with Leclerc winning in front of the tifosi, while championship leader Antonelli recovers from last to the podium\",\n    \"reasoning\": \"Ferrari's targeted PU upgrade and home motivation align perfectly with Monza's power-sensitive layout, breaking their recent pattern of strategy-induced podium misses. McLaren's recent wins (Hungary, Zandvoort) came on twistier tracks; their low-drag package may not match the upgraded Ferrari straight-line speed. Antonelli's penalty turns the weekend into a recovery test, but the long straights and overtake zones (plus his season-long consistency with 6 wins) make a charge to P3 plausible, surprising given the 59-point lead and back-of-grid start.\"\n  }\n}",
+      "tokensUsed": 36247,
+      "costUsd": 0.0630432,
+      "createdAt": "2026-09-04T07:29:32.889Z"
+    },
+    {
+      "id": 427,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"leclerc\",\n  \"podium\": [\"norris\", \"leclerc\", \"verstappen\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Monza's long straights, heavy braking zones and low-downforce setup requirements point toward teams with strong efficiency and power-unit deployment. Ferrari are traditionally highly competitive at Monza and Leclerc is the most likely qualifying threat, especially with home-track momentum. McLaren's recent all-round race pace and tyre management make Norris the strongest race pick, while Verstappen remains a major podium threat through execution and straight-line efficiency. No Sprint applies this weekend, and no specific grid penalties or mechanical issues are factored in.\"\n}",
+      "tokensUsed": 1109,
+      "costUsd": 0.01867,
+      "createdAt": "2026-09-04T07:29:32.639Z"
+    },
+    {
+      "id": 428,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"leclerc\", \"russell\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Lando Norris enters Monza with strong momentum after consecutive wins and poles in Hungary and Zandvoort, showing he is currently extracting peak performance from McLaren [worldinsport.com]. Monza's low-downforce layout should suit McLaren, and Pirelli predicts lap times two seconds quicker with the new 2026 power units [formula1.com]. Championship leader Kimi Antonelli will start from the back due to a PU grid penalty, effectively removing one Mercedes from the front-running battle [worldinsport.com]. This opens the door for Charles Leclerc, a previous Monza winner with Ferrari, and George Russell, who sits second in the championship, to challenge for the podium [formula1.com]. Norris is tipped for pole and victory based on current form, with Leclerc and Russell the most likely podium finishers in what is expected to be a one-stop race [worldinsport.com][formula1.com].\"\n}",
+      "tokensUsed": 3209,
+      "costUsd": 0.01000498,
+      "createdAt": "2026-09-04T07:29:32.643Z"
+    },
+    {
+      "id": 429,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Williams\",\"reasoning\":\"Monza is one of the few circuits where Williams' usual strengths can outweigh its weaknesses: low drag, strong straight-line efficiency, and drivers who are comfortable defending in DRS trains. Sainz should be highly motivated against Ferrari at their home race, while Albon has repeatedly overperformed at low-downforce venues. If the midfield is compressed, Williams has a realistic path to getting both cars into the top ten fight rather than just chasing opportunistic points.\",\"is_team\":true,\"referenced_id\":\"williams\"},\"flop\":{\"name\":\"Ferrari\",\"reasoning\":\"Ferrari will arrive with huge home pressure, but Monza can punish any compromise between straight-line speed, braking stability, and rear-tyre protection. If their package is slightly too draggy or too nervous over kerbs, they risk being stuck in the same DRS train as McLaren, Mercedes, and Williams rather than controlling the race. The Leclerc-Hamilton pairing raises expectations massively at Monza, so anything short of a podium will feel like an underperformance.\",\"is_team\":true,\"referenced_id\":\"ferrari\"},\"crazy_prediction\":{\"prediction\":\"Sainz qualifies ahead of both Ferraris and finishes in the top five for Williams.\",\"reasoning\":\"The surprise is not just Williams being quick, but Sainz beating Ferrari at Monza on merit. It is plausible because Monza rewards low-drag efficiency, slipstream execution, braking confidence, and clean race management more than peak downforce. If Williams nails the tow in qualifying and Ferrari gets trapped by home-pressure strategy or tyre-temperature compromises, Sainz has a real route to start high enough to survive the DRS trains and convert it into a top-five finish.\"}}",
+      "tokensUsed": 1759,
+      "costUsd": 0.03097,
+      "createdAt": "2026-09-04T07:29:32.888Z"
+    },
+    {
+      "id": 430,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Ferrari brings a significant second-spec engine upgrade focused on closing the 22 kW power deficit to Mercedes, specifically targeting the internal combustion engine and energy recovery. Monza is a power-sensitive circuit, and the team has designed a low-downforce aero package for the straights. With both Hamilton and Leclerc taking the upgrade without penalties, and Mercedes' Antonelli starting from the back, Ferrari is poised to outperform expectations and fight for the win.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"flop\": {\n    \"name\": \"Russell\",\n    \"reasoning\": \"George Russell is the lead Mercedes fighting at the front, but the team is at the limit of engine parts and appears less prepared to respond to Ferrari's engine upgrade. With McLaren's strong recent form and Ferrari's power boost, Russell risks being outgunned on Monza's long straights. He may struggle to match the pace of the upgraded Ferraris and the resurgent McLarens, leading to an underwhelming result relative to his championship position.\",\n    \"is_team\": false,\n    \"referenced_id\": \"russell\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"Kimi Antonelli recovers from a back-of-the-grid start to finish on the podium, while both Ferraris suffer race-ending reliability failures with their new engines.\",\n    \"reasoning\": \"Antonelli starts from the back due to a fresh power unit penalty, but Monza's easy overtaking and Mercedes' potent engine make a recovery drive plausible. Meanwhile, Ferrari is introducing an aggressive second-spec engine upgrade. Historically, new engine specs can carry reliability risks, and Monza's 'energy-starved' nature stresses hybrid components. A double Ferrari DNF would be a shocking twist, especially at their home race, while Antonelli's charge to the podium would defy the Italian curse and his grid penalty.\"\n  }\n}",
+      "tokensUsed": 3738,
+      "costUsd": 0.01171627,
+      "createdAt": "2026-09-04T07:29:32.890Z"
+    },
+    {
+      "id": 431,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\n    \"norris\",\n    \"russell\",\n    \"leclerc\"\n  ],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Lando Norris enters Monza as the clear favorite after dominant back-to-back victories at Hungary and Zandvoort. Championship leader Kimi Antonelli is taking a deliberate power unit grid penalty, removing him from pole contention and leaving his Mercedes teammate George Russell as the primary challenger. Under the new 2026 regulations, Monza's long straights present an extreme energy management challenge for the 350 kW hybrid systems, with top speeds expected to drop. Coupled with a declared heat hazard (34°C ambient, 57°C track), tyre and battery management will be critical. Norris is tipped to take pole and the win, with Russell securing second. Ferrari's Charles Leclerc, benefiting from an upgraded power unit, should round out the podium at the Scuderia's home race.\"\n}",
+      "tokensUsed": 2806,
+      "costUsd": 0.069602,
+      "createdAt": "2026-09-04T07:29:32.641Z"
+    },
+    {
+      "id": 432,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"norris\",\"podium\":[\"norris\",\"russell\",\"hamilton\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"Lando Norris enters Monza with tremendous momentum after back-to-back victories, including winning the Dutch GP from pole ahead of Antonelli and Russell. Championship leader Kimi Antonelli has confirmed a grid penalty for a new Mercedes power unit, taking him out of pole contention and likely out of podium reach despite strong Mercedes pace at Monza. This opens the door for teammate George Russell to capitalize on Mercedes' low-drag strength at the Temple of Speed. Lewis Hamilton, tied 2nd in the championship, will be hungry for a home Ferrari result and Ferrari has historically been competitive at Monza (Leclerc won here in 2024, Hamilton and Leclerc finished P4/P5 at Zandvoort). McLaren's overall car advantage, Norris's current form, and Monza's rewarding of qualifying pace make him the pole favorite. Weather is dry and hot (~32-33°C) with no rain expected. Verstappen crashed out at Zandvoort and Red Bull remains without engine upgrades that Mercedes and Ferrari have received, plus Lawson is filling in for injured Hadjar - limiting Red Bull's podium prospects despite Verstappen's historic Monza strength.\"}",
+      "tokensUsed": 58627,
+      "costUsd": 0.355175,
+      "createdAt": "2026-09-04T07:29:32.630Z"
+    },
+    {
+      "id": 433,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\n  \"good_surprise\": {\n    \"name\": \"Russell\",\n    \"reasoning\": \"With his teammate Antonelli taking a grid penalty and offering a slipstream in qualifying, Russell is perfectly positioned to exploit Mercedes' superior electrical efficiency on a track where energy management is critical.\",\n    \"is_team\": false,\n    \"referenced_id\": \"russell\"\n  },\n  \"flop\": {\n    \"name\": \"Ferrari\",\n    \"reasoning\": \"Despite the passionate home crowd and searing heat, Ferrari's power unit may struggle with the extreme energy recovery demands of the 2026 regulations at Monza compared to Mercedes and McLaren.\",\n    \"is_team\": true,\n    \"referenced_id\": \"ferrari\"\n  },\n  \"crazy_prediction\": {\n    \"prediction\": \"The race lead will change hands over 10 times in a MotoGP-style pack race, with drivers intentionally lifting on the straights to avoid leading.\",\n    \"reasoning\": \"Monza's lack of heavy braking zones makes energy recovery extremely difficult under the 2026 regulations. Combined with four active aero 'straight-mode' zones, leading is a massive disadvantage, forcing drivers to play tactical slipstreaming games and conserve battery until the final lap.\"\n  }\n}",
+      "tokensUsed": 3646,
+      "costUsd": 0.034992,
+      "createdAt": "2026-09-04T07:29:32.889Z"
+    },
+    {
+      "id": 434,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Williams\",\"reasoning\":\"Despite a dismal 2026 season sitting ninth in constructors with only 11 points, Monza is historically Williams's best circuit type. Albon himself has said low downforce and lack of combined cornering suits their car, and they have the Mercedes power unit — the best on the grid. After five weak races, Monza is where their fundamental car weaknesses are hidden. A double points finish would be a meaningful surprise.\",\"is_team\":true,\"referenced_id\":\"williams\"},\"flop\":{\"name\":\"Aston Martin\",\"reasoning\":\"Honda's chief engineer has admitted the power unit remains well behind Mercedes, and Monza's long straights punish power deficits harder than any other track. Alonso and Stroll are set for a tough weekend on the Temple of Speed.\",\"is_team\":true,\"referenced_id\":\"aston-martin\"},\"crazy_prediction\":{\"prediction\":\"Kimi Antonelli recovers from his grid penalty to finish on the podium at his home race\",\"reasoning\":\"Mercedes deliberately chose Monza to absorb Antonelli's engine penalty precisely because overtaking is viable and the Mercedes PU is dominant on this power-sensitive track. He leads the championship by 59 points on raw pace. A charge to P3 from a deep grid slot on debut home race would be a huge story but is grounded in Mercedes' strategic reasoning.\"}}",
+      "tokensUsed": 36936,
+      "costUsd": 0.23586,
+      "createdAt": "2026-09-04T07:29:32.887Z"
+    },
+    {
+      "id": 435,
+      "predictorId": "grok-4.20",
+      "predictorName": "Grok 4.20",
+      "companyName": "xAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Italian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"131\":[1269,1265,1266],\"132\":[1292],\"133\":[1310],\"134\":[1312],\"135\":[1317],\"136\":[1330],\"137\":[1333],\"138\":[1342],\"139\":[1344],\"140\":[1368]},\"reasoning\":\"Recent form shows Norris winning last two races (Hungary, Zandvoort) with McLaren upgrades suiting Monza's straight-line demands; Mercedes strong overall with Russell leading title challengers. Antonelli (champ leader) starts from back due to engine penalty, limiting podium but enabling big gains (experts predict top-5 recovery). Ferrari hungry at home but inconsistent lately. Podium: Norris (hot streak, favorite), Russell (strong odds, Mercedes pace), Leclerc (home boost, straight-line power). Pole: Norris (recent quali edge, betting fav over Russell/Antonelli). Colapinto over Gasly (recent Alpine momentum). 6 teams in Q3 (top 3 teams + midfield like Racing Bulls/Alpine). Mercedes for fastest pit (reliable, recent awards). 2 SC/VSC (Monza history of incidents in heat ~34C). Aston Martin most points (upgrades aiding Alonso's top-10s vs Williams). >12 positions gained (Antonelli from last, overtaking possible). Fastest lap: Russell (race pace). 17 classified (high-speed track, heat but dry forecast reduces DNFs).\"}",
+      "tokensUsed": 125778,
+      "costUsd": 0.1445752,
+      "createdAt": "2026-09-04T07:29:45.833Z"
+    },
+    {
+      "id": 436,
+      "predictorId": "gemini-3.1-pro",
+      "predictorName": "Gemini 3.1 Pro",
+      "companyName": "Google",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Italian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"131\": [\n      1265,\n      1269,\n      1266\n    ],\n    \"132\": [\n      1288\n    ],\n    \"133\": [\n      1309\n    ],\n    \"134\": [\n      1312\n    ],\n    \"135\": [\n      1321\n    ],\n    \"136\": [\n      1330\n    ],\n    \"137\": [\n      1334\n    ],\n    \"138\": [\n      1342\n    ],\n    \"139\": [\n      1344\n    ],\n    \"140\": [\n      1368\n    ]\n  },\n  \"reasoning\": \"Championship leader Kimi Antonelli is taking a grid penalty for an engine change, leaving his Mercedes teammate George Russell as the favorite for pole (potentially aided by a tow from Antonelli) and the race win. Lando Norris and Charles Leclerc are in strong form and should complete the podium. Antonelli's back-of-the-grid start in the fastest car makes him a lock for gaining >12 positions as he carves through the field. Williams' low-drag setup and strong driver pairing of Carlos Sainz and Alexander Albon should help them outscore Aston Martin. The new 2026 engine regulations and aggressive energy management at the 'Temple of Speed' are expected to cause a few mechanical DNFs, resulting in around 17 classified finishers.\"\n}",
+      "tokensUsed": 6527,
+      "costUsd": 0.044314,
+      "createdAt": "2026-09-04T07:29:45.833Z"
+    },
+    {
+      "id": 437,
+      "predictorId": "claude-opus-4.7",
+      "predictorName": "Claude Opus 4.7",
+      "companyName": "Anthropic",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Italian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"131\":[1269,1265,1267],\"132\":[1288],\"133\":[1309],\"134\":[1312],\"135\":[1318],\"136\":[1329],\"137\":[1334],\"138\":[1342],\"139\":[1348],\"140\":[1369]},\"reasoning\":\"2026 season context: Mercedes dominates with Antonelli leading championship (242 pts, 59 clear), but McLaren's Norris has won back-to-back (Hungary, Dutch GP). Antonelli takes back-of-grid engine penalty at Monza. Podium: Norris (in-form, won last 2) for P1, Russell P2 (Mercedes power unit suits Monza's long straights, and Antonelli may give him a tow), Hamilton P3 at Ferrari's home race with Schumacher-inspired livery. Pole: Russell — Mercedes has the fastest package especially at power-sensitive Monza, with Antonelli sacrificing his qualifying. Alpine: Gasly is the 2020 Monza winner with more experience over Colapinto. Q3 teams: 6 is typical at Monza. Fastest pit stop: Ferrari motivated at home race with fast crew. SC/VSC: 1 (Monza commonly has one intervention). Aston vs Williams: Williams stronger in constructors' standings with Sainz/Albon. Positions gained: >12 — Antonelli starting P22 with a fast Mercedes on an overtaking-friendly track can realistically gain 12+ spots (Hadjar gained 10 last year from pit lane). Fastest lap: Norris on soft tyres at end (McLaren pace + fresh rubber). Classified finishers: 18 is a solid median for Monza given full-throttle stress but reliable modern cars.\"}",
+      "tokensUsed": 118428,
+      "costUsd": 0.67276,
+      "createdAt": "2026-09-04T07:29:45.831Z"
+    },
+    {
+      "id": 438,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\"pole\":\"norris\",\"podium\":[\"norris\",\"russell\",\"hamilton\"],\"sprint_pole\":null,\"sprint_winner\":null,\"reasoning\":\"McLaren has won the last two races with Norris taking pole and victory at both Hungary and Zandvoort. Their recent upgrades have been highly successful, and Norris holds the Monza lap record from 2025. Russell will start on the front row due to Antonelli's grid penalty for a new power unit, making him the strongest Mercedes candidate. Hamilton and Ferrari arrive with a new engine specification and low-downforce Monza-specific package, with Hamilton expected to fight for the podium in front of the Tifosi. The long straights at Monza provide excellent overtaking opportunities (47 overtakes in 2025), but Norris's current form and McLaren's straight-line speed should secure pole. While Antonelli starts from the back, the 'home curse' history (no Italian winner at Monza since 1966) and energy management challenges in the race make a podium from the back unlikely despite Mercedes' power unit hopes.\"}",
+      "tokensUsed": 4301,
+      "costUsd": 0.0094567,
+      "createdAt": "2026-09-04T07:29:32.644Z"
+    },
+    {
+      "id": 439,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "subjective",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make subjective predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nResearch current F1 news, recent and season-long performance, circuit characteristics, upgrades, and championship context. For the crazy prediction, identify a meaningful pattern or expectation and predict a clear, genuinely surprising break from it that remains possible this weekend.",
+      "fullResponse": "{\"good_surprise\":{\"name\":\"Liam Lawson\",\"reasoning\":\"Red Bull had a challenging weekend at Zandvoort where Verstappen crashed early and Lawson managed P7. However, Lawson showed composure in his best race yet and Monza is a venue where Verstappen won last year despite a 5-place penalty. With Red Bull desperate to bounce back and Lawson gaining confidence after a solid recovery drive in Holland, he could capitalize on the high-energy management demands and overtaking opportunities at Monza. Red Bull's power unit has been strong, and with McLaren and Ferrari focused on each other, Lawson could slip into the points or even challenge for a podium in a quieter race than expected. He's had time to settle into the seat after the early-season pressure, and Monza's unique characteristics could play into his hands as he looks to prove his long-term future with the team.\",\"is_team\":false,\"referenced_id\":\"lawson\"},\"flop\":{\"name\":\"Fernando Alonso\",\"reasoning\":\"Aston Martin has shown glimpses of competitiveness but remains fundamentally behind the top four teams. At a circuit like Monza where raw engine power and aerodynamic efficiency matter most, Aston Martin's power unit lags behind Mercedes, Ferrari, and even McLaren. Alonso has extract miracles from inferior machinery throughout his career, but the ceiling appears lower this season than in previous years. With Ferrari bringing new upgrades and McLaren surging, the gap to the front is widening rather than closing. Alonso's home race at Monza is unlikely to provide the turnaround Aston Martin needs, and he could find himself struggling for pace against rivals with superior straight-line speed. The Tifosi will be focused on Ferrari while Alonso battles outside the top ten, extending his winless streak at a circuit where he's traditionally performed better.\",\"is_team\":false,\"referenced_id\":\"alonso\"},\"crazy_prediction\":{\"prediction\":\"Kimi Antonelli wins the Italian Grand Prix from the back of the grid, ending 73 years of Italian drought at Monza.\",\"reasoning\":\"Mercedes has installed a completely new power unit for Antonelli specifically because Monza offers the best overtaking opportunities on the calendar and their HPP unit is expected to be particularly potent here. The Mercedes engine was already strong at Zandvoort, and with a fresh, unrestricted unit, Antonelli will have maximum power deployment. He leads the championship by 59 points and has consistently exceeded expectations this season with six wins. The new generation cars are predicted to be two seconds faster than last year, making recovery drives more feasible. Mercedes has calculated this as the least damaging race for the penalty. With Ferrari distracted by home pressure and McLaren having their own targets, Antonelli could benefit from safety cars and strategic chaos. The home curse is real, but no Italian has faced this combination of factors: a fresh engine, championship leadership, proven race-winning ability, and a circuit designed for overtaking. Ascari's curse breaks here as the 20-year-old becomes Italy's first Monza winner since 1966.\"}}",
+      "tokensUsed": 4577,
+      "costUsd": 0.0095818,
+      "createdAt": "2026-09-04T07:29:32.891Z"
+    },
+    {
+      "id": 440,
+      "predictorId": "gpt-5.5",
+      "predictorName": "GPT-5.5",
+      "companyName": "OpenAI",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Italian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\":{\"131\":[1266,1268,1269],\"132\":[1289],\"133\":[1309],\"134\":[1313],\"135\":[1321],\"136\":[1330],\"137\":[1334],\"138\":[1342],\"139\":[1343],\"140\":[1371]},\"reasoning\":\"I weighted the picks toward Monza-specific performance: low-drag efficiency, braking stability into the chicanes, slipstream-sensitive qualifying, and Ferrari’s usual home-race strength. Leclerc is my bold pole/win call given Ferrari’s historic Monza upside, with Verstappen and Norris chosen as high-probability podium threats. Gasly remains the safer Alpine qualifying pick over Colapinto. I expect a mixed Q3 with seven teams represented, Red Bull to remain a strong pit-stop contender, and at least two SC/VSC interruptions due to Monza’s first-lap and chicane risk. Williams gets the nod over Aston Martin because Monza should suit its straight-line profile. Antonelli’s back-of-grid engine penalty makes him the obvious positions-gained and fastest-lap candidate if Mercedes race pace is strong on fresher tyres. Reliability is generally high, so I expect more than 19 classified finishers.\"}",
+      "tokensUsed": 4662,
+      "costUsd": 0.06696,
+      "createdAt": "2026-09-04T07:29:45.832Z"
+    },
+    {
+      "id": 441,
+      "predictorId": "minimax-m2.7",
+      "predictorName": "MiniMax M2.7",
+      "companyName": "MiniMax",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Italian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"131\": [1266, 1269, 1265],\n    \"132\": [1289],\n    \"133\": [1309],\n    \"134\": [1312],\n    \"135\": [1320],\n    \"136\": [1330],\n    \"137\": [1333],\n    \"138\": [1339],\n    \"139\": [1348],\n    \"140\": [1368]\n  },\n  \"reasoning\": \"Based on current F1 Fantasy analysis: Leclerc's exceptional Monza record (2 wins, top-4 finish every race as Ferrari driver) and Ferrari's home advantage make him the top podium pick at just 8pts. Norris (14pts) continues McLaren's momentum with back-to-back wins and strong Monza history (97pts in 2025). Russell (5pts) offers excellent value as Mercedes' best hope given Antonelli's grid penalties, with sportsbooks predicting Russell/Norris duel for the win. For qualifying, Leclerc (15pts) edges Norris (18pts) given his proven Monza pace. Gasly (10pts) over Colapinto (15pts) - Gasly won at Monza in 2020 and has the experience edge. Six teams in Q3 seems most realistic (McLaren, Ferrari, Mercedes, Red Bull, Aston Martin, Williams). McLaren for fastest pitstop given their current form. Two safety cars is the most common Monza outcome. Aston Martin with upgrades for most points scored. Norris for fastest lap at 18pts offers better value than Russell at 12pts given McLaren's current pace. 17 classified finishers is realistic for Monza's high-speed demands.\"\n}",
+      "tokensUsed": 16532,
+      "costUsd": 0.02282588,
+      "createdAt": "2026-09-04T07:29:45.835Z"
+    },
+    {
+      "id": 442,
+      "predictorId": "deepseek-v4-pro",
+      "predictorName": "DeepSeek V4 Pro",
+      "companyName": "DeepSeek",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Italian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\"answers\": {\"131\": [1270, 1269, 1266], \"132\": [1288], \"133\": [1310], \"134\": [1313], \"135\": [1321], \"136\": [1329], \"137\": [1334], \"138\": [1342], \"139\": [1346], \"140\": [1369]}, \"reasoning\": \"McLaren's strong form and Monza's power-sensitive layout favor Piastri and Norris for the podium, with Leclerc's Ferrari upgrades and home advantage securing third. Russell's qualifying consistency and Mercedes pace make him pole favorite. Williams' historical Monza performance and Colapinto's recent form edge out Gasly. Seven teams in Q3 reflects a competitive midfield. Red Bull's pit crew remains among the fastest. One safety car is typical for Monza's low attrition. Williams should outscore Aston Martin given Albon's and Colapinto's speed. Antonelli's back-of-grid start makes >12 positions gained likely. Hamilton's Monza record and fresh-tire pace could yield fastest lap. Low DNF history suggests 18 classified finishers.\"}",
+      "tokensUsed": 8446,
+      "costUsd": 0.026068859,
+      "createdAt": "2026-09-04T07:29:45.834Z"
+    },
+    {
+      "id": 443,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "fantasy",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make your picks for: \"Italian Grand Prix Fantasy\"\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, team performance, and any breaking news that might affect the outcomes. Be bold but informed — don't just pick the favorites for every question.",
+      "fullResponse": "{\n  \"answers\": {\n    \"131\": [1270, 1269, 1265],\n    \"132\": [1287],\n    \"133\": [1310],\n    \"134\": [1313],\n    \"135\": [1322],\n    \"136\": [1332],\n    \"137\": [1334],\n    \"138\": [1342],\n    \"139\": [1343],\n    \"140\": [1370]\n  },\n  \"reasoning\": \"McLaren carries dominant 2025 momentum into Monza and Oscar Piastri is specifically tipped by the F1 Fantasy Strategist to challenge for his maiden Italian GP victory, while Lando Norris is the betting favorite to duel George Russell for the win per sports.yahoo.com, making a McLaren 1-2 with Russell third a strong podium. Kimi Antonelli’s fresh engine and back-of-grid penalties make him the favorite for raw qualifying pace and a late-race fastest lap on softs, while sportsbooks project a recovery to P5 implying more than 12 positions gained. Franco Colapinto’s new contract and strong Monza form create value over Pierre Gasly, and Williams’ recent points trend and Alex Albon’s excellent Monza history gives them the edge over Aston Martin’s reliability risks. Seven teams typically reach Q3 at a power-sensitive circuit, and Audi’s Zandvoort pit stop speed combined with the question prompt points to a repeat. Monza is traditionally either incident-free or chaotic, so multiple Safety Cars are favored over the median, while modern reliability supports 19 classified finishers.\"\n}",
+      "tokensUsed": 19281,
+      "costUsd": 0.0585024,
+      "createdAt": "2026-09-04T07:29:45.835Z"
+    },
+    {
+      "id": 444,
+      "predictorId": "kimi-k2.6",
+      "predictorName": "Kimi K2.6",
+      "companyName": "Moonshot",
+      "category": "race_weekend",
+      "status": "success",
+      "errorMessage": null,
+      "promptUsed": "Make predictions for the Italian Grand Prix (Round 13, 2026-09-06) at Monza, Italy.\n\nThis is NOT a Sprint weekend. Set sprint_pole and sprint_winner to null.\n\nResearch the current state of Formula 1 before making your predictions. Consider recent form, track characteristics, and any news that might affect the race outcome.",
+      "fullResponse": "{\n  \"pole\": \"norris\",\n  \"podium\": [\"norris\", \"leclerc\", \"verstappen\"],\n  \"sprint_pole\": null,\n  \"sprint_winner\": null,\n  \"reasoning\": \"Based on the web search results, Lando Norris arrives at Monza with exceptional momentum—consecutive victories and poles at Hungary and Zandvoort, making him the pre-race favourite for the first time this season [livescore.com](https://www.livescore.com/en/news/formula1/italian-grand-prix-predictions-verstappen-sure-to-relish-monza/). While McLaren's high-downforce advantage from those circuits may not fully translate to Monza's low-drag requirements, Norris's current form is undeniable [worldinsport.com](https://worldinsport.com/italian-grand-prix-monza-preview/). Championship leader Kimi Antonelli faces a power-unit grid penalty that will send him to the back of the grid, removing a key contender from the front-row battle [planetf1.com](https://www.planetf1.com/features/italian-grand-prix-2026-predictions/). For the podium, Charles Leclerc represents Ferrari's best hope at their home circuit with strong recent consistency (2nd at Spa, 4th in Hungary, 5th at Zandvoort) and the emotional motivation of performing for the Tifosi [worldinsport.com](https://worldinsport.com/italian-grand-prix-monza-preview/). Max Verstappen is selected for P3 based on Red Bull's exceptional straight-line performance—ranked as the benchmark ICE by the FIA—and his dominant record at Monza with three wins in the last four years [livescore.com](https://www.livescore.com/en/news/formula1/italian-grand-prix-predictions-verstappen-sure-to-relish-monza/). George Russell and Lewis Hamilton are close contenders but Ferrari's home advantage and Verstappen's Monza-specific pace edge them out. Antonelli's recovery from the back is predicted to be impressive but likely limited to points rather than podium given the difficulty of overtaking at Monza despite its long straights.\"\n}",
+      "tokensUsed": 6491,
+      "costUsd": 0.02709729,
+      "createdAt": "2026-09-04T07:42:42.966Z"
+    }
+  ]
+}
